@@ -1,0 +1,13 @@
+﻿Product,Category, Standard_Price ,Supplier,Stock_Quantity,Reorder_Level,Inventory_Status
+Laptop,Electronics," ₹ 55,000 ",Supplier A,222,100,Available
+Monitor,Electronics," ₹ 12,000 ",Supplier B,393,50,Available
+Keyboard,Electronics," ₹ 1,500 ",Supplier B,249,20,Available
+Mouse,Electronics, ₹ 800 ,Supplier A,146,100,Available
+Headphones,Electronics," ₹ 2,500 ",Supplier C,441,50,Available
+Smartphone,Electronics," ₹ 28,000 ",Supplier B,95,100,Reorder
+Office Chair,Furniture," ₹ 8,500 ",Supplier B,256,20,Available
+Desk,Furniture," ₹ 12,000 ",Supplier B,324,20,Available
+Notebook,Stationery, ₹ 120 ,Supplier A,492,20,Available
+Pen Set,Stationery, ₹ 250 ,Supplier D,3,100,Reorder
+Backpack,Accessories," ₹ 1,800 ",Supplier B,15,100,Reorder
+USB Drive,Accessories, ₹ 900 ,Supplier D,279,20,Available
