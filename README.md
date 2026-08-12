@@ -6,18 +6,6 @@
 
 This project demonstrates an end-to-end **business analytics workflow** using a deliberately messy sales dataset. The objective is to convert raw transactional, customer, and product-master data into a reliable analytical dataset and actionable business insights.
 
-The project covers:
-
-- Data quality assessment and cleaning
-- Customer master standardization
-- Transaction validation
-- Product and inventory analysis
-- Revenue and contribution analysis
-- Customer segmentation
-- KPI development
-- Business decision support
-- Excel/Power BI dashboard readiness
-
 ### Source Data
 
 | Dataset | Records | Business Purpose |
@@ -51,6 +39,14 @@ The analytical problem is to answer:
 | Data Cleaning | Python, Pandas, NumPy |
 | Dashboarding | Power BI |
 | Version Control | GitHub |
+
+---
+
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](Dashboard/Dashboard_page_1.png)
+
+![Power BI Dashboard](Dashboard/Dashboard_page_2.png)
 
 ---
 
@@ -283,109 +279,4 @@ The customer master contains **{len(cust):,} customers** across four customer ty
 | VIP | 195 |
 | Regular | 165 |
 | New | 163 |
-| Premium | 161 |
-
-# 📊 Power BI Dashboard
-
-The project includes an interactive **Power BI dashboard** (`Dashboard.pbix`) that presents the cleaned and validated business data as an executive decision-support solution.
-
-> Place the Power BI file in the repository as `powerbi/Dashboard.pbix`.
-
-## Dashboard Objectives
-
-The dashboard is designed to answer:
-
-- How is revenue performing?
-- Which categories and products drive revenue?
-- Which states and sales channels perform best?
-- What is the order and payment status distribution?
-- Which products require inventory attention?
-- Where are the major operational and data-quality risks?
-
-## Dashboard Pages
-
-### 1. Executive Overview
-
-**KPI Cards**
-- Total Revenue
-- Total Orders
-- Unique Customers
-- Average Order Value
-- Total Quantity
-- Return Rate
-- Cancellation Rate
-
-**Visuals**
-- Revenue trend
-- Revenue by category
-- Revenue by sales channel
-- Top products
-- Geographic performance
-
-### 2. Sales Performance
-
-- Revenue by category
-- Top 10 products
-- Revenue contribution %
-- Sales-channel comparison
-- State-wise revenue
-- Quantity sold
-- Transaction volume
-
-### 3. Customer Analytics
-
-- Unique customers
-- Customer-type distribution
-- Revenue by customer segment
-- Top customers
-- Repeat-purchase behavior
-- RFM segmentation
-
-> The current project contains customer-type logic, but an industry implementation should use customer-level RFM segmentation rather than classifying customers only from transaction unit price.
-
-### 4. Inventory Analysis
-
-- Current stock vs reorder level
-- Reorder alerts
-- Stock-risk matrix
-- Product demand
-- Quantity sold by product
-
-**Current reorder-alert products identified:**
-- Smartphone
-- Pen Set
-- Backpack
-
-### 5. Data Quality & Operations
-
-Recommended monitoring:
-
-- Missing emails
-- Missing phone numbers
-- Missing unit prices
-- Duplicate records
-- Cancelled transactions
-- Returned transactions
-- Processing transactions
-- Payment-status distribution
-
-This page makes data-quality and operational risks visible to stakeholders.
-
-# 💼 Business Value
-
-This project demonstrates the ability to move from:
-
-**Messy Operational Data → Clean Data → Validated Metrics → Business Insights → Management Decisions**
-
-Key industry skills demonstrated:
-
-- Data cleaning
-- Data validation
-- KPI development
-- Business analysis
-- Customer analytics
-- Revenue analysis
-- Inventory analytics
-- Dashboard design thinking
-- Analytical quality control
-- Business decision support
+| Premium | 161 | 
