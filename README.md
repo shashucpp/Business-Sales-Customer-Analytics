@@ -1,6 +1,6 @@
 # Business Sales & Customer Analytics
 
-> **Industry-level Data Analytics Project | Python • Pandas • NumPy • Seaborn • Excel • Power BI • PostgreSQL**
+> **Industry-level Data Analytics Project | • Python (Pandas,NumPy) • Power BI **
 
 ## 📌 Project Overview
 
@@ -49,10 +49,8 @@ The analytical problem is to answer:
 | Area | Tools |
 |---|---|
 | Data Cleaning | Python, Pandas, NumPy |
-| Data Analysis | Pandas, NumPy |
 | Visualization | Seaborn, Matplotlib |
 | Dashboarding | Power BI |
-| Data Storage | Excel |
 | Version Control | GitHub |
 
 ---
