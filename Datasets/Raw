@@ -1,0 +1,1236 @@
+Customer_ID	Customer_Name	Email	Phone	City	State	Product	Category	Quantity	Unit_Price	Total_Sales	Order_Date	Payment_Status	Order_Status	Sales_Channel
+C0655	Neha Sharma	neha.sharma@gmail.com	8181241943	Rajkot	Gujarat	Mouse	Electronics	3	800	2400	2026-01-24 00:00:00	Paid	Returned	Online
+C0605	Kavita Sharma	kavita.sharma@gmail.com	7127978094	Ahmedabad	Gujarat	Mouse	Electronics	4	800	3200	2025-01-06 00:00:00	Paid	Returned	Online
+C0734	Riya Shah	riya.shah@gmail.com	7946785248	Jaipur	Rajasthan	Pen Set	Stationery	5	250	1250	2026-04-08 00:00:00	Paid	Shipped	Marketplace
+C0433	Vikas Verma	vikas.verma@gmail.com	7667779376	Rajkot	Gujarat	Smartphone	Electronics	2	28000	56000	2024-04-04 00:00:00	Refunded	Delivered	Store
+C0868	Anjali Yadav	anjali.yadav@gmail.com	8136108454	Lucknow	Uttar Pradesh	Laptop	Electronics	8	55000	440000	2025-07-03 00:00:00	Paid	Cancelled	Online
+C0566	Pooja Reddy	pooja.reddy@gmail.com	9699987374	Hyderabad	Telangana	Smartphone	Electronics	4	28000	112000	2025-12-22 00:00:00	Paid	Delivered	Marketplace
+C0234	Pooja Patel	pooja.patel@gmail.com	7999829240	Indore	Madhya Pradesh	Monitor	Electronics	-3	12000	84000	2024-10-11 00:00:00	Refunded	Processing	Online
+C0380	Anjali Singh	anjali.singh@gmail.com	9878380452	Mumbai	Maharashtra	USB Drive	Accessories	2	900	1800	2025-09-15 00:00:00	Pending	Returned	Marketplace
+C0251	Simran Joshi	simran.joshi@gmail.com	8629748727	Mumbai	Maharashtra	Backpack	Accessories	4	1800	7200	2025-12-02 00:00:00	Cancelled	Delivered	Online
+C0842	Priya Chauhan	priya.chauhan@gmail.com		Delhi	Delhi	Headphones	Electronics	2	2500	5000	2024-08-04 00:00:00	Cancelled	Shipped	Marketplace
+C0512	Suresh Kaur	suresh.kaur@gmail.com	9761027762	jaipur	Rajasthan	Keyboard	Electronics	5	1500	7500	2024-05-22 00:00:00	Pending	Returned	Marketplace
+C0270	Aditya Shah	aditya.shah@gmail.com	9506254832	Delhi	Delhi	Smartphone	Electronics	4	28000	112000	2024-05-21 00:00:00	Refunded	Delivered	Online
+C0882	Neha Kumar	neha.kumar@gmail.com	9694860228	Vadodara	Gujarat	Backpack	Accessories	7	1800	12600	2025-09-02 00:00:00	Paid	Cancelled	Store
+C0611	Mohit Gupta	mohit.gupta@gmail.com	8079815404	Bengaluru	Karnataka	Laptop	Electronics	2	55000	110000	2025-11-29 00:00:00	Cancelled	Processing	Online
+C0301	Kavita Kumar	kavita.kumar@gmail.com	8948728483	Surat	Gujarat	USB Drive	Accessories	5	900	4500	2025-05-27 00:00:00	Pending	Returned	Online
+C0892	Pooja Reddy	pooja.reddy@gmail.com	9744267175	Bengaluru	Karnataka	Pen Set	Stationery	4	250	1000	2024-06-05 00:00:00	Cancelled	Shipped	Marketplace
+C0798	Nikhil Kaur	nikhil.kaur@gmail.com	7002456273	Hyderabad	Telangana	Smartphone	Electronics	8	28000	224000	2024-01-20 00:00:00	Paid	Processing	Store
+C0246	Priya Singh	priya.singh@gmail.com	9436779490	Ahmedabad	Gujarat	Monitor	Electronics	8	12000	96000	2026-04-15 00:00:00	Paid	 Returned 	Online
+C0132	Sneha Gupta	sneha.gupta@gmail.com	7709214891	Mumbai	Maharashtra	Notebook	Stationery	7	120	840	2024-04-08 00:00:00	Pending	Processing	Store
+C0688	Anjali Joshi		9222971316	Jaipur	Rajasthan	Monitor	Electronics	4	12000	48000	2024-08-18 00:00:00	Paid	Processing	Online
+C0603	Riya Singh	riya.singh@gmail.com	9527331058	Rajkot	Gujarat	Laptop	Electronics	2	55000	110000	2025-12-25 00:00:00	Paid	Shipped	Online
+C0928	Priya Reddy	priya.reddy@gmail.com	8419179580	ahmedabad	Gujarat	Notebook	Stationery	4	120	480	2024-10-12 00:00:00	Refunded	Shipped	Marketplace
+C0136	Aditya Yadav		9030106617	Rajkot	Gujarat	Desk	Furniture	7	12000	84000	2024-07-13 00:00:00	Paid	Delivered	Marketplace
+C0442	Anjali Shah	anjali.shah@gmail.com	8765670844	Jaipur	Rajasthan	USB Drive	Accessories	1	900	900	2025-11-20 00:00:00	Paid	Delivered	Store
+C0746	Vikas Chauhan	vikas.chauhan@gmail.com	7469306919	Rajkot	Gujarat	Mouse	Electronics	4	800	3200	2025-07-03 00:00:00	Refunded	Shipped	Store
+C0188	Arjun Joshi	arjun.joshi@gmail.com	8072910527	Indore	Madhya Pradesh	Monitor	Electronics	8	12000	96000	2026-04-07 00:00:00	Paid	Delivered	Marketplace
+C0554	Rahul Patel	rahul.patel@gmail.com	8015242176	Vadodara	GUJARAT	Office Chair	Furniture	-2	8500	68000	2025-05-07 00:00:00	Pending	Cancelled	Online
+C0169	Suresh Sharma	suresh.sharma@gmail.com	8676848676	Mumbai	Maharashtra	Desk	Furniture	5		60000	2025-03-09 00:00:00	Refunded	Shipped	Online
+C0304	Karan Sharma	karan.sharma@gmail.com	9487560384	Kolkata	West Bengal	Notebook	Stationery	1	120	120	2026-02-04 00:00:00	Cancelled	Delivered	Online
+C0599	Sneha Gupta	sneha.gupta@gmail.com	9281169403	Vadodara	Gujarat	Laptop	Electronics	2	55000	110000	2026-05-21 00:00:00	Pending	Delivered	Marketplace
+C0070	Meena Shah	meena.shah@gmail.com	7514909066	Bhopal	Madhya Pradesh	Pen Set	Stationery	4	250	1000	2025-08-15 00:00:00	Paid	Returned	Online
+C0430	Aditya Yadav	aditya.yadav@gmail.com	9245334677	Pune	Maharashtra	Headphones	Electronics	4	2500	10000	2025-11-16 00:00:00	Cancelled	Shipped	Store
+C0406	Rohan Mishra	rohan.mishra@gmail.com	9772404776	Mumbai	Maharashtra	Desk	Furniture	6	12000	72000	2026-02-08 00:00:00	Paid	Delivered	Store
+C0637	  Aditya Patel 	aditya.patel@gmail.com		Bengaluru	Karnataka	Mouse	Electronics	5	800	4000	2024-05-15 00:00:00	Cancelled	Delivered	Online
+C0379	Pooja Kumar	pooja.kumar@gmail.com	8881988384	Indore	Madhya Pradesh	Notebook	Stationery	5	120	600	2025-09-18 00:00:00	Paid	Returned	Store
+C0680	Neha Kaur	neha.kaur@gmail.com	7576775951	Mumbai	Maharashtra	Monitor	Electronics	2	12000	24000	2026-01-30 00:00:00	Pending	Processing	Store
+C0620	Karan Desai	karan.desai@gmail.com		Rajkot	Gujarat	Backpack	Accessories	5	1800	9000	2025-06-01 00:00:00	Refunded	Processing	Online
+C0095	Kavita Reddy	kavita.reddy@gmail.com	8188332531	Surat	Gujarat	Laptop	Electronics	6	55000	330000	2026-02-28 00:00:00	Pending	Processing	Online
+C0760	Mohit Gupta	mohit.gupta@gmail.com	8836901321	Bengaluru	Karnataka	Laptop	Electronics	2	55000	110000	2024-03-18 00:00:00	Pending	Returned	Online
+C0855	Anjali Yadav	anjali.yadav@gmail.com	9373077218	Vadodara	Gujarat	Office Chair	Furniture	3	8500	25500	2024-02-12 00:00:00	Cancelled	Processing	Online
+C0921	Anjali Singh	anjali.singh@gmail.com	9929454134	Rajkot	Gujarat	Backpack	Accessories	2	1800	3600	2024-12-28 00:00:00	Refunded	Returned	Marketplace
+C0159	Meena Reddy	meena.reddy@gmail.com	7697939765	Lucknow	Uttar Pradesh	Keyboard	Electronics	7	1500	10500	2024-01-26 00:00:00	Pending	Processing	Store
+C0822	Meena Verma	meena.verma@gmail.com	7683749521	Lucknow	Uttar Pradesh	USB Drive	Accessories	2	900	1800	2025-01-26 00:00:00	paid	Cancelled	Online
+C0205	Mohit Mehta	mohit.mehta@gmail.com		Indore	Madhya Pradesh	Mouse	Electronics	4	800	3200	2024-01-25 00:00:00	Pending	Cancelled	Store
+C0286	Amit Chauhan	amit.chauhan@gmail.com	8198832728	Pune	Maharashtra	Backpack	Accessories	7	1800	12600	2025-11-26 00:00:00	Cancelled	Delivered	Online
+C0899	Arjun Kumar	arjun.kumar@gmail.com	9493613917	Mumbai	Maharashtra	Laptop	Electronics	2	55000	110000	2025-09-02 00:00:00	Refunded	Processing	Marketplace
+C0806	Vikas Shah	vikas.shah@gmail.com	9603647189	Bengaluru	Karnataka	Monitor	Electronics	7	12000	84000	2025-08-13 00:00:00	Pending	Processing	Online
+C0726	Kavita Sharma	kavita.sharma@gmail.com	9233040884	Bhopal	Madhya Pradesh	Notebook	Stationery	4	120	480	2025-01-07 00:00:00	Refunded	Delivered	Marketplace
+C0943	Vikas Yadav	vikas.yadav@gmail.com	8348257414	Chennai	Tamil Nadu	Monitor	Electronics	5	12000	60000	2025-06-03 00:00:00	Cancelled	Cancelled	Store
+C0413	Pooja Gupta	pooja.gupta@gmail.com	7546696950	Rajkot	Gujarat	Office Chair	Furniture	7	8500	59500	2025-11-24 00:00:00	Pending	Returned	Marketplace
+C0309	Suresh Gupta	suresh.gupta@gmail.com	7001743499	Mumbai	Maharashtra	Headphones	Electronics	4	2500	10000	2025-03-16 00:00:00	Cancelled	Cancelled	Store
+C0453	Karan Gupta	karan.gupta@gmail.com	9032319170	Lucknow	Uttar Pradesh	USB Drive	Accessories	3	900	2700	2025-11-05 00:00:00	Paid	Processing	Marketplace
+C0680	Isha Mehta	isha.mehta@gmail.com	7401094954	Indore	Madhya Pradesh	Mouse	Electronics	5	800	4000	2024-08-18 00:00:00	Pending	Shipped	Online
+C0048	Meena Joshi	meena.joshi@gmail.com	9625401719	Indore	Madhya Pradesh	Monitor	Electronics	8	12000	96000	2025-02-28 00:00:00	Pending	Cancelled	Store
+C0410	Meena Kumar	meena.kumar@gmail.com	9817747689	Kolkata	West Bengal	Laptop	Electronics	2	55000	110000	2026-08-03 00:00:00	Refunded	Shipped	Online
+C0824	Nikhil Joshi	nikhil.joshi@gmail.com	7215686308	Bengaluru	Karnataka	Mouse	Electronics	2	800	1600	2025-04-12 00:00:00	Pending	Cancelled	Marketplace
+C0544	Riya Yadav	riya.yadav@gmail.com	8362784338	Lucknow	Uttar Pradesh	Desk	Furniture	7	12000	84000	2026-04-30 00:00:00	Refunded	Shipped	Marketplace
+C0883	Sneha Joshi	sneha.joshi@gmail.com	8113219231	Lucknow	Uttar Pradesh	Mouse	Electronics	5	800	4000	2026-02-23 00:00:00	Refunded	Shipped	Store
+C0451	  Amit Desai 	amit.desai@gmail.com	8227193073	Rajkot	Gujarat	Headphones	Electronics	6	2500	15000	2024-11-23 00:00:00	Paid	Shipped	Online
+C0237	Suresh Desai	suresh.desai@gmail.com	7656293602	kolkata	West Bengal	Mouse	Electronics	2	800	1600	2025-02-28 00:00:00	Refunded	Processing	Marketplace
+C0478	Kavita Sharma	kavita.sharma@gmail.com	7888346940	Indore	Madhya Pradesh	Office Chair	Furniture	7	8500	59500	2026-02-27 00:00:00	Paid	Returned	Store
+C0489	Rahul Mehta		8282531582	Lucknow	Uttar Pradesh	Office Chair	Furniture	7	8500	59500	2025-07-05 00:00:00	Pending	Cancelled	Online
+C0280	Kavita Joshi	kavita.joshi@gmail.com	7124660666	Delhi	Delhi	Smartphone	Electronics	7	28000	196000	2026-01-11 00:00:00	Pending	Cancelled	Online
+C0638	Riya Sharma	riya.sharma@gmail.com	8692304102	Hyderabad	Telangana	Pen Set	Stationery	1	250	250	2024-03-26 00:00:00	refunded	Shipped	Store
+C0187	Priya Verma	priya.verma@gmail.com	8628238707	Pune	Maharashtra	Mouse	Electronics	8	800	6400	2024-11-30 00:00:00	Cancelled	Cancelled	Store
+C0771	Kavita Verma	kavita.verma@gmail.com	7351784589	Jaipur	Rajasthan	Laptop	Electronics	1	55000	55000	2024-12-24 00:00:00	Pending	Delivered	Marketplace
+C0042	Rahul Singh	rahul.singh@gmail.com	7856247605	Indore	Madhya Pradesh	Laptop	Electronics	3	55000	165000	2024-09-01 00:00:00	Pending	Cancelled	Marketplace
+C0118	Aditya Singh	aditya.singh@gmail.com	8997305752	Kolkata	West Bengal	Headphones	Electronics	6	2500	15000	2024-06-20 00:00:00	Paid	Shipped	Store
+C0111	Aditya Sharma	aditya.sharma@gmail.com	8339846171	Hyderabad	Telangana	Backpack	Accessories	7	1800	12600	2025-02-10 00:00:00	Pending	Delivered	Marketplace
+C0708	Meena Patel		9994421136	Lucknow	Uttar Pradesh	Headphones	Electronics	2	2500	5000	2026-03-26 00:00:00	Paid	Processing	Marketplace
+C0439	Anjali Patel	anjali.patel@gmail.com	9173085046	Chennai	Tamil Nadu	Smartphone	Electronics	1	28000	28000	2026-05-19 00:00:00	Refunded	Cancelled	Online
+C0444	Anjali Mishra	anjali.mishra@gmail.com	8974565461	Kolkata	West Bengal	Keyboard	Electronics	7	1500	10500	2024-06-29 00:00:00	Cancelled	Returned	Marketplace
+C0794	Sneha Joshi	sneha.joshi@gmail.com	8870778191	Indore	Madhya Pradesh	USB Drive	Accessories	5	900	4500	2024-11-26 00:00:00	Pending	Delivered	Store
+C0903	Mohit Singh	mohit.singh@gmail	8995907669	Hyderabad	Telangana	Pen Set	Stationery	7	250	1750	2024-12-10 00:00:00	Paid	Cancelled	Store
+C0187	Sneha Singh	sneha.singh@gmail.com	8523961606	Lucknow	Uttar Pradesh	Headphones	Electronics	6	2500	15000	2024-10-13 00:00:00	Cancelled	Returned	Online
+C0530	Karan Patel	karan.patel@gmail.com		Kolkata	West Bengal	Office Chair	Furniture	8	8500	68000	2025-07-22 00:00:00	Pending	Cancelled	Marketplace
+C0729	Sneha Joshi	sneha.joshi@gmail.com	7074059253	Ahmedabad	Gujarat	Headphones	Electronics	4	2500	10000	2025-02-18 00:00:00	Pending	Processing	Marketplace
+C0596	Anjali Joshi	anjali.joshi@gmail.com	9377148230	Bengaluru	Karnataka	Smartphone	Electronics	7	28000	196000	2026-02-02 00:00:00	Cancelled	Processing	Marketplace
+C0465	Arjun Verma	arjun.verma@gmail.com	8079770569	Rajkot	Gujarat	Monitor	Electronics	4	12000	47900	2024-11-19 00:00:00	Paid	Returned	Marketplace
+C0190	Karan Singh	karan.singh@gmail.com	9079617090	Mumbai	Maharashtra	USB Drive	Accessories	5	900	4500	2024-04-12 00:00:00	Pending	Processing	Online
+C0370	Simran Verma	simran.verma@gmail.com		Kolkata	West Bengal	Notebook	Stationery	3	120	360	2024-10-07 00:00:00	Paid	Delivered	Marketplace
+C0300	Rohan Mishra	rohan.mishra@gmail.com	9108307952	Ahmedabad	Gujarat	Laptop	Electronics	5	55000	275000	2025-04-25 00:00:00	Refunded	Cancelled	Store
+C0189	Priya Verma	priya.verma@gmail.com	9051831252	Ahmedabad	Gujarat	Monitor	Electronics	7	12000	84000	2025-05-18 00:00:00	Paid	Returned	Marketplace
+C0703	Priya Kumar	priya.kumar@gmail.com	7640798731	Lucknow	Uttar Pradesh	Pen Set	Stationery	5	250	1250	2024-03-28 00:00:00	Pending	Delivered	Marketplace
+C0783	Kavita Yadav	kavita.yadav@gmail.com	9560345306	Lucknow	Uttar Pradesh	Pen Set	Stationery	4	250	1000	2026-03-05 00:00:00	Refunded	 Cancelled 	Store
+C0305	Aditya Shah	aditya.shah@gmail.com	8311598149	Hyderabad	Telangana	Pen Set	Stationery	1	250	750	2025-09-16 00:00:00	Paid	Shipped	Marketplace
+C0217	Arjun Mishra	arjun.mishra@gmail.com	7348697524	Vadodara	Gujarat	Mouse	Electronics	3	800	2400	2025-07-19 00:00:00	Paid	Shipped	Online
+C0419	Mohit Desai	mohit.desai@gmail.com	9550399650	Jaipur	Rajasthan	Headphones	Electronics	1	2500	2500	2024-08-25 00:00:00	Cancelled	Processing	Marketplace
+C0881	Mohit Patel	mohit.patel@gmail.com	9952295757	rajkot	Gujarat	Headphones	Electronics	4	2500	10000	2025-03-11 00:00:00	Paid	Returned	Online
+C0664	Rohan Kaur	rohan.kaur@gmail.com	8140882778	Indore	Madhya Pradesh	Keyboard	Electronics	2	1500	3000	2024-03-02 00:00:00	Pending	Processing	Marketplace
+C0767	Aditya Kaur	aditya.kaur@gmail.com	8239573053	Jaipur	Rajasthan	Monitor	Electronics	8	12000	96000	2025-12-06 00:00:00	Cancelled	Cancelled	Store
+C0513	Riya Joshi	riya.joshi@gmail.com	8880160025	Ahmedabad	Gujarat	Pen Set	Stationery	1	250	250	2025-03-18 00:00:00	Cancelled	Returned	Store
+C0027	Amit Singh	amit.singh@gmail.com	9896089430	Indore	Madhya Pradesh	Pen Set	Stationery	1	250	250	2026-02-22 00:00:00	Cancelled	Returned	Online
+C0782	Simran Joshi	simran.joshi@gmail.com	9228932714	Chennai	Tamil Nadu	Desk	Furniture	5	12000	60000	2024-07-04 00:00:00	Refunded	Cancelled	Online
+C0482	Anjali Shah	anjali.shah@gmail.com	8431548670	Pune	Maharashtra	Backpack	Accessories	2	1800	3600	2026-05-28 00:00:00	Pending	Processing	Store
+C0711	Sneha Verma		9845774616	Delhi	Delhi	Notebook	Stationery	1	120	120	2025-04-10 00:00:00	Paid	Processing	Store
+C0332	Neha Chauhan	neha.chauhan@gmail.com		Indore	Madhya Pradesh	Notebook	Stationery	1	120	120	2025-11-04 00:00:00	Refunded	Cancelled	Online
+C0193	Nikhil Mehta	nikhil.mehta@gmail.com	9674192109	lucknow	Uttar Pradesh	Desk	Furniture	8	12000	96000	2026-02-17 00:00:00	Paid	Shipped	Store
+C0563	Rohan Kaur	rohan.kaur@gmail.com	8237075775	jaipur	Rajasthan	USB Drive	Accessories	8	900	7200	2024-05-04 00:00:00	Paid	Returned	Online
+C0727	Simran Verma	simran.verma@gmail.com	9365835550	Surat	Gujarat	Notebook	Stationery	7	120	840	2024-04-05 00:00:00	Pending	Delivered	Store
+C0121	  Rohan Joshi 	rohan.joshi@gmail.com	8253535854	Bengaluru	Karnataka	USB Drive	Accessories	5	900	4500	2025-03-01 00:00:00	Refunded	Cancelled	Online
+C0468	Riya Kumar		8647489402	Rajkot	Gujarat	Pen Set	Stationery	3	250	850	2026-06-03 00:00:00	Paid	Processing	Store
+C0349	Nikhil Verma	nikhil.verma@gmail	7011017705	Mumbai	Maharashtra	USB Drive	Accessories	5	900	4500	2026-07-05 00:00:00	Refunded	Shipped	Store
+C0552	Sneha Mehta	sneha.mehta@gmail.com	8427818730	Bengaluru	Karnataka	Notebook	Stationery	7	120	840	2025-04-11 00:00:00	Cancelled	Shipped	Marketplace
+C0245	Aditya Shah	aditya.shah@gmail.com	8003143045	Indore	Madhya Pradesh	Office Chair	Furniture	1	8500	8500	2024-11-21 00:00:00	Refunded	Cancelled	Store
+C0680	Rohan Joshi	rohan.joshi@gmail.com	7158998032	Vadodara	Gujarat	Notebook	Stationery	6	120	720	2026-06-09 00:00:00	Paid	Cancelled	Online
+C0539	Mohit Sharma	mohit.sharma@gmail.com	7619142798	Delhi	Delhi	Backpack	Accessories	3	1800	5400	2024-03-17 00:00:00	Refunded	Processing	Store
+C0639	Suresh Mishra	suresh.mishra@gmail.com	7344951668	indore	Madhya Pradesh	Smartphone	Electronics	7	28000	196000	2024-11-20 00:00:00	Refunded	Returned	Online
+C0633	  Amit Singh 	amit.singh@gmail	9710815922	Chennai	Tamil Nadu	Headphones	Electronics	4	2500	10000	2026-02-03 00:00:00	Paid	Cancelled	Online
+C0779	Neha Joshi	neha.joshi@gmail.com	7714531298	Kolkata	West Bengal	Headphones	Electronics	1	2500	2500	2024-02-17 00:00:00	Cancelled	Delivered	Store
+C0368	Anjali Shah	anjali.shah@gmail.com	7625217504	Rajkot	Gujarat	Notebook	Stationery	7	120	840	2025-08-02 00:00:00	Pending	Shipped	Online
+C0081	Isha Reddy	isha.reddy@gmail.com	8643015259	Hyderabad	Telangana	Backpack	Accessories	4	1800	7200	2025-05-24 00:00:00	Pending	Shipped	Store
+C0654	Arjun Joshi	arjun.joshi@gmail.com	8096619850	Chennai	Tamil Nadu	Laptop	Electronics	8	55000	440000	2024-10-21 00:00:00	Pending	Delivered	Store
+C0354	Aditya Verma	aditya.verma@gmail.com	9744220825	Delhi	Delhi	USB Drive	Accessories	5	900	4500	2025-12-04 00:00:00	Cancelled	Shipped	Store
+C0874	Sneha Patel	sneha.patel@gmail.com	8018790736	Delhi	Delhi	Pen Set	Stationery	6	250	1500	2025-08-11 00:00:00	Cancelled	Processing	Online
+C0850	Suresh Verma	suresh.verma@gmail.com	7034780500	Hyderabad	Telangana	Backpack	Accessories	1	1800	1800	2025-09-12 00:00:00	Refunded	Processing	Online
+C0622	Anjali Singh	anjali.singh@gmail.com	9734252963	Rajkot	Gujarat	Pen Set	Stationery	5	250	1250	2025-11-25 00:00:00	Pending	Delivered	Marketplace
+C0662	Priya Verma	priya.verma@gmail.com	8893321208	Surat	Gujarat	Pen Set	Stationery	6	250	1500	2026-01-19 00:00:00	Pending	Delivered	Store
+C0335	Kavita Kumar	kavita.kumar@gmail.com	7862407093	Vadodara	Gujarat	Notebook	Stationery	6	120	720	2025-06-27 00:00:00	Cancelled	Shipped	Store
+C0936	Sneha Chauhan	sneha.chauhan@gmail.com	8267622868	Kolkata	West Bengal	Smartphone	Electronics	2	28000	55900	2025-04-24 00:00:00	Paid	Shipped	Online
+C0881	Suresh Reddy	suresh.reddy@gmail.com	9393639475	Pune	Maharashtra	Monitor	Electronics	7	12000	84000	2024-01-15 00:00:00	Cancelled	Returned	Online
+C0466	Anjali Mishra	anjali.mishra@gmail.com	9887681752	Mumbai	Maharashtra	Pen Set	Stationery	7	250	1750	2026-04-22 00:00:00	Cancelled	Delivered	Marketplace
+C0240	Sneha Sharma	sneha.sharma@gmail.com	9660933507	Bhopal	Madhya Pradesh	Notebook	Stationery	6	120	720	2025-09-16 00:00:00	Pending	Delivered	Marketplace
+C0844	Mohit Kaur	mohit.kaur@gmail.com	8297896903	Chennai	TAMIL NADU	Office Chair	Furniture	2	8500	17000	2024-05-23 00:00:00	Paid	Delivered	Store
+C0505	Neha Patel	neha.patel@gmail.com	8008458444	Bhopal	Madhya Pradesh	Notebook	Stationery	3	120	360	2025-01-02 00:00:00	Refunded	Processing	Marketplace
+C0761	Riya Shah	riya.shah@gmail.com	9522607583	Kolkata	West Bengal	USB Drive	Accessories	3	900	2700	2025-02-28 00:00:00	Paid	Cancelled	Marketplace
+C0418	Arjun Sharma	arjun.sharma@gmail.com	9964732879	Pune	Maharashtra	Mouse	Electronics	8	800	6400	2025-03-31 00:00:00	Pending	Processing	Online
+C0703	Anjali Gupta	anjali.gupta@gmail.com	9769510048	Pune	Maharashtra	Laptop	Electronics	7	55000	385000	2024-10-09 00:00:00	Pending	Delivered	Store
+C0094	Karan Mishra	karan.mishra@gmail.com	9746601166	Hyderabad	Telangana	Laptop	Electronics	1	55000	55000	2026-03-16 00:00:00	Cancelled	Shipped	Online
+C0806	Aditya Singh	aditya.singh@gmail.com	7294678352	Indore	Madhya Pradesh	Notebook	Stationery	4	120	480	2025-08-23 00:00:00	Pending	Shipped	Store
+C0793	Rohan Chauhan	rohan.chauhan@gmail.com	9559721644	Surat	Gujarat	Headphones	Electronics	3	2500	7500	2024-05-13 00:00:00	Cancelled	Shipped	Online
+C0677	Rahul Kumar		7063824611	Pune	Maharashtra	Mouse	Electronics	6	800	4900	2024-01-17 00:00:00	Pending	Processing	Online
+C0130	Kavita Gupta	kavita.gupta@gmail.com	7488120041	Kolkata	West Bengal	Monitor	Electronics	8	12000	96000	2025-04-04 00:00:00	Cancelled	Returned	Marketplace
+C0112	Mohit Gupta	mohit.gupta@gmail.com	7951548935	Hyderabad	Telangana	Laptop	Electronics	5	55000	275000	2025-04-14 00:00:00	Paid	Delivered	Store
+C0868	Suresh Shah	suresh.shah@gmail	9946766309	Ahmedabad	Gujarat	Desk	Furniture	8	12000	96000	2024-03-16 00:00:00	Paid	Processing	Marketplace
+C0152	Amit Kumar		8181184718	Hyderabad	Telangana	Backpack	Accessories	6	1800	10800	2025-01-25 00:00:00	Cancelled	Cancelled	Marketplace
+C0620	Kavita Patel	kavita.patel@gmail.com	7491404673	Indore	Madhya Pradesh	Backpack	Accessories	4	1800	7200	2025-03-16 00:00:00	Refunded	Shipped	Store
+C0348	Mohit Shah	mohit.shah@gmail.com	8786661942	Kolkata	West Bengal	Monitor	Electronics	6	12000	72000	2025-03-13 00:00:00	Cancelled	Processing	Store
+C0157	Sneha Patel	sneha.patel@gmail.com	7391807468	Indore	Madhya Pradesh	Monitor	Electronics	2	12000	24000	2025-03-18 00:00:00	Paid	Processing	Online
+C0570	Priya Yadav	priya.yadav@gmail.com	9411995282	Bengaluru	Karnataka	Smartphone	Electronics	2	28000	56000	2025-02-24 00:00:00	Cancelled	Cancelled	Marketplace
+C0053	Pooja Yadav	pooja.yadav@gmail.com	8341957809	Pune	MAHARASHTRA	Monitor	Electronics	4	12000	48000	2024-06-07 00:00:00	Refunded	Shipped	Online
+C0359	Riya Mehta	riya.mehta@gmail.com	7493428666	Lucknow	Uttar Pradesh	Headphones	Electronics	4	2500	10000	2026-04-06 00:00:00	Refunded	Returned	Marketplace
+C0629	Riya Sharma	riya.sharma@gmail.com		Bhopal	Madhya Pradesh	Backpack	Accessories	-2	1800	9000	2024-01-30 00:00:00	Pending	Processing	Marketplace
+C0781	Pooja Kaur	pooja.kaur@gmail.com	8459535801	Pune	Maharashtra	Laptop	Electronics	3	55000	165000	2026-06-09 00:00:00	Pending	Returned	Marketplace
+C0411	Amit Kumar	amit.kumar@gmail.com	9719453060	Surat	Gujarat	Monitor	Electronics	4	12000	48000	2025-01-20 00:00:00	Refunded	Cancelled	Store
+C0162	Anjali Verma	anjali.verma@gmail.com	8393213895	Lucknow	Uttar Pradesh	Pen Set	Stationery	2	250	500	2024-02-23 00:00:00	Pending	Shipped	Marketplace
+C0051	Amit Verma	amit.verma@gmail.com	8903155722	Chennai	Tamil Nadu	Office Chair	Furniture	8	8500	68000	2025-09-13 00:00:00	Refunded	Cancelled	Store
+C0221	Nikhil Patel	nikhil.patel@gmail.com	8482506118	Delhi	Delhi	Monitor	Electronics	5	12000	60000	2025-11-25 00:00:00	Refunded	Returned	Marketplace
+C0316	Priya Singh		8697643337	Hyderabad	Telangana	Laptop	Electronics	1	55000	55000	2024-07-28 00:00:00	Cancelled	Shipped	Online
+C0783	Arjun Verma	arjun.verma@gmail.com	8409274786	Ahmedabad	Gujarat	Laptop	Electronics	8	55000	440000	2026-02-03 00:00:00	Refunded	Shipped	Online
+C0390	Riya Desai	riya.desai@gmail.com	7988317990	Bengaluru	Karnataka	Notebook	Stationery	6	120	720	2024-03-14 00:00:00	Refunded	Delivered	Store
+C0020	Mohit Kaur	mohit.kaur@gmail.com	7334417350	Indore	Madhya Pradesh	Smartphone	Electronics	7	28000	196000	2025-08-10 00:00:00	Refunded	Cancelled	Store
+C0118	Suresh Sharma	suresh.sharma@gmail.com	8394868732	Vadodara	Gujarat	Pen Set	Stationery	8	250	2000	2026-05-01 00:00:00	Cancelled	Delivered	Store
+C0865	Neha Singh		8871216424	hyderabad	TELANGANA	Office Chair	Furniture	2	8500	17000	2025-02-09 00:00:00	Cancelled	Processing	Online
+C0342	Simran Patel	simran.patel@gmail.com	9192509020	Chennai	Tamil Nadu	Monitor	Electronics	4	12000	48000	2026-03-05 00:00:00	Cancelled	Processing	Marketplace
+C0839	Rohan Singh	rohan.singh@gmail.com	7441542090	Vadodara	Gujarat	Headphones	Electronics	4	2500	10000	2024-06-26 00:00:00	Pending	Delivered	Online
+C0792	Sneha Joshi	sneha.joshi@gmail.com	9421225455	Lucknow	Uttar Pradesh	Pen Set	Stationery	8	250	2000	2025-11-28 00:00:00	Cancelled	Processing	Online
+C0451	Amit Joshi	amit.joshi@gmail.com	8899269162	Chennai	Tamil Nadu	Headphones	Electronics	5	2500	12500	2025-08-28 00:00:00	Paid	Processing	Marketplace
+C0076	Pooja Joshi	pooja.joshi@gmail.com	8940955281	Surat	Gujarat	Laptop	Electronics	6	55000	330000	2026-05-01 00:00:00	Cancelled	Delivered	Marketplace
+C0885	Amit Yadav	amit.yadav@gmail.com	9551553388	Bengaluru	KARNATAKA	Office Chair	Furniture	8	8500	68000	2025-08-17 00:00:00	Paid	Cancelled	Marketplace
+C0668	Karan Mehta	karan.mehta@gmail.com	9598480273	Jaipur	Rajasthan	Notebook	Stationery	3	120	360	2024-03-04 00:00:00	Refunded	Delivered	Store
+C0732	Amit Gupta	amit.gupta@gmail.com	9775094726	Vadodara	Gujarat	Laptop	Electronics	4	55000	220000	2025-12-25 00:00:00	Refunded	Cancelled	Marketplace
+C0536	Isha Kumar	isha.kumar@gmail.com	8562929828	Pune	Maharashtra	Headphones	Electronics	7	2500	17600	2025-02-22 00:00:00	Cancelled	Returned	Online
+C0809	Vikas Patel	vikas.patel@gmail.com		Ahmedabad	Gujarat	Notebook	Stationery	7	120	840	2024-10-17 00:00:00	Cancelled	Returned	Online
+C0342	Amit Yadav	amit.yadav@gmail.com	9850192297	Vadodara	Gujarat	Smartphone	Electronics	5	28000	140000	2025-11-02 00:00:00	Refunded	Shipped	Marketplace
+C0726	Amit Verma	amit.verma@gmail.com	9400552009	Delhi	Delhi	Backpack	Accessories	6	1800	10800	2026-12-04 00:00:00	Pending	Returned	Online
+C0662	Kavita Gupta	kavita.gupta@gmail.com	8554039848	Surat	Gujarat	Smartphone	Electronics	5	28000	140000	2024-07-03 00:00:00	Pending	Processing	Store
+C0197	Meena Kumar	meena.kumar@gmail.com	7665484476	Ahmedabad	Gujarat	Headphones	Electronics	2	2500	5000	2025-06-03 00:00:00	Paid	Processing	Marketplace
+C0135	Isha Shah	isha.shah@gmail.com	7662510569	Vadodara	Gujarat	Keyboard	Electronics	3	1500	4500	2026-01-08 00:00:00	Refunded	Delivered	Store
+C0374	Meena Joshi	meena.joshi@gmail.com	9622487366	mumbai	Maharashtra	USB Drive	Accessories	8	900	7200	2024-08-27 00:00:00	Pending	Processing	Store
+C0926	Karan Mehta	karan.mehta@gmail.com	9913305623	Hyderabad	Telangana	Desk	Furniture	8	12000	96000	2026-02-26 00:00:00	Cancelled	Cancelled	Marketplace
+C0541	Kavita Kumar	kavita.kumar@gmail.com	7857695227	Lucknow	Uttar Pradesh	Pen Set	Stationery	3	250	750	2026-06-12 00:00:00	Cancelled	Delivered	Marketplace
+C0493	  Anjali Gupta 	anjali.gupta@gmail.com	7440619526	Kolkata	West Bengal	Notebook	Stationery	2	120	240	2024-10-18 00:00:00	Paid	Shipped	Store
+C0461	Nikhil Kumar	nikhil.kumar@gmail.com	8878930355	Ahmedabad	Gujarat	Mouse	Electronics	8	800	6400	2024-12-23 00:00:00	Paid	Cancelled	Online
+C0406	Nikhil Mehta	nikhil.mehta@gmail.com	8012659111	Delhi	Delhi	Monitor	Electronics	6	12000	72000	2024-08-17 00:00:00	Paid	Processing	Online
+C0860	Vikas Chauhan	vikas.chauhan@gmail.com	7627276995	Vadodara	Gujarat	Laptop	Electronics	5	55000	275000	2026-04-29 00:00:00	Refunded	Shipped	Marketplace
+C0481	Mohit Yadav	mohit.yadav@gmail.com	7022553699	Bhopal	Madhya Pradesh	Monitor	Electronics	1	12000	12000	2024-09-19 00:00:00	Pending	Shipped	Marketplace
+C0745	Isha Gupta	isha.gupta@gmail.com	8817865363	Ahmedabad	Gujarat	Headphones	Electronics	4	2500	10000	2024-11-04 00:00:00	Paid	Delivered	Online
+C0430	Isha Joshi	isha.joshi@gmail.com	7269754673	Ahmedabad	Gujarat	Desk	Furniture	1	12000	12000	2025-10-09 00:00:00	Pending	Shipped	Store
+C0440	Rahul Yadav	rahul.yadav@gmail.com	8515333350	Rajkot	Gujarat	Pen Set	Stationery	7	250	1750	2024-07-10 00:00:00	Paid	Returned	Store
+C0070	Nikhil Gupta	nikhil.gupta@gmail.com	9178955870	lucknow	Uttar Pradesh	Notebook	Stationery	1	120	120	2025-02-03 00:00:00	Refunded	Delivered	Marketplace
+C0397	Anjali Verma	anjali.verma@gmail.com	7069759864	Pune	Maharashtra	Monitor	Electronics	6	12000	72000	2024-09-03 00:00:00	Paid	Returned	Marketplace
+C0775	Vikas Kumar	vikas.kumar@gmail.com	7190420322	Pune	Maharashtra	Notebook	Stationery	6	120	720	2026-04-13 00:00:00	pending	Cancelled	Marketplace
+C0491	Simran Chauhan	simran.chauhan@gmail.com	7579187439	Ahmedabad	Gujarat	USB Drive	Accessories	8	900	7200	2024-02-07 00:00:00	Cancelled	Shipped	Online
+C0811	Karan Kaur	karan.kaur@gmail.com	7179984654	Pune	Maharashtra	Headphones	Electronics	7	2500	17500	2026-04-14 00:00:00	Refunded	Processing	Online
+C0772	Karan Verma	karan.verma@gmail.com	8533192415	Indore	Madhya Pradesh	Laptop	Electronics	6	55000	330000	2024-10-06 00:00:00	Paid	Processing	Store
+C0911	Suresh Desai	suresh.desai@gmail.com	8888654461	Bhopal	Madhya Pradesh	Office Chair	Furniture	6	8500	51000	2024-07-10 00:00:00	Refunded	Cancelled	Store
+C0947	Nikhil Verma	nikhil.verma@gmail.com	7354813720	Kolkata	West Bengal	Office Chair	Furniture	2	8500	17000	2025-03-16 00:00:00	Pending	Returned	Store
+C0329	Neha Patel	neha.patel@gmail.com	8408405265	chennai	Tamil Nadu	Headphones	Electronics	5	2500	12500	2025-04-01 00:00:00	Refunded	Shipped	Marketplace
+C0455	Anjali Joshi	anjali.joshi@gmail.com	7181914018	Kolkata	West Bengal	Smartphone	Electronics	7	28000	196000	2024-10-08 00:00:00	Paid	Delivered	Marketplace
+C0653	Suresh Mehta	suresh.mehta@gmail.com	9203687670	Lucknow	Uttar Pradesh	USB Drive	Accessories	3	900	2700	2024-02-01 00:00:00	Pending	Returned	Marketplace
+C0801	Mohit Sharma	mohit.sharma@gmail.com	7542153826	Ahmedabad	Gujarat	Mouse	Electronics	6	800	4800	2025-01-05 00:00:00	Refunded	Returned	Online
+C0620	Rohan Mishra	rohan.mishra@gmail.com	8932402710	Pune	Maharashtra	Smartphone	Electronics	8		224000	2026-02-20 00:00:00	Paid	Returned	Online
+C0543	Anjali Shah	anjali.shah@gmail.com	8350275186	Chennai	Tamil Nadu	Headphones	Electronics	-1	2500	10000	2024-04-26 00:00:00	Paid	Shipped	Store
+C0531	Suresh Kaur	suresh.kaur@gmail.com		Ahmedabad	Gujarat	Headphones	Electronics	5	2500	12500	2025-12-21 00:00:00	Refunded	Shipped	Marketplace
+C0293	Sneha Singh	sneha.singh@gmail.com	7526723719	Vadodara	Gujarat	Monitor	Electronics	8	12000	96000	2024-06-25 00:00:00	Refunded	Delivered	Marketplace
+C0866	Vikas Mishra	vikas.mishra@gmail.com	8492180259	Kolkata	West Bengal	Monitor	Electronics	5	12000	60000	2024-11-03 00:00:00	Pending	Shipped	Store
+C0521	Meena Patel	meena.patel@gmail.com	7863204110	Lucknow	Uttar Pradesh	Keyboard	Electronics	4	1500	6000	2026-03-20 00:00:00	Refunded	Delivered	Store
+C0568	Aditya Mehta	aditya.mehta@gmail.com	9007492791	Lucknow	Uttar Pradesh	Notebook	Stationery	3	120	360	2025-09-18 00:00:00	Paid	Delivered	Store
+C0408	Sneha Gupta	sneha.gupta@gmail.com	8764351603	Lucknow	Uttar Pradesh	Office Chair	Furniture	2	8500	17000	2024-05-08 00:00:00	Cancelled	Delivered	Store
+C0478	  Nikhil Mehta 	nikhil.mehta@gmail.com	7551192946	Bhopal	Madhya Pradesh	Notebook	Stationery	3	120	360	2026-02-25 00:00:00	Pending	Cancelled	Marketplace
+C0933	Priya Reddy	priya.reddy@gmail.com	7533267960	Bengaluru	Karnataka	Keyboard	Electronics	5	1500	7500	2024-06-17 00:00:00	Pending	Processing	Marketplace
+C0231	Anjali Gupta	anjali.gupta@gmail.com	8219978197	Indore	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2024-07-20 00:00:00	Cancelled	Shipped	Marketplace
+C0311	Isha Gupta	isha.gupta@gmail.com	7401271939	Bengaluru	Karnataka	Backpack	Accessories	3	1800	5400	2025-08-29 00:00:00	Pending	Shipped	Marketplace
+C0640	Isha Mehta	isha.mehta@gmail.com	9420721027	Surat	Gujarat	Laptop	Electronics	2		110000	2024-02-16 00:00:00	Cancelled	Shipped	Marketplace
+C0427	Isha Mishra	isha.mishra@gmail.com	7130076950	Jaipur	Rajasthan	Backpack	Accessories	5	1800	9000	2025-10-19 00:00:00	Cancelled	Cancelled	Online
+C0825	Suresh Verma	suresh.verma@gmail	8947957237	Ahmedabad	Gujarat	USB Drive	Accessories	1	900	900	2024-06-10 00:00:00	Refunded	Cancelled	Store
+C0476	Karan Mehta	karan.mehta@gmail.com	9605585995	Vadodara	Gujarat	Smartphone	Electronics	-3	28000	168000	2026-01-21 00:00:00	Cancelled	Cancelled	Online
+C0779	Anjali Gupta	anjali.gupta@gmail.com	9412273600	Ahmedabad	Gujarat	Smartphone	Electronics	4	28000	112000	2025-04-22 00:00:00	Paid	Processing	Store
+C0254	  Rohan Patel 	rohan.patel@gmail.com	7217348079	Mumbai	Maharashtra	Office Chair	Furniture	7	8500	59500	2024-09-11 00:00:00	Pending	Processing	Marketplace
+C0739	Vikas Singh			Jaipur	Rajasthan	Notebook	Stationery	8	120	960	2025-05-25 00:00:00	Cancelled	Cancelled	Online
+C0093	Suresh Gupta	suresh.gupta@gmail.com	8963790638	Rajkot	Gujarat	Mouse	Electronics	6	800	4800	2024-02-19 00:00:00	Paid	Processing	Store
+C0612	Sneha Verma	sneha.verma@gmail.com	9305069227	Surat	Gujarat	Monitor	Electronics	7	12000	84000	2024-05-17 00:00:00	Cancelled	Processing	Store
+C0375	Priya Shah	priya.shah@gmail.com	7219720597	Hyderabad	Telangana	Notebook	Stationery	4	120	480	2025-01-06 00:00:00	Cancelled	Delivered	Store
+C0517	Mohit Chauhan	mohit.chauhan@gmail.com	9361618235	Mumbai	MAHARASHTRA	Pen Set	Stationery	2	250	500	2024-05-11 00:00:00	Paid	Cancelled	Store
+C0814	Vikas Gupta	vikas.gupta@gmail.com	8570267413	lucknow	Uttar Pradesh	Keyboard	Electronics	4	1500	6000	2025-08-09 00:00:00	Refunded	Returned	Online
+C0047	Priya Kumar	priya.kumar@gmail.com	8430398942	Lucknow	UTTAR PRADESH	Desk	Furniture	8	12000	96000	2024-06-01 00:00:00	Pending	Processing	Marketplace
+C0327	Simran Shah	simran.shah@gmail.com	9647849438	Kolkata	West Bengal	Headphones	Electronics	6	2500	15000	2025-06-03 00:00:00	Refunded	Returned	Store
+C0487	Rahul Mehta	rahul.mehta@gmail.com	8422663210	Chennai	Tamil Nadu	Monitor	Electronics	7	12000	84000	2025-08-20 00:00:00	Cancelled	Delivered	Marketplace
+C0486	  Arjun Mishra 	arjun.mishra@gmail.com	9484528348	Hyderabad	Telangana	Mouse	Electronics	1	800	800	2025-08-20 00:00:00	Refunded	Shipped	Marketplace
+C0645	Isha Chauhan		8632905061	Vadodara	Gujarat	Backpack	Accessories	4	1800	7200	2024-02-02 00:00:00	Paid	Shipped	Online
+C0452	Vikas Shah	vikas.shah@gmail.com	7650392310	Delhi	Delhi	USB Drive	Accessories	4	900	3600	2025-02-24 00:00:00	refunded	Delivered	Marketplace
+C0142	Nikhil Singh	nikhil.singh@gmail.com	9408990341	Pune	Maharashtra	Backpack	Accessories	8	1800	14400	2025-06-22 00:00:00	Refunded	Processing	Online
+C0471	Riya Mehta	riya.mehta@gmail	9346225613	Pune	Maharashtra	Backpack	Accessories	5	1800	9000	2025-09-16 00:00:00	Refunded	Shipped	Online
+C0286	Riya Verma	riya.verma@gmail.com	7965796553	Mumbai	Maharashtra	Headphones	Electronics	4	2500	10000	2025-12-07 00:00:00	Refunded	Processing	Store
+C0358	  Riya Kaur 	riya.kaur@gmail.com	8174491176	Mumbai	Maharashtra	Monitor	Electronics	7	12000	84000	2025-02-08 00:00:00	Cancelled	 Shipped 	Store
+C0044	Pooja Desai	pooja.desai@gmail.com	7339428835	pune	Maharashtra	Desk	Furniture	5	12000	60000	2026-02-04 00:00:00	Refunded	Shipped	Online
+C0848	Riya Verma	riya.verma@gmail	9413849014	Kolkata	West Bengal	Headphones	Electronics	3	2500	7500	2024-04-21 00:00:00	Pending	Shipped	Online
+C0686	Nikhil Singh	nikhil.singh@gmail.com	9739951076	Rajkot	Gujarat	Laptop	Electronics	2	55000	110000	2025-02-27 00:00:00	Cancelled	Cancelled	Online
+C0698	Rohan Sharma	rohan.sharma@gmail.com	9363746243	Bhopal	Madhya Pradesh	Keyboard	Electronics	7	1500	10500	2025-10-30 00:00:00	Refunded	Cancelled	Marketplace
+C0205	Pooja Mehta	pooja.mehta@gmail.com	8225849566	Chennai	Tamil Nadu	Laptop	Electronics	2		110000	2025-10-29 00:00:00	Pending	Returned	Marketplace
+C0741	Priya Kaur	priya.kaur@gmail.com	7751897503	Delhi	Delhi	Keyboard	Electronics	1	1500	1500	2026-05-06 00:00:00	Refunded	Cancelled	Online
+C0767	Pooja Kaur	pooja.kaur@gmail.com	7160916026	Surat	Gujarat	Headphones	Electronics	2	2500	5000	2024-12-09 00:00:00	Cancelled	Cancelled	Marketplace
+C0557	Nikhil Joshi	nikhil.joshi@gmail.com	7576384364	Indore	Madhya Pradesh	Notebook	Stationery	8	120	960	2024-10-06 00:00:00	Pending	Delivered	Store
+C0167	Mohit Mishra		8104944224	Kolkata	West Bengal	Keyboard	Electronics	1	1500	2000	2026-01-24 00:00:00	Cancelled	Processing	Marketplace
+C0691	Karan Kumar	karan.kumar@gmail	9624029587	Indore	Madhya Pradesh	Backpack	Accessories	7	1800	12600	2026-04-26 00:00:00	Refunded	Returned	Store
+C0089	Suresh Mishra	suresh.mishra@gmail.com	7409675904	Vadodara	Gujarat	Keyboard	Electronics	8	1500	12000	2024-11-27 00:00:00	Pending	Delivered	Store
+C0393	Meena Joshi	meena.joshi@gmail.com	8146731886	Pune	Maharashtra	Headphones	Electronics	1	2500	2500	2024-09-24 00:00:00	Cancelled	Shipped	Online
+C0684	Neha Joshi	neha.joshi@gmail.com	8317723211	Vadodara	Gujarat	Office Chair	Furniture	5	8500	42500	2025-12-07 00:00:00	Paid	Processing	Store
+C0630	Meena Singh	meena.singh@gmail.com	7573673552	Jaipur	Rajasthan	Keyboard	Electronics	8	1500	12000	2026-02-04 00:00:00	Cancelled	Cancelled	Marketplace
+C0563	Sneha Chauhan	sneha.chauhan@gmail.com	9308620882	Lucknow	Uttar Pradesh	Backpack	Accessories	4	1800	7200	2026-02-19 00:00:00	Pending	Returned	Online
+C0539	Mohit Gupta	mohit.gupta@gmail.com	8553854176	Ahmedabad	Gujarat	Pen Set	Stationery	2	250	500	2024-03-04 00:00:00	Pending	Returned	Marketplace
+C0154	  Simran Mehta 	simran.mehta@gmail.com	9234849897	Jaipur	Rajasthan	Monitor	Electronics	4	12000	48000	2026-01-04 00:00:00	Refunded	Delivered	Marketplace
+C0457	Priya Joshi	priya.joshi@gmail.com	7566696611	Bengaluru	Karnataka	Office Chair	Furniture	8	8500	68000	2025-07-31 00:00:00	Paid	Returned	Store
+C0689	Pooja Desai	pooja.desai@gmail.com		Delhi	Delhi	Headphones	Electronics	1	2500	2500	2026-02-02 00:00:00	Pending	Returned	Online
+C0047	Kavita Mehta	kavita.mehta@gmail.com	7273846739	bengaluru	Karnataka	Laptop	Electronics	2	55000	110000	2025-04-28 00:00:00	Paid	Processing	Store
+C0185	Rohan Chauhan	rohan.chauhan@gmail.com	9755328890	Kolkata	West Bengal	Backpack	Accessories	7	1800	12600	2025-01-18 00:00:00	Refunded	Cancelled	Store
+C0385	Amit Mishra	amit.mishra@gmail.com	9842377282	Indore	Madhya Pradesh	Notebook	Stationery	3	120	360	2025-10-31 00:00:00	Cancelled	Delivered	Online
+C0551	Suresh Gupta	suresh.gupta@gmail.com		Kolkata	West Bengal	Mouse	Electronics	1	800	800	2026-02-13 00:00:00	Paid	Processing	Store
+C0690	Riya Shah	riya.shah@gmail.com	9284637470	Delhi	Delhi	Mouse	Electronics	4	800	3200	2025-04-16 00:00:00	Cancelled	Shipped	Store
+C0194	Neha Sharma		9835527487	delhi	Delhi	Pen Set	Stationery	1	250	250	2024-09-03 00:00:00	Pending	Delivered	Online
+C0609	Priya Joshi	priya.joshi@gmail.com	9567466567	Chennai	Tamil Nadu	USB Drive	Accessories	1	900	900	2024-09-07 00:00:00	Paid	 Cancelled 	Store
+C0240	Riya Singh	riya.singh@gmail.com	7242425303	Vadodara	Gujarat	Notebook	Stationery	5	120	600	2024-08-27 00:00:00	Cancelled	Returned	Marketplace
+C0792	Vikas Singh	vikas.singh@gmail.com	8296068379	Bhopal	Madhya Pradesh	Keyboard	Electronics	4	1500	6000	2025-02-27 00:00:00	Cancelled	Processing	Online
+C0571	Aditya Kaur	aditya.kaur@gmail.com		Chennai	Tamil Nadu	Backpack	Accessories	7	1800	12600	2025-07-23 00:00:00	Refunded	Delivered	Store
+C0659	Suresh Chauhan	suresh.chauhan@gmail.com	9252551683	Pune	Maharashtra	USB Drive	Accessories	7	900	6300	2025-02-22 00:00:00	Pending	Processing	Store
+C0189	Riya Joshi	riya.joshi@gmail.com	8034950478	Indore	Madhya Pradesh	Mouse	Electronics	5	800	4000	2026-05-28 00:00:00	Pending	Cancelled	Online
+C0576	Kavita Shah	kavita.shah@gmail.com	9393528385	Bengaluru	Karnataka	Keyboard	Electronics	7	1500	10500	2024-09-05 00:00:00	Cancelled	Shipped	Store
+C0663	Amit Kaur	amit.kaur@gmail.com	8931819683	indore	Madhya Pradesh	Smartphone	Electronics	2	28000	56000	2025-07-02 00:00:00	Pending	Delivered	Store
+C0387	Isha Yadav	isha.yadav@gmail.com	7169855455	Indore	Madhya Pradesh	Monitor	Electronics	4	12000	48000	2026-04-03 00:00:00	Pending	Cancelled	Online
+C0891	Vikas Verma	vikas.verma@gmail.com	7065857791	Rajkot	Gujarat	Mouse	Electronics	2	800	1500	2026-03-02 00:00:00	Refunded	Shipped	Marketplace
+C0619	Karan Shah	karan.shah@gmail.com	8027918636	Bengaluru	Karnataka	Smartphone	Electronics	5	28000	140000	2025-01-24 00:00:00	Refunded	Returned	Marketplace
+C0368	Pooja Verma	pooja.verma@gmail.com	8544661869	Bengaluru	Karnataka	Desk	Furniture	8	12000	96000	2024-04-10 00:00:00	Refunded	Processing	Online
+C0380	Vikas Shah	vikas.shah@gmail.com	7196346343	Hyderabad	Telangana	Mouse	Electronics	3	800	2400	2024-01-17 00:00:00	Cancelled	Returned	Marketplace
+C0594	Kavita Verma	kavita.verma@gmail.com	7654602021	Rajkot	Gujarat	Smartphone	Electronics	4	28000	112000	2025-01-23 00:00:00	Pending	Cancelled	Marketplace
+C0671	Vikas Verma	vikas.verma@gmail.com	9098611616	Kolkata	West Bengal	Backpack	Accessories	8	1800	14400	2025-04-16 00:00:00	Pending	Processing	Online
+C0144	Riya Joshi	riya.joshi@gmail.com	7790479137	Bhopal	MADHYA PRADESH	Notebook	Stationery	1	120	120	2025-06-20 00:00:00	Paid	Delivered	Marketplace
+C0050	Rahul Shah	rahul.shah@gmail.com	7590521614	Indore	Madhya Pradesh	Backpack	Accessories	4	1800	7200	2024-03-10 00:00:00	Pending	Delivered	Online
+C0518	Mohit Mehta	mohit.mehta@gmail.com		Hyderabad	Telangana	Backpack	Accessories	8	1800	14400	2025-11-06 00:00:00	Refunded	Delivered	Online
+C0545	Riya Shah	riya.shah@gmail.com	7050899550	Surat	Gujarat	Notebook	Stationery	5	120	600	2025-07-02 00:00:00	Cancelled	Delivered	Marketplace
+C0833	Kavita Chauhan	kavita.chauhan@gmail.com	7769945233	Ahmedabad	Gujarat	Monitor	Electronics	3	12000	36000	2024-09-03 00:00:00	Pending	Returned	Marketplace
+C0259	Anjali Verma	anjali.verma@gmail.com	8704657157	Ahmedabad	Gujarat	Smartphone	Electronics	7	28000	196000	2025-04-15 00:00:00	Pending	Shipped	Store
+C0701	Amit Mishra	amit.mishra@gmail.com	9791275402	Lucknow	Uttar Pradesh	Laptop	Electronics	2	55000	110000	2025-02-19 00:00:00	Refunded	Cancelled	Marketplace
+C0488	Priya Mishra	priya.mishra@gmail.com	7040588163	Kolkata	West Bengal	Keyboard	Electronics	2	1500	3000	2025-05-26 00:00:00	Refunded	Processing	Marketplace
+C0879	Neha Kaur	neha.kaur@gmail.com	9268426402	Bhopal	Madhya Pradesh	Laptop	Electronics	4	55000	220000	2024-08-04 00:00:00	Refunded	Processing	Online
+C0947	Amit Mishra	amit.mishra@gmail.com	8204192904	Bhopal	Madhya Pradesh	Notebook	Stationery	1	120	120	2024-07-02 00:00:00	Cancelled	Delivered	Online
+C0602	Rohan Chauhan	rohan.chauhan@gmail.com	8710668371	Bhopal	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2024-06-15 00:00:00	Pending	Returned	Store
+C0694	Riya Mehta	riya.mehta@gmail.com	8648606935	Lucknow	Uttar Pradesh	USB Drive	Accessories	3	900	2700	2026-03-20 00:00:00	Paid	Returned	Marketplace
+C0355	Priya Patel	priya.patel@gmail.com	8877279755	Rajkot	Gujarat	Monitor	Electronics	6	12000	72000	2025-09-11 00:00:00	Refunded	Processing	Online
+C0650	Arjun Chauhan	arjun.chauhan@gmail.com	8935098341	Jaipur	Rajasthan	Mouse	Electronics	6	800	4800	2025-07-20 00:00:00	Refunded	Cancelled	Online
+C0697	Aditya Mishra	aditya.mishra@gmail.com	8632399901	Ahmedabad	Gujarat	Pen Set	Stationery	5	250	1250	2026-03-28 00:00:00	Pending	Delivered	Online
+C0275	Rohan Shah	rohan.shah@gmail.com	9722583581	Vadodara	Gujarat	USB Drive	Accessories	7	900	6300	2024-11-20 00:00:00	Cancelled	Delivered	Online
+C0006	Pooja Joshi	pooja.joshi@gmail.com	8545833869	lucknow	Uttar Pradesh	Headphones	Electronics	2	2500	5000	2024-05-15 00:00:00	Paid	Shipped	Store
+C0460	Riya Gupta	riya.gupta@gmail.com	9200916676	Delhi	Delhi	Monitor	Electronics	1	12000	12000	2024-01-04 00:00:00	Cancelled	Returned	Online
+C0612	Isha Chauhan	isha.chauhan@gmail.com	8393417638	indore	Madhya Pradesh	Office Chair	Furniture	1	8500	8500	2024-10-25 00:00:00	Refunded	Cancelled	Online
+C0743	Riya Kaur	riya.kaur@gmail.com	8042571199	Hyderabad	Telangana	Notebook	Stationery	3	120	360	2025-02-12 00:00:00	Refunded	Shipped	Online
+C0276	Pooja Verma	pooja.verma@gmail.com	9117951204	Vadodara	Gujarat	Monitor	Electronics	3	12000	36000	2025-03-21 00:00:00	Cancelled	Cancelled	Store
+C0496	Amit Mehta	amit.mehta@gmail.com	8081042134	Rajkot	Gujarat	USB Drive	Accessories	8	900	7200	2025-08-31 00:00:00	Pending	Cancelled	Online
+C0139	Pooja Sharma	pooja.sharma@gmail.com	8699484121	Pune	Maharashtra	Pen Set	Stationery	7	250	1750	2026-04-03 00:00:00	Cancelled	Cancelled	Store
+C0441	Isha Kumar	isha.kumar@gmail.com	8290359719	Pune	Maharashtra	Pen Set	Stationery	4	250	1000	2025-05-05 00:00:00	Cancelled	Shipped	Store
+C0327	Pooja Desai	pooja.desai@gmail.com	9984820893	Chennai	Tamil Nadu	Desk	Furniture	-3	12000	48000	2024-11-29 00:00:00	refunded	Processing	Store
+C0374	Neha Kaur	neha.kaur@gmail.com	9421719519	Rajkot	Gujarat	Pen Set	Stationery	3	250	750	2025-11-29 00:00:00	Paid	Cancelled	Marketplace
+C0215	Mohit Chauhan	mohit.chauhan@gmail.com	8251258015	Indore	Madhya Pradesh	USB Drive	Accessories	2	900	1800	2026-04-18 00:00:00	Refunded	Cancelled	Online
+C0649	Pooja Singh	pooja.singh@gmail.com	8085259583	Chennai	Tamil Nadu	Keyboard	Electronics	7	1500	10500	2026-03-19 00:00:00	Refunded	Delivered	Store
+C0613	Sneha Yadav	sneha.yadav@gmail.com	8721444792	Bengaluru	Karnataka	Notebook	Stationery	7	120	840	2025-07-10 00:00:00	Paid	Processing	Marketplace
+C0917	Riya Yadav	riya.yadav@gmail.com	9740963777	Bhopal	Madhya Pradesh	Monitor	Electronics	2	12000	24000	2026-02-26 00:00:00	Pending	Processing	Online
+C0663	Isha Sharma	isha.sharma@gmail.com	9419012709	Chennai	Tamil Nadu	Backpack	Accessories	7	1800	12600	2026-02-09 00:00:00	Cancelled	Cancelled	Online
+C0011	Neha Verma		7953487391	Bengaluru	Karnataka	USB Drive	Accessories	4	900	3600	2025-04-01 00:00:00	Cancelled	Cancelled	Store
+C0791	Aditya Desai	aditya.desai@gmail.com	9149484176	Vadodara	Gujarat	Smartphone	Electronics	1	28000	28000	2025-05-09 00:00:00	Paid	Processing	Store
+C0943	Amit Patel	amit.patel@gmail.com	7608490241	Pune	Maharashtra	Headphones	Electronics	6	2500	15000	2025-04-11 00:00:00	Pending	Returned	Store
+C0357	Sneha Patel	sneha.patel@gmail.com	8881908383	Kolkata	West Bengal	USB Drive	Accessories	8		7200	2024-11-22 00:00:00	Paid	Processing	Online
+C0830	  Neha Sharma 	neha.sharma@gmail.com	8473508573	Chennai	Tamil Nadu	Monitor	Electronics	3	12000	36000	2026-01-28 00:00:00	Pending	Returned	Online
+C0566	Simran Mehta	simran.mehta@gmail.com	9404532947	Delhi	Delhi	Desk	Furniture	4	12000	48000	2026-03-27 00:00:00	refunded	Shipped	Online
+C0656	Kavita Shah	kavita.shah@gmail.com	7125379850	kolkata	West Bengal	Pen Set	Stationery	4	250	1000	2025-04-05 00:00:00	Refunded	Cancelled	Online
+C0722	Karan Singh	karan.singh@gmail.com	8195481928	Lucknow	Uttar Pradesh	USB Drive	Accessories	2	900	1800	2025-08-14 00:00:00	Paid	Returned	Online
+C0375	Vikas Singh	vikas.singh@gmail.com	8965164102	Ahmedabad	Gujarat	Headphones	Electronics	8	2500	20000	2025-06-24 00:00:00	Cancelled	Returned	Store
+C0626	Suresh Yadav	suresh.yadav@gmail.com	7490623034	Pune	Maharashtra	Smartphone	Electronics	8	28000	224000	2025-09-24 00:00:00	Pending	Processing	Marketplace
+C0605	Amit Mishra	amit.mishra@gmail.com	7575301286	Pune	Maharashtra	Monitor	Electronics	4	12000	48000	2024-11-08 00:00:00	Paid	Shipped	Store
+C0711	  Rohan Gupta 	rohan.gupta@gmail.com	8668437028	Delhi	Delhi	Pen Set	Stationery	3	250	750	2025-08-11 00:00:00	Refunded	Cancelled	Online
+C0499	Riya Desai	riya.desai@gmail.com	9771370988	Bhopal	Madhya Pradesh	Keyboard	Electronics	3	1500	4500	2025-05-16 00:00:00	Cancelled	Shipped	Online
+C0323	Mohit Yadav	mohit.yadav@gmail.com	7230258601	Indore	Madhya Pradesh	Smartphone	Electronics	1	28000	28000	2025-05-11 00:00:00	Pending	Shipped	Store
+C0576	Nikhil Mishra	nikhil.mishra@gmail.com	9125879326	Delhi	Delhi	Backpack	Accessories	8	1800	14400	2025-03-01 00:00:00	Refunded	Cancelled	Online
+C0085	Aditya Sharma	aditya.sharma@gmail.com	7947167036	Mumbai	Maharashtra	Laptop	Electronics	5	55000	275000	2024-08-18 00:00:00	Cancelled	Shipped	Store
+C0580	Sneha Gupta	sneha.gupta@gmail.com	9193894984	Ahmedabad	Gujarat	Pen Set	Stationery	2	250	500	2024-01-10 00:00:00	Cancelled	Returned	Online
+C0779	Mohit Gupta	mohit.gupta@gmail.com	7938630454	Delhi	Delhi	Monitor	Electronics	4	12000	48000	2024-10-31 00:00:00	Paid	Cancelled	Store
+C0357	Amit Joshi	amit.joshi@gmail.com	7504169141	Lucknow	UTTAR PRADESH	Mouse	Electronics	4	800	3200	2026-04-10 00:00:00	Cancelled	Returned	Marketplace
+C0439	Simran Yadav	simran.yadav@gmail.com	7598009614	Lucknow	Uttar Pradesh	Mouse	Electronics	4	800	3200	2026-04-04 00:00:00	Paid	Returned	Store
+C0546	Arjun Yadav	arjun.yadav@gmail.com	9313993297	Vadodara	Gujarat	Smartphone	Electronics	5	28000	140000	2024-10-23 00:00:00	Cancelled	Returned	Marketplace
+C0835	Neha Kumar	neha.kumar@gmail.com	8767792297	Bhopal	Madhya Pradesh	Laptop	Electronics	5	55000	275000	2026-06-06 00:00:00	Pending	Shipped	Online
+C0150	Vikas Reddy	vikas.reddy@gmail.com	8063239503	Lucknow	Uttar Pradesh	Backpack	Accessories	7	1800	12600	2025-05-16 00:00:00	Pending	Returned	Marketplace
+C0276	Kavita Shah	kavita.shah@gmail.com	8941289685	Ahmedabad	Gujarat	Backpack	Accessories	2	1800	3600	2025-02-16 00:00:00	Cancelled	Processing	Store
+C0500	Vikas Yadav	vikas.yadav@gmail.com	7010621799	Indore	Madhya Pradesh	USB Drive	Accessories	2	900	1800	2026-01-18 00:00:00	Refunded	Processing	Online
+C0815	Riya Shah	riya.shah@gmail.com	7935572425	Delhi	Delhi	Mouse	Electronics	8	800	6400	2024-10-01 00:00:00	Cancelled	Processing	Store
+C0561	Aditya Kumar	aditya.kumar@gmail.com	9431561831	Indore	Madhya Pradesh	Desk	Furniture	6	12000	72000	2025-11-29 00:00:00	Paid	Delivered	Online
+C0642	Mohit Sharma	mohit.sharma@gmail.com	7533594595	Bhopal	Madhya Pradesh	Keyboard	Electronics	8	1500	12000	2025-12-04 00:00:00	Paid	Cancelled	Online
+C0706	Rohan Kaur	rohan.kaur@gmail.com	9791716713	Mumbai	Maharashtra	Keyboard	Electronics	5	1500	7500	2024-04-05 00:00:00	Cancelled	Processing	Online
+C0381	Simran Sharma	simran.sharma@gmail.com	8702274064	Chennai	Tamil Nadu	Headphones	Electronics	4	2500	10000	2025-03-15 00:00:00	Paid	Delivered	Online
+C0219	Sneha Patel	sneha.patel@gmail.com	7569941254	Hyderabad	Telangana	Mouse	Electronics	8	800	6400	2024-01-10 00:00:00	Paid	Processing	Online
+C0881	Kavita Desai	kavita.desai@gmail.com	7567687951	Jaipur	Rajasthan	Monitor	Electronics	4	12000	48000	2025-01-27 00:00:00	Paid	Delivered	Online
+C0321	Anjali Kaur	anjali.kaur@gmail.com	8285291868	Vadodara	Gujarat	Office Chair	Furniture	3	8500	25500	2025-10-18 00:00:00	Pending	Delivered	Marketplace
+C0577	Rahul Yadav	rahul.yadav@gmail.com	9791815554	Vadodara	Gujarat	Desk	Furniture	6	12000	72000	2026-01-09 00:00:00	Pending	Shipped	Store
+C0631	Mohit Reddy	mohit.reddy@gmail.com	7933058809	Ahmedabad	Gujarat	Monitor	Electronics	3	12000	36000	2026-02-09 00:00:00	Paid	Returned	Marketplace
+C0394	Anjali Shah	anjali.shah@gmail.com	8350782959	Lucknow	Uttar Pradesh	Keyboard	Electronics	4	1500	6000	2024-10-10 00:00:00	Paid	Shipped	Marketplace
+C0616	Isha Desai	isha.desai@gmail.com	9609592494	Mumbai	Maharashtra	USB Drive	Accessories	1	900	900	2026-05-18 00:00:00	Cancelled	Shipped	Marketplace
+C0622	Nikhil Singh	nikhil.singh@gmail.com	8682557807	Mumbai	Maharashtra	Backpack	Accessories	1	1800	1800	2026-03-13 00:00:00	Pending	Cancelled	Store
+C0116	Meena Joshi	meena.joshi@gmail.com	9740542751	Hyderabad	Telangana	Monitor	Electronics	1	12000	12000	2025-01-04 00:00:00	Cancelled	Shipped	Store
+C0882	  Aditya Shah 	aditya.shah@gmail.com	8569434583	Bengaluru	Karnataka	Backpack	Accessories	3	1800	5400	2026-02-20 00:00:00	Refunded	Delivered	Online
+C0602	Amit Sharma	amit.sharma@gmail.com	8126077199	Rajkot	Gujarat	Laptop	Electronics	1	55000	55000	2026-03-19 00:00:00	Refunded	Returned	Store
+C0644	Nikhil Chauhan	nikhil.chauhan@gmail.com	8784266819	Delhi	Delhi	USB Drive	Accessories	7	900	6300	2024-03-25 00:00:00	Pending	Processing	Online
+C0318	Amit Gupta		7872726570	Lucknow	Uttar Pradesh	Keyboard	Electronics	6	1500	9000	2025-02-04 00:00:00	Paid	Processing	Marketplace
+C0448	Meena Sharma	meena.sharma@gmail.com	8050032570	Ahmedabad	Gujarat	Office Chair	Furniture	2	8500	17000	2025-04-09 00:00:00	Paid	Processing	Marketplace
+C0760	Simran Patel	simran.patel@gmail.com	7054395639	Kolkata	West Bengal	Keyboard	Electronics	-1	1500	1500	2024-06-16 00:00:00	Refunded	Processing	Marketplace
+C0530	Arjun Kumar		8597167064	Vadodara	Gujarat	USB Drive	Accessories	5		4500	2026-01-20 00:00:00	Paid	Delivered	Store
+C0827	Kavita Verma	kavita.verma@gmail.com	9249936731	Ahmedabad	Gujarat	Headphones	Electronics	2	2500	5000	2025-05-23 00:00:00	Refunded	Returned	Store
+C0057	Sneha Reddy	sneha.reddy@gmail.com	9434757387	Vadodara	Gujarat	Smartphone	Electronics	3	28000	84000	2024-09-18 00:00:00	Paid	Returned	Marketplace
+C0741	Neha Singh	neha.singh@gmail.com	9185386258	Surat	Gujarat	Laptop	Electronics	1	55000	55000	2024-09-07 00:00:00	Paid	Cancelled	Store
+C0393	Rohan Kumar	rohan.kumar@gmail.com	7151885397	Bengaluru	Karnataka	USB Drive	Accessories	7	900	6300	2024-08-17 00:00:00	Cancelled	Shipped	Store
+C0938	Vikas Verma	vikas.verma@gmail.com	7334522402	Hyderabad	Telangana	Smartphone	Electronics	2	28000	56000	2025-05-29 00:00:00	Paid	Shipped	Online
+C0824	Nikhil Sharma	nikhil.sharma@gmail.com	8721959126	ahmedabad	Gujarat	Desk	Furniture	-2	12000	60000	2026-03-03 00:00:00	Cancelled	Processing	Online
+C0567	Mohit Sharma	mohit.sharma@gmail.com	8584496586	Rajkot	Gujarat	Headphones	Electronics	5	2500	12500	2026-01-27 00:00:00	Pending	Cancelled	Store
+C0606	Sneha Chauhan	sneha.chauhan@gmail.com		Kolkata	West Bengal	Notebook	Stationery	-1	120	480	2024-06-03 00:00:00	Paid	Cancelled	Online
+C0239	Riya Mehta	riya.mehta@gmail.com	9731349392	Indore	Madhya Pradesh	USB Drive	Accessories	1	900	900	2024-12-09 00:00:00	Paid	Cancelled	Marketplace
+C0745	Pooja Patel	pooja.patel@gmail.com	7881303105	Bengaluru	Karnataka	Mouse	Electronics	7	800	5600	2025-05-18 00:00:00	Paid	Shipped	Marketplace
+C0287	Amit Sharma	amit.sharma@gmail.com	7994167107	Bhopal	Madhya Pradesh	Notebook	Stationery	7	120	840	2025-12-18 00:00:00	Cancelled	Cancelled	Marketplace
+C0087	Aditya Patel	aditya.patel@gmail.com	9170795726	Vadodara	Gujarat	Backpack	Accessories	7	1800	12600	2024-03-17 00:00:00	Paid	Cancelled	Marketplace
+C0134	Meena Verma	meena.verma@gmail.com	8120947541	Indore	Madhya Pradesh	Smartphone	Electronics	7	28000	196000	2025-12-18 00:00:00	Cancelled	Processing	Store
+C0279	Meena Patel	meena.patel@gmail.com	7870644102	Vadodara	Gujarat	Pen Set	Stationery	2	250	500	2024-08-06 00:00:00	Paid	Shipped	Store
+C0478	Vikas Shah	vikas.shah@gmail.com	7518560332	Bengaluru	Karnataka	Smartphone	Electronics	4	28000	112500	2025-04-07 00:00:00	Cancelled	Cancelled	Store
+C0873	Neha Patel	neha.patel@gmail.com	7676952884	Lucknow	Uttar Pradesh	Backpack	Accessories	5	1800	9000	2026-04-26 00:00:00	paid	Shipped	Store
+C0152	Amit Desai	amit.desai@gmail.com	8066091571	Pune	Maharashtra	Office Chair	Furniture	1	8500	8500	2025-11-24 00:00:00	Cancelled	Processing	Online
+C0032	Suresh Reddy	suresh.reddy@gmail.com	8942189222	Bengaluru	Karnataka	USB Drive	Accessories	4	900	3600	2024-04-06 00:00:00	Refunded	Delivered	Online
+C0125	Rahul Sharma	rahul.sharma@gmail	7954720281	Vadodara	Gujarat	Mouse	Electronics	7	800	5600	2025-01-16 00:00:00	Paid	Returned	Marketplace
+C0266	Amit Sharma	amit.sharma@gmail.com	7276905285	Rajkot	Gujarat	Backpack	Accessories	8	1800	14400	2026-04-08 00:00:00	Pending	Delivered	Store
+C0126	Priya Joshi	priya.joshi@gmail.com	7217487269	Vadodara	Gujarat	Pen Set	Stationery	7	250	1750	2026-04-21 00:00:00	Refunded	Cancelled	Online
+C0392	Kavita Kumar	kavita.kumar@gmail.com	8520174713	Rajkot	Gujarat	Keyboard	Electronics	5	1500	7500	2024-10-13 00:00:00	Refunded	Shipped	Online
+C0629	Isha Yadav	isha.yadav@gmail.com	8055637578	Chennai	Tamil Nadu	Headphones	Electronics	8	2500	20000	2025-02-25 00:00:00	Refunded	Delivered	Online
+C0287	Suresh Kumar	suresh.kumar@gmail.com	8800599868	Rajkot	Gujarat	Backpack	Accessories	4	1800	7200	2025-10-07 00:00:00	Paid	Cancelled	Marketplace
+C0368	Sneha Gupta	sneha.gupta@gmail.com	9081682554	Pune	Maharashtra	Pen Set	Stationery	6	250	1500	2025-02-01 00:00:00	Cancelled	Shipped	Online
+C0327	Isha Singh		7125857393	Bhopal	Madhya Pradesh	Headphones	Electronics	1	2500	3000	2026-04-08 00:00:00	Refunded	Returned	Store
+C0786	Aditya Singh	aditya.singh@gmail.com	7685583357	Ahmedabad	Gujarat	Mouse	Electronics	4	800	3200	2024-09-29 00:00:00	Paid	Shipped	Marketplace
+C0867	Suresh Mehta	suresh.mehta@gmail.com	7746087503	Vadodara	Gujarat	Mouse	Electronics	6	800	4800	2026-04-05 00:00:00	Cancelled	Returned	Online
+C0721	Anjali Yadav	anjali.yadav@gmail.com	9420671425	Vadodara	Gujarat	Pen Set	Stationery	4	250	1000	2026-05-06 00:00:00	Refunded	Returned	Store
+C0180	Sneha Sharma	sneha.sharma@gmail.com	7387652480	Surat	Gujarat	Mouse	Electronics	4	800	3200	2024-01-21 00:00:00	Refunded	Delivered	Store
+C0940	Isha Singh	isha.singh@gmail.com	7560448350	Pune	Maharashtra	USB Drive	Accessories	3	900	2700	2026-04-01 00:00:00	Cancelled	Delivered	Online
+C0152	Aditya Desai	aditya.desai@gmail.com	7608393560	Lucknow	Uttar Pradesh	Monitor	Electronics	6	12000	72000	2024-03-15 00:00:00	Cancelled	Cancelled	Marketplace
+C0104	Vikas Verma	vikas.verma@gmail.com	8385570227	Vadodara	Gujarat	Keyboard	Electronics	7	1500	10500	2026-03-21 00:00:00	Refunded	Processing	Online
+C0725	Riya Desai	riya.desai@gmail.com	9635860024	Lucknow	Uttar Pradesh	Smartphone	Electronics	4	28000	112000	2025-12-11 00:00:00	Pending	Cancelled	Store
+C0752	Pooja Kumar	pooja.kumar@gmail.com	7763251269	Kolkata	West Bengal	Laptop	Electronics	7	55000	384900	2026-05-21 00:00:00	Paid	Shipped	Marketplace
+C0326	Isha Singh	isha.singh@gmail.com	9747261955	Hyderabad	Telangana	Monitor	Electronics	8	12000	96000	2024-05-24 00:00:00	Cancelled	Delivered	Online
+C0356	Vikas Kumar	vikas.kumar@gmail.com	9732401365	Bhopal	Madhya Pradesh	Monitor	Electronics	-3	12000	72000	2025-04-02 00:00:00	Paid	Processing	Online
+C0256	Amit Mehta		8102337464	Lucknow	Uttar Pradesh	Monitor	Electronics	1	12000	12000	2024-02-19 00:00:00	Refunded	Cancelled	Marketplace
+C0430	Simran Kaur	simran.kaur@gmail.com	8778198758	Jaipur	Rajasthan	Office Chair	Furniture	6	8500	51000	2025-07-13 00:00:00	Refunded	Delivered	Store
+C0808	Aditya Mishra	aditya.mishra@gmail.com	9951331472	Rajkot	Gujarat	Keyboard	Electronics	8	1500	12000	2024-03-16 00:00:00	Paid	Processing	Online
+C0327	  Arjun Patel 	arjun.patel@gmail.com	7318688299	Pune	Maharashtra	Keyboard	Electronics	-1	1500	10500	2024-06-13 00:00:00	Paid	Returned	Online
+C0347	Isha Yadav	isha.yadav@gmail.com	9073338701	Kolkata	WEST BENGAL	Laptop	Electronics	7	55000	385000	2025-10-31 00:00:00	Pending	Returned	Store
+C0161	Priya Patel	priya.patel@gmail.com	8422040412	Rajkot	Gujarat	Mouse	Electronics	7	800	5600	2025-12-14 00:00:00	Cancelled	Processing	Store
+C0244	Neha Sharma	neha.sharma@gmail.com	8687502175	Hyderabad	Telangana	Notebook	Stationery	8	120	960	2024-06-06 00:00:00	Paid	Processing	Online
+C0438	Amit Verma	amit.verma@gmail	9843355206	Chennai	Tamil Nadu	Pen Set	Stationery	8	250	2000	2024-07-23 00:00:00	Paid	Delivered	Online
+C0175	Pooja Patel	pooja.patel@gmail.com	9033970459	Indore	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2026-03-14 00:00:00	Refunded	Cancelled	Store
+C0917	Arjun Patel	arjun.patel@gmail.com	9756795104	Bengaluru	Karnataka	Office Chair	Furniture	3	8500	25500	2025-01-14 00:00:00	Refunded	Processing	Online
+C0457	Priya Verma	priya.verma@gmail.com	8888670721	Jaipur	Rajasthan	Headphones	Electronics	4	2500	10000	2026-05-07 00:00:00	Cancelled	 Returned 	Online
+C0155	Neha Patel	neha.patel@gmail.com	9869644485	pune	Maharashtra	Notebook	Stationery	7	120	840	2026-02-13 00:00:00	Pending	Returned	Online
+C0861	Suresh Reddy	suresh.reddy@gmail.com	9244473790	Delhi	Delhi	Notebook	Stationery	8	120	960	2025-08-09 00:00:00	Pending	Cancelled	Store
+C0081	Suresh Kaur	suresh.kaur@gmail.com	7149157745	Bengaluru	Karnataka	Pen Set	Stationery	3	250	750	2024-05-03 00:00:00	Refunded	Shipped	Online
+C0217	Karan Kumar	karan.kumar@gmail.com	7183291591	Delhi	Delhi	Monitor	Electronics	7	12000	84000	2024-07-25 00:00:00	Pending	Returned	Store
+C0328	Amit Patel	amit.patel@gmail.com	8666873181	Bengaluru	Karnataka	Office Chair	Furniture	6	8500	51000	2026-05-27 00:00:00	Cancelled	Returned	Store
+C0940	Rahul Chauhan	rahul.chauhan@gmail.com	9676013419	Hyderabad	Telangana	Notebook	Stationery	7	120	840	2024-04-25 00:00:00	refunded	Shipped	Online
+C0581	Aditya Yadav	aditya.yadav@gmail	7430372878	Bhopal	Madhya Pradesh	Monitor	Electronics	2	12000	24000	2026-03-15 00:00:00	Cancelled	Returned	Store
+C0899	Kavita Verma	kavita.verma@gmail.com	8645159179	Chennai	Tamil Nadu	Desk	Furniture	8	12000	96000	2024-02-08 00:00:00	Pending	Processing	Store
+C0148	Isha Yadav	isha.yadav@gmail.com	9924068985	Kolkata	West Bengal	Office Chair	Furniture	1	8500	8500	2025-02-09 00:00:00	Cancelled	Shipped	Online
+C0764	Sneha Kaur	sneha.kaur@gmail.com	8153561013	Bhopal	Madhya Pradesh	Smartphone	Electronics	1	28000	28000	2024-12-11 00:00:00	Cancelled	Processing	Store
+C0864	Sneha Reddy	sneha.reddy@gmail.com	9990082548	Chennai	Tamil Nadu	Monitor	Electronics	4	12000	48000	2024-05-17 00:00:00	Cancelled	Cancelled	Store
+C0276	Kavita Yadav	kavita.yadav@gmail.com	9772636814	Ahmedabad	Gujarat	Mouse	Electronics	8	800	6400	2024-04-08 00:00:00	Refunded	Cancelled	Marketplace
+C0889	Anjali Reddy		7241402174	Bengaluru	Karnataka	Keyboard	Electronics	2	1500	3000	2024-11-14 00:00:00	Refunded	Shipped	Marketplace
+C0901	Aditya Sharma	aditya.sharma@gmail.com	7746196273	Rajkot	Gujarat	Mouse	Electronics	1	800	800	2024-09-12 00:00:00	Paid	Cancelled	Online
+C0941	Anjali Desai		7855169963	Mumbai	Maharashtra	Smartphone	Electronics	8	28000	224000	2025-06-01 00:00:00	Refunded	Delivered	Marketplace
+C0032	Meena Mehta	meena.mehta@gmail.com	9099323053	Hyderabad	Telangana	Desk	Furniture	3	12000	36000	2026-06-10 00:00:00	Refunded	Returned	Marketplace
+C0359	Anjali Kumar	anjali.kumar@gmail.com	8110935906	Kolkata	West Bengal	USB Drive	Accessories	2	900	1800	2024-10-18 00:00:00	Paid	Cancelled	Online
+C0167	Aditya Chauhan	aditya.chauhan@gmail.com	7920491305	Indore	Madhya Pradesh	Mouse	Electronics	4	800	3200	2025-11-24 00:00:00	Pending	Processing	Marketplace
+C0420	Nikhil Sharma		9930025537	Surat	Gujarat	Desk	Furniture	3	12000	36000	2025-10-24 00:00:00	Pending	Returned	Online
+C0230	Arjun Yadav	arjun.yadav@gmail.com	8311939403	Kolkata	West Bengal	USB Drive	Accessories	5	900	4500	2025-03-09 00:00:00	Refunded	Processing	Store
+C0259	Karan Joshi	karan.joshi@gmail.com	8297703275	Chennai	Tamil Nadu	Notebook	Stationery	7	120	840	2025-08-21 00:00:00	Paid	Delivered	Marketplace
+C0679	Anjali Gupta	anjali.gupta@gmail.com	9780313235	Hyderabad	Telangana	Pen Set	Stationery	5	250	1250	2024-11-01 00:00:00	Paid	Cancelled	Online
+C0345	Arjun Mishra	arjun.mishra@gmail.com	8396453077	Indore	Madhya Pradesh	Headphones	Electronics	5	2500	12500	2025-11-02 00:00:00	Cancelled	Shipped	Online
+C0530	Meena Kaur	meena.kaur@gmail.com	7243845356	Lucknow	Uttar Pradesh	Pen Set	Stationery	7	250	1750	2025-11-07 00:00:00	Cancelled	Shipped	Marketplace
+C0027	Sneha Verma	sneha.verma@gmail.com	8114227340	Bhopal	MADHYA PRADESH	Office Chair	Furniture	7	8500	59500	2025-02-01 00:00:00	Paid	Returned	Marketplace
+C0586	Karan Mehta	karan.mehta@gmail.com	7955042637	Chennai	Tamil Nadu	Notebook	Stationery	-2	120	960	2025-11-18 00:00:00	Cancelled	Returned	Store
+C0866	Simran Reddy	simran.reddy@gmail.com	9824433548	Bhopal	Madhya Pradesh	Notebook	Stationery	3	120	360	2024-10-27 00:00:00	Paid	Cancelled	Online
+C0759	Arjun Desai	arjun.desai@gmail.com	9401022668	Lucknow	Uttar Pradesh	Keyboard	Electronics	6	1500	9000	2025-01-11 00:00:00	Paid	Shipped	Store
+C0229	Pooja Shah	pooja.shah@gmail.com	8422996266	Pune	Maharashtra	Headphones	Electronics	5	2500	12500	2025-04-19 00:00:00	Paid	Cancelled	Online
+C0888	Aditya Yadav	aditya.yadav@gmail.com	9665691647	Ahmedabad	Gujarat	Desk	Furniture	4	12000	48000	2025-05-27 00:00:00	Paid	Cancelled	Marketplace
+C0306	Kavita Sharma		7647588523	Vadodara	GUJARAT	Mouse	Electronics	-1	800	4800	2025-02-23 00:00:00	Refunded	Shipped	Store
+C0884	Simran Chauhan	simran.chauhan@gmail.com	7347082594	Jaipur	Rajasthan	Smartphone	Electronics	3	28000	84000	2024-11-16 00:00:00	paid	Delivered	Store
+C0281	Karan Chauhan	karan.chauhan@gmail.com	7724156214	Hyderabad	Telangana	Keyboard	Electronics	8	1500	12000	2026-03-15 00:00:00	Paid	Shipped	Marketplace
+C0445	Kavita Shah	kavita.shah@gmail.com	8842650262	Jaipur	Rajasthan	Office Chair	Furniture	1	8500	8500	2024-02-08 00:00:00	Pending	Processing	Online
+C0914	Vikas Chauhan	vikas.chauhan@gmail.com	9280772748	Rajkot	Gujarat	Laptop	Electronics	1	55000	55000	2025-10-03 00:00:00	Pending	Shipped	Marketplace
+C0899	Anjali Verma	anjali.verma@gmail.com	7553753599	Ahmedabad	Gujarat	Office Chair	Furniture	5	8500	42500	2024-06-20 00:00:00	Paid	Delivered	Store
+C0298	Mohit Desai	mohit.desai@gmail.com	9234621711	Hyderabad	TELANGANA	Notebook	Stationery	6	120	720	2025-03-20 00:00:00	Pending	Processing	Store
+C0368	Karan Kumar	karan.kumar@gmail.com	8732553940	Surat	Gujarat	Mouse	Electronics	4	800	3200	2026-01-14 00:00:00	Pending	Shipped	Marketplace
+C0023	Aditya Gupta	aditya.gupta@gmail.com	7725783958	Ahmedabad	Gujarat	Smartphone	Electronics	1	28000	28000	2025-01-19 00:00:00	Cancelled	Returned	Marketplace
+C0050	Isha Sharma	isha.sharma@gmail.com	9843139149	Ahmedabad	Gujarat	Backpack	Accessories	1	1800	1800	2024-02-19 00:00:00	Paid	Cancelled	Store
+C0390	Neha Gupta	neha.gupta@gmail.com	8085502712	Jaipur	Rajasthan	USB Drive	Accessories	3	900	2700	2024-07-29 00:00:00	Paid	Processing	Store
+C0678	Neha Mishra	neha.mishra@gmail.com	9234711156	Mumbai	Maharashtra	Pen Set	Stationery	3	250	750	2025-03-04 00:00:00	Paid	Returned	Marketplace
+C0633	Neha Verma	neha.verma@gmail.com	7489680170	Lucknow	Uttar Pradesh	Monitor	Electronics	8	12000	96000	2024-07-22 00:00:00	Pending	Processing	Marketplace
+C0207	  Anjali Desai 		8759889613	Mumbai	Maharashtra	Keyboard	Electronics	1	1500	1500	2025-07-15 00:00:00	Refunded	Shipped	Marketplace
+C0493	Vikas Singh	vikas.singh@gmail.com	7011759631	Surat	GUJARAT	Backpack	Accessories	2	1800	3600	2024-04-23 00:00:00	Refunded	Shipped	Online
+C0799	Nikhil Patel	nikhil.patel@gmail.com	7435039291	Bhopal	Madhya Pradesh	Headphones	Electronics	4	2500	10000	2025-04-12 00:00:00	Cancelled	Processing	Store
+C0052	Neha Reddy		7750338556	Indore	Madhya Pradesh	Laptop	Electronics	5	55000	275000	2025-01-03 00:00:00	Cancelled	Cancelled	Marketplace
+C0119	Neha Reddy	neha.reddy@gmail.com	7197092148	Surat	Gujarat	Keyboard	Electronics	3	1500	4500	2024-12-02 00:00:00	Cancelled	Cancelled	Marketplace
+C0275	Amit Mehta	amit.mehta@gmail.com	8471982906	Vadodara	Gujarat	Monitor	Electronics	7	12000	84000	2025-02-13 00:00:00	Refunded	Processing	Store
+C0707	Sneha Chauhan		8811358735	Chennai	Tamil Nadu	Keyboard	Electronics	2	1500	3000	2024-05-15 00:00:00	Paid	Shipped	Online
+C0427	Aditya Joshi	aditya.joshi@gmail.com	9443593434	Chennai	Tamil Nadu	Desk	Furniture	3	12000	36000	2025-09-17 00:00:00	Refunded	Processing	Marketplace
+C0030	Rohan Joshi	rohan.joshi@gmail.com	9096471391	Ahmedabad	GUJARAT	Office Chair	Furniture	8	8500	68000	2024-02-17 00:00:00	Paid	Processing	Marketplace
+C0322	Rahul Desai	rahul.desai@gmail.com	9911682538	Bengaluru	Karnataka	USB Drive	Accessories	4	900	3600	2025-11-16 00:00:00	Cancelled	Returned	Marketplace
+C0705	Isha Patel	isha.patel@gmail.com	8859067602	Chennai	Tamil Nadu	USB Drive	Accessories	4	900	3600	2025-05-08 00:00:00	Cancelled	Cancelled	Online
+C0860	Riya Kaur		9632445649	Surat	Gujarat	Laptop	Electronics	3	55000	165000	2025-01-06 00:00:00	Refunded	Cancelled	Online
+C0077	Sneha Mehta	sneha.mehta@gmail.com	8034622484	Pune	Maharashtra	Headphones	Electronics	1	2500	3000	2025-06-03 00:00:00	Pending	Returned	Marketplace
+C0388	Suresh Reddy	suresh.reddy@gmail.com	8009317340	Ahmedabad	Gujarat	Desk	Furniture	8	12000	96000	2026-03-31 00:00:00	Refunded	Delivered	Store
+C0458	Vikas Patel	vikas.patel@gmail.com	9136202250	Kolkata	WEST BENGAL	Backpack	Accessories	1	1800	1800	2024-04-15 00:00:00	Refunded	Cancelled	Online
+C0571	Riya Sharma	riya.sharma@gmail	7390393407	Lucknow	Uttar Pradesh	Pen Set	Stationery	5	250	1250	2025-06-04 00:00:00	Pending	Cancelled	Store
+C0373	Priya Reddy	priya.reddy@gmail.com	7957425987	Indore	Madhya Pradesh	Desk	Furniture	-2	12000	72000	2025-07-27 00:00:00	Refunded	Processing	Marketplace
+C0464	Neha Patel	neha.patel@gmail.com	9829998009	Rajkot	Gujarat	Laptop	Electronics	6	55000	330000	2024-12-29 00:00:00	cancelled	Returned	Marketplace
+C0383	Neha Sharma	neha.sharma@gmail.com	7705041929	Jaipur	Rajasthan	Keyboard	Electronics	7	1500	10500	2024-04-19 00:00:00	Cancelled	Returned	Online
+C0193	Neha Kaur	neha.kaur@gmail.com	8687477596	Rajkot	Gujarat	Desk	Furniture	4	12000	48000	2026-01-03 00:00:00	Cancelled	Delivered	Store
+C0048	Aditya Patel	aditya.patel@gmail.com	8934902523	Jaipur	Rajasthan	Backpack	Accessories	3	1800	5400	2025-05-25 00:00:00	Paid	Returned	Marketplace
+C0050	Riya Kaur	riya.kaur@gmail.com	8858906417	Indore	Madhya Pradesh	Pen Set	Stationery	8	250	2000	2025-06-04 00:00:00	Pending	Returned	Online
+C0749	Rohan Patel	rohan.patel@gmail.com	8663894274	Chennai	Tamil Nadu	Pen Set	Stationery	6	250	1500	2025-05-31 00:00:00	Refunded	Cancelled	Marketplace
+C0938	Meena Verma	meena.verma@gmail.com	8708838608	Pune	Maharashtra	Headphones	Electronics	8	2500	20000	2026-04-04 00:00:00	Pending	Shipped	Store
+C0617	Nikhil Verma	nikhil.verma@gmail.com	9352808730	indore	Madhya Pradesh	Smartphone	Electronics	4	28000	112000	2024-07-24 00:00:00	Pending	Returned	Marketplace
+C0298	Anjali Kaur	anjali.kaur@gmail.com	9887823121	Vadodara	Gujarat	USB Drive	Accessories	3	900	2700	2025-05-30 00:00:00	Cancelled	Delivered	Store
+C0576	Sneha Yadav	sneha.yadav@gmail.com	9450872378	Chennai	Tamil Nadu	USB Drive	Accessories	7	900	6300	2025-11-21 00:00:00	Cancelled	Cancelled	Online
+C0536	Neha Sharma	neha.sharma@gmail.com	8635825546	Vadodara	Gujarat	Laptop	Electronics	1	55000	55000	2024-07-23 00:00:00	Cancelled	Shipped	Store
+C0700	Arjun Kumar	arjun.kumar@gmail.com	7266428954	kolkata	West Bengal	Headphones	Electronics	4	2500	10000	2026-02-10 00:00:00	Paid	Processing	Store
+C0105	Isha Reddy	isha.reddy@gmail	9901362116	kolkata	West Bengal	Notebook	Stationery	4	120	480	2026-01-30 00:00:00	Refunded	Shipped	Marketplace
+C0804	Pooja Desai	pooja.desai@gmail.com	9853978147	Surat	Gujarat	Office Chair	Furniture	7	8500	59500	2025-03-02 00:00:00	Cancelled	Returned	Online
+C0014	Arjun Singh	arjun.singh@gmail.com	9665292162	Indore	Madhya Pradesh	Desk	Furniture	4	12000	47900	2025-10-10 00:00:00	Cancelled	Returned	Marketplace
+C0757	Isha Singh	isha.singh@gmail.com	7831066348	Mumbai	Maharashtra	Desk	Furniture	3	12000	36000	2025-11-30 00:00:00	Paid	Shipped	Online
+C0753	Nikhil Patel	nikhil.patel@gmail.com	8620054076	Surat	Gujarat	Office Chair	Furniture	5		42500	2025-07-23 00:00:00	Cancelled	Shipped	Online
+C0599	Arjun Sharma	arjun.sharma@gmail.com	8419756364	Jaipur	Rajasthan	USB Drive	Accessories	3	900	2700	2024-02-10 00:00:00	Pending	Processing	Marketplace
+C0053	Isha Reddy	isha.reddy@gmail.com	9842796831	Mumbai	Maharashtra	Desk	Furniture	6	12000	72000	2024-03-15 00:00:00	Cancelled	Returned	Online
+C0189	Nikhil Patel	nikhil.patel@gmail.com	9169561289	Vadodara	Gujarat	Office Chair	Furniture	7	8500	59500	2024-04-04 00:00:00	Cancelled	Shipped	Online
+C0680	Vikas Mehta	vikas.mehta@gmail.com	8549614875	Mumbai	Maharashtra	Mouse	Electronics	8	800	6400	2025-07-28 00:00:00	Paid	Delivered	Marketplace
+C0355	Mohit Singh	mohit.singh@gmail.com	9758504398	Hyderabad	Telangana	Pen Set	Stationery	4	250	1000	2024-02-10 00:00:00	Cancelled	Cancelled	Online
+C0396	Arjun Gupta	arjun.gupta@gmail.com	8214741296	Surat	Gujarat	Notebook	Stationery	6	120	720	2025-06-10 00:00:00	Refunded	Cancelled	Online
+C0304	Karan Mehta	karan.mehta@gmail.com	9207160929	Ahmedabad	Gujarat	Monitor	Electronics	3	12000	36000	2026-03-02 00:00:00	Paid	Delivered	Online
+C0687	Karan Reddy	karan.reddy@gmail.com	9943792834	Delhi	Delhi	Monitor	Electronics	4	12000	48000	2025-07-04 00:00:00	Refunded	Delivered	Marketplace
+C0703	Rohan Sharma		8972357370	Kolkata	West Bengal	Smartphone	Electronics	1	28000	27900	2024-03-30 00:00:00	Paid	Delivered	Online
+C0814	Arjun Gupta	arjun.gupta@gmail.com	7302546464	Hyderabad	Telangana	Mouse	Electronics	5	800	4000	2025-02-21 00:00:00	Refunded	Cancelled	Marketplace
+C0415	Kavita Mehta	kavita.mehta@gmail.com	7072546169	Delhi	Delhi	Backpack	Accessories	2	1800	3600	2025-07-01 00:00:00	Paid	Returned	Online
+C0775	Aditya Sharma	aditya.sharma@gmail.com	7311769311	Pune	Maharashtra	Notebook	Stationery	2	120	240	2024-10-23 00:00:00	Cancelled	Returned	Online
+C0289	Mohit Shah	mohit.shah@gmail.com	8696998516	Indore	Madhya Pradesh	Backpack	Accessories	1	1800	1800	2025-04-30 00:00:00	Pending	Returned	Online
+C0140	Suresh Chauhan	suresh.chauhan@gmail.com	9343868762	Mumbai	Maharashtra	Backpack	Accessories	3	1800	5400	2024-11-01 00:00:00	Cancelled	Delivered	Marketplace
+C0896	Riya Kumar	riya.kumar@gmail.com	7529290976	Surat	Gujarat	Laptop	Electronics	7	55000	385000	2025-07-04 00:00:00	Paid	Processing	Online
+C0767	Anjali Singh	anjali.singh@gmail.com	8772337553	Bhopal	Madhya Pradesh	Backpack	Accessories	3	1800	5400	2024-06-13 00:00:00	Pending	Shipped	Marketplace
+C0855	Arjun Singh	arjun.singh@gmail.com		Vadodara	Gujarat	Backpack	Accessories	1	1800	1800	2026-05-21 00:00:00	Refunded	Returned	Online
+C0298	Amit Verma	amit.verma@gmail.com	7421776124	Rajkot	Gujarat	USB Drive	Accessories	8	900	7200	2024-12-04 00:00:00	Cancelled	Shipped	Marketplace
+C0672	Meena Patel	meena.patel@gmail.com	8224654701	Hyderabad	Telangana	Monitor	Electronics	4	12000	48000	2024-11-21 00:00:00	Refunded	Cancelled	Store
+C0632	Pooja Desai	pooja.desai@gmail.com	9508990774	Vadodara	Gujarat	Pen Set	Stationery	6	250	1500	2026-04-07 00:00:00	Cancelled	Cancelled	Online
+C0005	Vikas Singh	vikas.singh@gmail	7951445658	Kolkata	West Bengal	USB Drive	Accessories	-1	900	6300	2024-10-10 00:00:00	Cancelled	Shipped	Marketplace
+C0751	Vikas Kaur	vikas.kaur@gmail.com	9061386599	Jaipur	Rajasthan	Desk	Furniture	6	12000	72000	2026-03-04 00:00:00	Cancelled	Cancelled	Marketplace
+C0112	Simran Mishra	simran.mishra@gmail.com	9605446007	Ahmedabad	Gujarat	Headphones	Electronics	3	2500	7500	2025-07-05 00:00:00	Pending	Processing	Marketplace
+C0908	Amit Desai	amit.desai@gmail.com	7323840346	Bhopal	Madhya Pradesh	Laptop	Electronics	1	55000	55000	2026-04-12 00:00:00	Refunded	Returned	Online
+C0929	  Priya Gupta 	priya.gupta@gmail.com	8119338568	bengaluru	Karnataka	Notebook	Stationery	8	120	960	2025-10-31 00:00:00	Pending	Processing	Store
+C0229	Aditya Desai	aditya.desai@gmail.com	8249831874	Vadodara	Gujarat	Desk	Furniture	2	12000	24000	2025-02-10 00:00:00	Cancelled	Returned	Online
+C0679	Meena Reddy	meena.reddy@gmail.com	9637264426	Chennai	Tamil Nadu	Keyboard	Electronics	3	1500	4500	2025-04-01 00:00:00	Pending	Shipped	Marketplace
+C0580	Rohan Desai	rohan.desai@gmail.com	9076631329	Pune	Maharashtra	Laptop	Electronics	4	55000	220000	2026-02-18 00:00:00	Refunded	Shipped	Online
+C0271	Anjali Singh	anjali.singh@gmail.com	7183860832	Chennai	TAMIL NADU	Mouse	Electronics	6	800	4800	2025-01-02 00:00:00	Refunded	Cancelled	Online
+C0041	Vikas Patel	vikas.patel@gmail.com	9239279558	Chennai	Tamil Nadu	Headphones	Electronics	5	2500	12500	2025-08-15 00:00:00	Pending	Cancelled	Marketplace
+C0388	Anjali Yadav	anjali.yadav@gmail.com	9806059083	Bhopal	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2025-01-20 00:00:00	Pending	Returned	Store
+C0362	Anjali Joshi	anjali.joshi@gmail.com	9070647070	Bhopal	Madhya Pradesh	Pen Set	Stationery	1	250	250	2025-05-28 00:00:00	Pending	Cancelled	Online
+C0236	Amit Gupta	amit.gupta@gmail.com	9763712703	Mumbai	Maharashtra	Mouse	Electronics	3	800	2400	2024-07-10 00:00:00	pending	Processing	Marketplace
+C0735	Neha Mishra	neha.mishra@gmail.com	7989329953	Delhi	Delhi	Smartphone	Electronics	2	28000	56000	2025-05-08 00:00:00	Refunded	Cancelled	Online
+C0605	Simran Mishra		8764798660	Surat	Gujarat	Mouse	Electronics	1	800	800	2024-05-10 00:00:00	Pending	Shipped	Marketplace
+C0525	Priya Kaur	priya.kaur@gmail.com	9457877922	Vadodara	Gujarat	Laptop	Electronics	3	55000	165000	2024-09-21 00:00:00	Pending	Returned	Store
+C0614	Aditya Mishra	aditya.mishra@gmail.com	7079972435	Bhopal	Madhya Pradesh	USB Drive	Accessories	5	900	4500	2024-03-28 00:00:00	Pending	Cancelled	Marketplace
+C0483	Sneha Kumar	sneha.kumar@gmail.com	7942160389	Indore	Madhya Pradesh	Office Chair	Furniture	3	8500	25500	2026-03-24 00:00:00	Pending	Returned	Marketplace
+C0524	Arjun Kumar	arjun.kumar@gmail.com	9944591628	Pune	Maharashtra	Desk	Furniture	2	12000	24000	2024-08-23 00:00:00	Refunded	Cancelled	Online
+C0112	Rahul Singh	rahul.singh@gmail.com	9245028124	Indore	Madhya Pradesh	Notebook	Stationery	7	120	840	2026-04-26 00:00:00	Pending	Returned	Online
+C0182	Sneha Kaur	sneha.kaur@gmail.com	9640323269	Hyderabad	Telangana	Laptop	Electronics	2	55000	110000	2024-04-05 00:00:00	Refunded	Shipped	Marketplace
+C0553	Rahul Kaur	rahul.kaur@gmail	9914390260	Chennai	Tamil Nadu	Office Chair	Furniture	7	8500	59500	2025-01-14 00:00:00	Paid	Returned	Store
+C0235	Sneha Chauhan	sneha.chauhan@gmail.com	8637398296	Pune	Maharashtra	Pen Set	Stationery	2	250	500	2025-03-11 00:00:00	Pending	Processing	Store
+C0785	Meena Kaur	meena.kaur@gmail.com	7359993773	Mumbai	Maharashtra	Pen Set	Stationery	7	250	1750	2024-09-20 00:00:00	Pending	Delivered	Marketplace
+C0762	Rahul Yadav	rahul.yadav@gmail.com	9244294928	Ahmedabad	Gujarat	Notebook	Stationery	1	120	120	2025-01-19 00:00:00	Pending	Processing	Store
+C0371	Neha Kumar	neha.kumar@gmail.com	8829963525	Chennai	Tamil Nadu	Pen Set	Stationery	5	250	1250	2024-09-24 00:00:00	Refunded	Returned	Store
+C0627	Arjun Mishra	arjun.mishra@gmail.com	8707052548	Lucknow	Uttar Pradesh	Mouse	Electronics	7	800	5600	2025-07-19 00:00:00	Refunded	Shipped	Store
+C0573	Riya Joshi	riya.joshi@gmail.com	8089966667	Mumbai	Maharashtra	Pen Set	Stationery	6	250	1500	2026-03-03 00:00:00	Refunded	Shipped	Marketplace
+C0122	Meena Joshi	meena.joshi@gmail.com	7694904767	Ahmedabad	Gujarat	Mouse	Electronics	7	800	5600	2026-03-15 00:00:00	Cancelled	Returned	Marketplace
+C0714	Priya Kumar	priya.kumar@gmail.com	8671187564	Chennai	Tamil Nadu	Laptop	Electronics	2	55000	110000	2026-04-23 00:00:00	Pending	Cancelled	Marketplace
+C0446	Amit Patel		8129971523	Rajkot	Gujarat	Smartphone	Electronics	2	28000	56000	2025-09-15 00:00:00	Paid	Cancelled	Store
+C0629	Nikhil Verma	nikhil.verma@gmail.com	9566125120	Surat	Gujarat	Keyboard	Electronics	8		12000	2025-03-25 00:00:00	Paid	Shipped	Marketplace
+C0824	Nikhil Verma	nikhil.verma@gmail.com	7836429847	Surat	Gujarat	Pen Set	Stationery	4	250	1000	2025-09-21 00:00:00	Pending	Delivered	Store
+C0245	Rahul Kumar	rahul.kumar@gmail.com	7372987009	Mumbai	Maharashtra	Office Chair	Furniture	6	8500	51000	2025-11-16 00:00:00	Refunded	Cancelled	Marketplace
+C0206	Nikhil Sharma	nikhil.sharma@gmail.com	7294708501	Bhopal	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2026-01-13 00:00:00	Cancelled	Processing	Store
+C0232	Isha Singh	isha.singh@gmail.com	8953175066	Bhopal	Madhya Pradesh	Office Chair	Furniture	1	8500	8500	2024-09-24 00:00:00	Pending	Cancelled	Marketplace
+C0110	Riya Patel	riya.patel@gmail.com	9161095131	Mumbai	Maharashtra	Smartphone	Electronics	2	28000	56000	2026-04-02 00:00:00	Cancelled	Returned	Marketplace
+C0257	Mohit Shah	mohit.shah@gmail.com	9418790740	Jaipur	Rajasthan	Mouse	Electronics	6	800	4800	2026-03-05 00:00:00	Refunded	Cancelled	Marketplace
+C0883	Rahul Joshi	rahul.joshi@gmail.com	7499368558	Mumbai	Maharashtra	Monitor	Electronics	7	12000	84000	2025-10-10 00:00:00	Pending	Shipped	Store
+C0423	Anjali Gupta	anjali.gupta@gmail.com	9300607428	Surat	Gujarat	USB Drive	Accessories	5		4500	2024-09-11 00:00:00	Cancelled	Delivered	Store
+C0690	Vikas Patel	vikas.patel@gmail.com	9381780551	Bhopal	Madhya Pradesh	Keyboard	Electronics	8	1500	11900	2024-11-17 00:00:00	Cancelled	Shipped	Marketplace
+C0276	Simran Desai	simran.desai@gmail.com	9933923529	Bhopal	Madhya Pradesh	Mouse	Electronics	8	800	6400	2026-01-24 00:00:00	Pending	Shipped	Marketplace
+C0248	Arjun Singh	arjun.singh@gmail.com	7984438848	Rajkot	Gujarat	Mouse	Electronics	6	800	4800	2024-06-08 00:00:00	Paid	Delivered	Online
+C0693	Sneha Yadav	sneha.yadav@gmail.com	7028448463	lucknow	Uttar Pradesh	Notebook	Stationery	1	120	20	2026-05-18 00:00:00	Refunded	Processing	Marketplace
+C0323	Sneha Kaur	sneha.kaur@gmail.com	9467541927	Indore	Madhya Pradesh	Headphones	Electronics	8	2500	20000	2024-07-06 00:00:00	Cancelled	Cancelled	Online
+C0769	Aditya Kumar	aditya.kumar@gmail.com	7232564616	Bengaluru	Karnataka	Office Chair	Furniture	8	8500	68000	2025-07-07 00:00:00	Paid	Returned	Store
+C0404	Simran Joshi	simran.joshi@gmail.com	7516977385	Kolkata	West Bengal	Notebook	Stationery	8	120	960	2024-11-19 00:00:00	Paid	Delivered	Marketplace
+C0216	Suresh Yadav	suresh.yadav@gmail.com	7432708635	Pune	Maharashtra	Smartphone	Electronics	5	28000	140000	2024-10-07 00:00:00	Cancelled	Shipped	Store
+C0483	Isha Mehta	isha.mehta@gmail.com	8571632270	Vadodara	Gujarat	Desk	Furniture	7	12000	84000	2024-08-03 00:00:00	Refunded	Processing	Store
+C0875	Suresh Verma	suresh.verma@gmail.com	8935866295	Vadodara	Gujarat	Pen Set	Stationery	3	250	750	2025-08-12 00:00:00	Pending	Delivered	Marketplace
+C0277	Meena Gupta	meena.gupta@gmail.com	8856365377	Indore	Madhya Pradesh	Office Chair	Furniture	4	8500	34000	2024-05-29 00:00:00	Pending	Cancelled	Online
+C0181	Kavita Joshi	kavita.joshi@gmail.com	7577551466	Bhopal	Madhya Pradesh	Backpack	Accessories	6	1800	10800	2026-03-15 00:00:00	Refunded	Processing	Store
+C0576	Aditya Sharma	aditya.sharma@gmail.com	8711123163	ahmedabad	Gujarat	USB Drive	Accessories	3	900	2700	2024-03-02 00:00:00	Pending	Processing	Store
+C0860	Neha Joshi	neha.joshi@gmail.com	8437338886	Mumbai	Maharashtra	Smartphone	Electronics	6	28000	168000	2025-07-27 00:00:00	Cancelled	Processing	Online
+C0422	Neha Mehta	neha.mehta@gmail.com	9918798987	Hyderabad	Telangana	Mouse	Electronics	3	800	2400	2026-03-10 00:00:00	Cancelled	Processing	Store
+C0690	  Nikhil Joshi 	nikhil.joshi@gmail.com	8919550221	Bhopal	Madhya Pradesh	Monitor	Electronics	7	12000	84000	2025-09-20 00:00:00	cancelled	Cancelled	Marketplace
+C0149	Simran Mishra	simran.mishra@gmail.com	8449071761	Delhi	Delhi	Backpack	Accessories	7	1800	12600	2026-05-19 00:00:00	Paid	Delivered	Online
+C0352	Meena Mehta	meena.mehta@gmail	8360981688	Chennai	Tamil Nadu	Headphones	Electronics	5	2500	12500	2025-09-11 00:00:00	Refunded	Processing	Store
+C0800	  Anjali Desai 	anjali.desai@gmail.com	9520801229	Bengaluru	Karnataka	Desk	Furniture	7	12000	84000	2024-06-20 00:00:00	Pending	Delivered	Online
+C0746	Meena Mishra	meena.mishra@gmail.com	8080815661	Kolkata	West Bengal	USB Drive	Accessories	2	900	1800	2024-08-03 00:00:00	Pending	Cancelled	Online
+C0098	Amit Kaur	amit.kaur@gmail.com	9032317504	Bengaluru	Karnataka	Laptop	Electronics	1	55000	55000	2026-02-28 00:00:00	Refunded	Returned	Online
+C0107	Arjun Yadav	arjun.yadav@gmail.com	7666898313	Ahmedabad	Gujarat	Backpack	Accessories	-2	1800	12600	2024-11-12 00:00:00	Pending	Shipped	Marketplace
+C0291	Mohit Mishra	mohit.mishra@gmail.com	7542934161	Vadodara	Gujarat	Notebook	Stationery	3	120	360	2024-01-30 00:00:00	Paid	Processing	Store
+C0885	Sneha Joshi	sneha.joshi@gmail.com	9321791292	Bhopal	Madhya Pradesh	Headphones	Electronics	8	2500	20000	2024-05-18 00:00:00	Pending	Returned	Marketplace
+C0468	Aditya Shah	aditya.shah@gmail.com	9248242739	chennai	Tamil Nadu	Backpack	Accessories	5	1800	9000	2024-12-21 00:00:00	refunded	Returned	Online
+C0825	Amit Joshi	amit.joshi@gmail.com	8322283789	Pune	Maharashtra	Office Chair	Furniture	5	8500	42500	2024-06-08 00:00:00	Cancelled	Delivered	Online
+C0536	Rohan Mehta	rohan.mehta@gmail.com	8231634482	Jaipur	Rajasthan	Notebook	Stationery	1	120	120	2025-05-12 00:00:00	Refunded	Cancelled	Store
+C0010	Kavita Chauhan	kavita.chauhan@gmail.com	8258093032	Hyderabad	Telangana	Mouse	Electronics	1	800	800	2025-07-15 00:00:00	Cancelled	Shipped	Store
+C0904	Riya Shah		8695447268	Rajkot	Gujarat	Keyboard	Electronics	7	1500	10500	2026-04-28 00:00:00	Refunded	Shipped	Store
+C0082	Kavita Mishra	kavita.mishra@gmail.com	8028910147	Bengaluru	Karnataka	Pen Set	Stationery	5	250	1250	2024-10-18 00:00:00	Cancelled	Cancelled	Online
+C0874	  Amit Kumar 	amit.kumar@gmail.com	7586795774	Mumbai	Maharashtra	Monitor	Electronics	8	12000	96000	2025-09-24 00:00:00	Refunded	Processing	Marketplace
+C0638	Sneha Singh	sneha.singh@gmail.com	8377154307	Surat	Gujarat	Keyboard	Electronics	1	1500	1500	2025-07-01 00:00:00	Paid	Shipped	Online
+C0289	Arjun Kumar	arjun.kumar@gmail.com	8882985094	Kolkata	West Bengal	Laptop	Electronics	4	55000	220000	2024-04-02 00:00:00	pending	Delivered	Store
+C0223	Vikas Shah	vikas.shah@gmail.com	8338211662	Lucknow	Uttar Pradesh	Desk	Furniture	6	12000	72000	2025-04-19 00:00:00	Paid	Processing	Online
+C0864	Rohan Sharma	rohan.sharma@gmail.com		Lucknow	Uttar Pradesh	Office Chair	Furniture	2	8500	17000	2025-07-10 00:00:00	Refunded	Shipped	Online
+C0918	Arjun Reddy	arjun.reddy@gmail.com	8638862478	Indore	Madhya Pradesh	Laptop	Electronics	2	55000	110000	2026-02-25 00:00:00	Pending	Cancelled	Store
+C0254	Priya Singh	priya.singh@gmail	8979269680	Kolkata	West Bengal	Monitor	Electronics	4	12000	48000	2025-04-29 00:00:00	Refunded	Processing	Store
+C0163	Priya Desai	priya.desai@gmail	9360427902	Bengaluru	Karnataka	Monitor	Electronics	5	12000	60500	2025-05-07 00:00:00	Cancelled	 Shipped 	Store
+C0909	Priya Reddy	priya.reddy@gmail.com	9863432302	Rajkot	Gujarat	Monitor	Electronics	4	12000	48100	2025-10-10 00:00:00	Refunded	Processing	Online
+C0172	Arjun Yadav	arjun.yadav@gmail.com	7513891087	Delhi	Delhi	Mouse	Electronics	1	800	800	2024-02-13 00:00:00	Refunded	Returned	Online
+C0381	Amit Singh	amit.singh@gmail.com	7677309706	Jaipur	Rajasthan	Monitor	Electronics	6	12000	72000	2026-02-16 00:00:00	Paid	Delivered	Store
+C0661	  Rohan Desai 		9303619991	Lucknow	Uttar Pradesh	Monitor	Electronics	3	12000	36000	2025-05-14 00:00:00	Pending	Processing	Marketplace
+C0808	Anjali Chauhan	anjali.chauhan@gmail.com	8884283304	Kolkata	West Bengal	Mouse	Electronics	1	800	800	2025-06-12 00:00:00	Refunded	Processing	Marketplace
+C0138	Arjun Kaur	arjun.kaur@gmail.com	7169602003	Jaipur	Rajasthan	USB Drive	Accessories	8	900	7200	2025-07-26 00:00:00	Cancelled	Returned	Marketplace
+C0502	Karan Yadav	karan.yadav@gmail.com	7801555686	Bengaluru	Karnataka	Smartphone	Electronics	6	28000	168000	2026-01-19 00:00:00	Refunded	Processing	Marketplace
+C0937	Riya Kumar	riya.kumar@gmail.com	7295822679	Bengaluru	Karnataka	Keyboard	Electronics	8	1500	12000	2024-10-29 00:00:00	Cancelled	Returned	Store
+C0465	Rahul Chauhan	rahul.chauhan@gmail.com	9740301061	bengaluru	Karnataka	Office Chair	Furniture	3	8500	25500	2024-01-20 00:00:00	Cancelled	Returned	Online
+C0329	Amit Mishra	amit.mishra@gmail.com	9314800617	Indore	Madhya Pradesh	Office Chair	Furniture	4	8500	34000	2025-06-20 00:00:00	Refunded	Returned	Online
+C0628	Pooja Mehta	pooja.mehta@gmail.com	8760097041	Chennai	Tamil Nadu	Smartphone	Electronics	2	28000	56000	2024-04-08 00:00:00	Paid	Delivered	Online
+C0183	Priya Singh	priya.singh@gmail.com	7459798459	Jaipur	Rajasthan	Mouse	Electronics	2	800	1600	2024-02-02 00:00:00	Refunded	Cancelled	Marketplace
+C0639	Aditya Verma	aditya.verma@gmail.com	7210821160	Pune	Maharashtra	Mouse	Electronics	2	800	1600	2024-01-14 00:00:00	Pending	Cancelled	Online
+C0480	Priya Mehta	priya.mehta@gmail.com	9396677171	Kolkata	West Bengal	Office Chair	Furniture	6	8500	51000	2026-03-24 00:00:00	Paid	Returned	Store
+C0542	Priya Desai		7302314710	Indore	Madhya Pradesh	Headphones	Electronics	2	2500	5000	2024-09-08 00:00:00	Paid	Delivered	Marketplace
+C0237	Riya Shah	riya.shah@gmail.com	7813726301	Rajkot	Gujarat	Notebook	Stationery	4	120	480	2025-08-06 00:00:00	Pending	Returned	Marketplace
+C0572	Kavita Desai	kavita.desai@gmail.com		Lucknow	Uttar Pradesh	Backpack	Accessories	6	1800	10800	2025-11-21 00:00:00	Refunded	Cancelled	Online
+C0171	Simran Gupta	simran.gupta@gmail.com		Bengaluru	Karnataka	Smartphone	Electronics	3	28000	84000	2025-06-30 00:00:00	Refunded	Processing	Store
+C0564	Vikas Reddy	vikas.reddy@gmail.com	8596523152	Delhi	Delhi	Backpack	Accessories	7	1800	12600	2026-04-25 00:00:00	Cancelled	Returned	Online
+C0577	Riya Singh	riya.singh@gmail.com	8610883633	Lucknow	Uttar Pradesh	Notebook	Stationery	5	120	600	2025-01-03 00:00:00	Refunded	Cancelled	Store
+C0001	Priya Verma	priya.verma@gmail.com	9558781873	Surat	Gujarat	Notebook	Stationery	3	120	360	2024-11-05 00:00:00	Paid	Processing	Online
+C0220	Vikas Sharma	vikas.sharma@gmail.com	9962321335	Indore	Madhya Pradesh	Headphones	Electronics	3	2500	7500	2024-04-06 00:00:00	Paid	Cancelled	Store
+C0160	Rohan Verma	rohan.verma@gmail.com	8576609019	Bhopal	Madhya Pradesh	Pen Set	Stationery	4	250	1000	2024-08-26 00:00:00	Cancelled	Processing	Online
+C0585	Suresh Yadav	suresh.yadav@gmail.com	7933885988	Kolkata	West Bengal	Monitor	Electronics	-1	12000	72000	2026-03-22 00:00:00	Refunded	Shipped	Store
+C0846	Aditya Reddy	aditya.reddy@gmail.com	7409585493	Hyderabad	Telangana	Backpack	Accessories	5	1800	9000	2024-02-08 00:00:00	Refunded	 Delivered 	Online
+C0944	Vikas Mehta	vikas.mehta@gmail.com	8865323193	Delhi	Delhi	Monitor	Electronics	4	12000	48000	2026-02-04 00:00:00	Paid	Cancelled	Online
+C0313	Nikhil Sharma	nikhil.sharma@gmail.com	8371454094	Bengaluru	Karnataka	Pen Set	Stationery	3	250	750	2024-11-30 00:00:00	Pending	Shipped	Online
+C0690	Suresh Joshi	suresh.joshi@gmail.com	9556073288	Hyderabad	Telangana	Notebook	Stationery	2	120	240	2024-08-15 00:00:00	Refunded	Processing	Store
+C0152	Rohan Mehta	rohan.mehta@gmail.com	7354528565	Jaipur	Rajasthan	Pen Set	Stationery	1	250	250	2025-07-15 00:00:00	Refunded	Processing	Online
+C0409	Nikhil Shah	nikhil.shah@gmail.com	9997331061	Vadodara	Gujarat	Keyboard	Electronics	8	1500	12000	2025-07-26 00:00:00	Pending	Cancelled	Store
+C0668	Aditya Singh	aditya.singh@gmail.com	9410196532	Hyderabad	Telangana	USB Drive	Accessories	4	900	3600	2024-09-05 00:00:00	Paid	Processing	Store
+C0332	Aditya Patel	aditya.patel@gmail.com	7483312111	Chennai	Tamil Nadu	Office Chair	Furniture	7	8500	59500	2025-01-09 00:00:00	Cancelled	Shipped	Store
+C0353	Isha Mishra	isha.mishra@gmail.com	7103967542	Lucknow	Uttar Pradesh	Headphones	Electronics	3	2500	7500	2024-12-24 00:00:00	Refunded	Returned	Online
+C0452	Priya Kaur	priya.kaur@gmail.com	8002830207	Rajkot	Gujarat	Backpack	Accessories	6	1800	10800	2024-06-08 00:00:00	Paid	Delivered	Marketplace
+C0056	Meena Yadav	meena.yadav@gmail.com	7634268193	Indore	Madhya Pradesh	Headphones	Electronics	1	2500	2500	2024-12-17 00:00:00	Paid	Processing	Store
+C0483	Rahul Mehta		7897689138	Kolkata	West Bengal	Notebook	Stationery	4	120	480	2024-07-27 00:00:00	Cancelled	Returned	Store
+C0638	Rohan Desai	rohan.desai@gmail	9870157362	Surat	Gujarat	Office Chair	Furniture	1	8500	8500	2024-09-18 00:00:00	Pending	Delivered	Store
+C0206	Isha Verma	isha.verma@gmail.com	7227999411	Jaipur	Rajasthan	Backpack	Accessories	1	1800	1800	2024-09-03 00:00:00	Refunded	Processing	Marketplace
+C0873	Anjali Reddy	anjali.reddy@gmail.com	7463390201	Surat	Gujarat	Headphones	Electronics	7	2500	17500	2024-08-24 00:00:00	Refunded	Returned	Marketplace
+C0102	Vikas Joshi	vikas.joshi@gmail.com	9564552498	Bengaluru	Karnataka	Monitor	Electronics	3	12000	36000	2024-07-22 00:00:00	Refunded	Returned	Marketplace
+C0023	Priya Singh	priya.singh@gmail.com	9273821684	mumbai	Maharashtra	Smartphone	Electronics	8	28000	224000	2025-02-06 00:00:00	Pending	Delivered	Store
+C0701	Anjali Mehta	anjali.mehta@gmail.com	9685346571	Mumbai	Maharashtra	Mouse	Electronics	5	800	4000	2026-04-11 00:00:00	Paid	Processing	Store
+C0912	Rahul Gupta	rahul.gupta@gmail.com	8203423402	Rajkot	Gujarat	Keyboard	Electronics	6	1500	9000	2025-02-06 00:00:00	Pending	Delivered	Marketplace
+C0392	Nikhil Mishra	nikhil.mishra@gmail.com	9630445805	Indore	Madhya Pradesh	Backpack	Accessories	4	1800	7200	2025-03-03 00:00:00	Pending	Returned	Online
+C0437	Pooja Kaur	pooja.kaur@gmail.com	9600039571	Pune	Maharashtra	Desk	Furniture	3	12000	36000	2024-07-30 00:00:00	Pending	Returned	Marketplace
+C0701	Karan Reddy	karan.reddy@gmail.com		Mumbai	Maharashtra	USB Drive	Accessories	3	900	2700	2025-03-16 00:00:00	Pending	Returned	Online
+C0326	Amit Gupta	amit.gupta@gmail.com	9289052391	Kolkata	West Bengal	Monitor	Electronics	3	12000	36000	2024-11-21 00:00:00	Pending	Delivered	Store
+C0902	Kavita Shah	kavita.shah@gmail.com	8302870199	Jaipur	Rajasthan	USB Drive	Accessories	5	900	4500	2024-06-04 00:00:00	Pending	Delivered	Online
+C0190	Rahul Chauhan	rahul.chauhan@gmail.com	9628440956	Hyderabad	Telangana	Headphones	Electronics	4	2500	10000	2025-09-02 00:00:00	Pending	Shipped	Marketplace
+C0027	Anjali Patel	anjali.patel@gmail.com	9955544302	Lucknow	Uttar Pradesh	Desk	Furniture	3	12000	36000	2025-05-29 00:00:00	Refunded	Processing	Online
+C0873	Suresh Joshi	suresh.joshi@gmail.com		Vadodara	Gujarat	Keyboard	Electronics	4		6000	2024-08-19 00:00:00	Paid	Cancelled	Online
+C0948	Arjun Shah	arjun.shah@gmail.com	7955863041	Kolkata	West Bengal	Backpack	Accessories	4	1800	7200	2026-02-14 00:00:00	Pending	Delivered	Online
+C0950	Mohit Reddy	mohit.reddy@gmail.com	9650249767	Jaipur	Rajasthan	USB Drive	Accessories	6	900	5400	2026-06-06 00:00:00	Refunded	Shipped	Store
+C0415	Priya Yadav	priya.yadav@gmail.com	8633694617	Kolkata	West Bengal	Smartphone	Electronics	7	28000	196000	2025-09-18 00:00:00	Paid	Returned	Online
+C0463	Mohit Reddy	mohit.reddy@gmail.com	7182174975	Bhopal	Madhya Pradesh	Mouse	Electronics	7	800	5600	2026-01-22 00:00:00	Paid	Returned	Store
+C0529	Priya Singh	priya.singh@gmail.com	8250605847	Jaipur	Rajasthan	Office Chair	Furniture	5	8500	42500	2026-03-03 00:00:00	Cancelled	Cancelled	Online
+C0433	Pooja Yadav	pooja.yadav@gmail.com	7234276135	Kolkata	West Bengal	Notebook	Stationery	3	120	360	2025-04-19 00:00:00	Refunded	Delivered	Marketplace
+C0513	Neha Kumar	neha.kumar@gmail.com	9514478795	bhopal	Madhya Pradesh	USB Drive	Accessories	3		2700	2025-02-06 00:00:00	Refunded	Processing	Store
+C0026	Simran Joshi	simran.joshi@gmail.com	9535385657	Bhopal	Madhya Pradesh	USB Drive	Accessories	4	900	3600	2025-04-10 00:00:00	Paid	Processing	Store
+C0709	Simran Desai	simran.desai@gmail.com	7530618370	Ahmedabad	Gujarat	Monitor	Electronics	-3	12000	96000	2025-10-11 00:00:00	Cancelled	Delivered	Marketplace
+C0725	Suresh Desai	suresh.desai@gmail.com	9197590676	Hyderabad	Telangana	Keyboard	Electronics	7	1500	10500	2025-07-17 00:00:00	Refunded	Delivered	Online
+C0935	Vikas Yadav	vikas.yadav@gmail.com	9832661238	Indore	Madhya Pradesh	Keyboard	Electronics	3	1500	4500	2026-06-08 00:00:00	Pending	Shipped	Marketplace
+C0053	Kavita Verma	kavita.verma@gmail.com	8329370993	Kolkata	West Bengal	Desk	Furniture	5	12000	60000	2025-10-03 00:00:00	Pending	Delivered	Online
+C0208	  Rahul Yadav 	rahul.yadav@gmail.com	8087103368	Surat	Gujarat	Desk	Furniture	8	12000	96000	2026-05-25 00:00:00	Refunded	Returned	Online
+C0623	Sneha Singh	sneha.singh@gmail.com	7931466076	Hyderabad	Telangana	Backpack	Accessories	8	1800	14400	2025-04-09 00:00:00	Refunded	Cancelled	Online
+C0616	Isha Sharma	isha.sharma@gmail.com	8051035049	Bhopal	Madhya Pradesh	Notebook	Stationery	5	120	600	2025-09-26 00:00:00	Pending	Delivered	Online
+C0152	Priya Mishra	priya.mishra@gmail.com	8499028775	Surat	Gujarat	Keyboard	Electronics	1	1500	1500	2025-11-14 00:00:00	Cancelled	Processing	Online
+C0051	Neha Shah	neha.shah@gmail.com	7765571034	Vadodara	Gujarat	Backpack	Accessories	5	1800	9000	2025-09-17 00:00:00	Pending	 Cancelled 	Marketplace
+C0593	Anjali Kaur	anjali.kaur@gmail.com	7153931824	Ahmedabad	Gujarat	Headphones	Electronics	6	2500	15000	2025-01-12 00:00:00	Refunded	Delivered	Store
+C0864	Riya Patel	riya.patel@gmail.com	8257706935	Jaipur	Rajasthan	Keyboard	Electronics	2	1500	3000	2025-12-12 00:00:00	Cancelled	Processing	Marketplace
+C0424	Nikhil Singh	nikhil.singh@gmail.com	9988564933	Rajkot	Gujarat	Pen Set	Stationery	1	250	250	2024-04-21 00:00:00	Paid	Cancelled	Marketplace
+C0706	Isha Kaur	isha.kaur@gmail.com	8233460089	Delhi	Delhi	Pen Set	Stationery	6	250	1500	2024-09-22 00:00:00	Cancelled	Shipped	Marketplace
+C0577	Sneha Gupta		9713807766	Jaipur	RAJASTHAN	Desk	Furniture	3	12000	36000	2025-09-16 00:00:00	Pending	Processing	Online
+C0002	Neha Sharma	neha.sharma@gmail.com	8996668602	Chennai	Tamil Nadu	Monitor	Electronics	4	12000	48000	2026-03-29 00:00:00	Refunded	Cancelled	Online
+C0342	Anjali Gupta	anjali.gupta@gmail.com	9738056872	Rajkot	Gujarat	Laptop	Electronics	4	55000	220000	2025-12-07 00:00:00	Cancelled	Processing	Online
+C0316	Pooja Gupta	pooja.gupta@gmail.com		Pune	MAHARASHTRA	Laptop	Electronics	2	55000	110000	2025-03-12 00:00:00	Cancelled	Processing	Store
+C0742	Aditya Yadav	aditya.yadav@gmail.com	7125058196	Indore	Madhya Pradesh	Keyboard	Electronics	4	1500	6000	2024-12-04 00:00:00	Cancelled	Cancelled	Store
+C0817	Priya Mishra		7583058549	Jaipur	Rajasthan	Keyboard	Electronics	8	1500	12500	2026-06-04 00:00:00	Cancelled	Cancelled	Store
+C0761	Priya Reddy	priya.reddy@gmail.com	9237992459	Mumbai	Maharashtra	Pen Set	Stationery	6	250	1500	2025-07-22 00:00:00	Paid	Shipped	Marketplace
+C0702	Vikas Chauhan	vikas.chauhan@gmail.com	8518681304	Ahmedabad	Gujarat	Keyboard	Electronics	-1	1500	7500	2026-05-10 00:00:00	Paid	Processing	Store
+C0642	Riya Reddy	riya.reddy@gmail.com	7712833513	Hyderabad	Telangana	Pen Set	Stationery	7	250	1750	2024-07-10 00:00:00	Paid	Processing	Marketplace
+C0879	Vikas Desai	vikas.desai@gmail.com	7135842149	Mumbai	Maharashtra	Office Chair	Furniture	2	8500	17000	2025-05-23 00:00:00	Pending	Processing	Store
+C0850	Pooja Singh	pooja.singh@gmail.com	9255289131	Mumbai	Maharashtra	Keyboard	Electronics	2	1500	3000	2025-01-18 00:00:00	Paid	Shipped	Online
+C0455	Nikhil Sharma	nikhil.sharma@gmail.com		Bhopal	Madhya Pradesh	Notebook	Stationery	3	120	460	2024-07-13 00:00:00	Cancelled	Cancelled	Marketplace
+C0895	Nikhil Verma		8405905813	Vadodara	Gujarat	Monitor	Electronics	3	12000	36000	2024-07-29 00:00:00	Paid	Cancelled	Store
+C0731	Nikhil Patel	nikhil.patel@gmail.com	7017651775	Mumbai	Maharashtra	Laptop	Electronics	2	55000	110000	2024-12-07 00:00:00	Refunded	Delivered	Online
+C0534	Pooja Sharma		9480600589	Lucknow	Uttar Pradesh	Headphones	Electronics	4	2500	10000	2024-11-24 00:00:00	Pending	Shipped	Store
+C0284	Riya Mehta	riya.mehta@gmail.com	8894577179	chennai	Tamil Nadu	Monitor	Electronics	5	12000	60000	2024-06-01 00:00:00	Pending	Processing	Online
+C0016	Isha Gupta	isha.gupta@gmail.com	9207873733	Ahmedabad	Gujarat	Mouse	Electronics	6	800	4800	2025-07-16 00:00:00	Cancelled	Processing	Online
+C0722	Pooja Yadav		8051515688	Vadodara	Gujarat	Monitor	Electronics	5	12000	60000	2025-09-19 00:00:00	Cancelled	Returned	Store
+C0052	Rohan Sharma	rohan.sharma@gmail.com	9021793892	Bhopal	Madhya Pradesh	Backpack	Accessories	1	1800	1800	2024-04-18 00:00:00	Refunded	Delivered	Online
+C0437	Suresh Kumar	suresh.kumar@gmail.com	9560321728	Bhopal	Madhya Pradesh	Pen Set	Stationery	8	250	2000	2025-09-23 00:00:00	Cancelled	Processing	Store
+C0838	Karan Desai		9881365834	Lucknow	Uttar Pradesh	Notebook	Stationery	2	120	240	2026-02-12 00:00:00	Refunded	Returned	Online
+C0096	Mohit Patel	mohit.patel@gmail.com	8956719117	mumbai	Maharashtra	Backpack	Accessories	8	1800	14400	2025-04-26 00:00:00	Pending	Shipped	Online
+C0882	Isha Verma		8561003053	Delhi	Delhi	Keyboard	Electronics	6	1500	9000	2026-03-18 00:00:00	Cancelled	Cancelled	Store
+C0031	Amit Joshi	amit.joshi@gmail.com	7484846239	pune	Maharashtra	Desk	Furniture	8	12000	96000	2026-05-16 00:00:00	Pending	Processing	Store
+C0619	Aditya Kumar	aditya.kumar@gmail.com	9181627202	Ahmedabad	Gujarat	Office Chair	Furniture	2	8500	17000	2024-11-29 00:00:00	Paid	Processing	Marketplace
+C0473	Suresh Yadav	suresh.yadav@gmail.com	8775719463	Rajkot	Gujarat	Pen Set	Stationery	4	250	1000	2025-07-15 00:00:00	Pending	Cancelled	Store
+C0068	Vikas Singh	vikas.singh@gmail.com	9980964394	Hyderabad	Telangana	Office Chair	Furniture	7	8500	59500	2025-08-03 00:00:00	Cancelled	Returned	Marketplace
+C0242	Simran Mishra	simran.mishra@gmail.com	9875932424	Ahmedabad	Gujarat	USB Drive	Accessories	8	900	7200	2024-04-27 00:00:00	Refunded	Processing	Marketplace
+C0100	Mohit Kumar	mohit.kumar@gmail.com	8323003336	Delhi	Delhi	Monitor	Electronics	2	12000	24000	2025-12-02 00:00:00	Refunded	Processing	Store
+C0661	Priya Patel	priya.patel@gmail.com	7934635444	Indore	Madhya Pradesh	Keyboard	Electronics	1	1500	1500	2026-02-14 00:00:00	Pending	Shipped	Store
+C0545	Pooja Shah	pooja.shah@gmail.com	9643862317	Hyderabad	Telangana	Desk	Furniture	4	12000	48000	2024-07-29 00:00:00	Cancelled	Processing	Marketplace
+C0814	Pooja Kaur	pooja.kaur@gmail.com		Kolkata	West Bengal	Smartphone	Electronics	2	28000	56000	2025-08-19 00:00:00	Paid	Returned	Marketplace
+C0414	Rohan Reddy	rohan.reddy@gmail.com	8263513519	Surat	Gujarat	Smartphone	Electronics	1	28000	28000	2024-01-01 00:00:00	Cancelled	Delivered	Store
+C0887	Rahul Singh	rahul.singh@gmail.com	8854203954	Kolkata	West Bengal	Pen Set	Stationery	7	250	1750	2025-10-02 00:00:00	Cancelled	Cancelled	Store
+C0391	Kavita Gupta	kavita.gupta@gmail.com	7907166142	Chennai	Tamil Nadu	Keyboard	Electronics	8	1500	12000	2024-05-22 00:00:00	Pending	Returned	Store
+C0864	Anjali Reddy		8792012815	Vadodara	Gujarat	Headphones	Electronics	3	2500	7500	2024-05-17 00:00:00	Paid	Delivered	Marketplace
+C0017	Rohan Desai	rohan.desai@gmail.com	9090366319	chennai	Tamil Nadu	Office Chair	Furniture	3	8500	25500	2024-03-27 00:00:00	Pending	Cancelled	Store
+C0916	Isha Kaur	isha.kaur@gmail.com	8828385501	Hyderabad	Telangana	Keyboard	Electronics	8	1500	12000	2025-06-05 00:00:00	Refunded	Returned	Store
+C0394	Anjali Singh	anjali.singh@gmail.com	7797966424	Delhi	Delhi	Pen Set	Stationery	1	250	250	2025-08-14 00:00:00	Refunded	Shipped	Marketplace
+C0514	Arjun Shah	arjun.shah@gmail.com	9345766219	Hyderabad	Telangana	Smartphone	Electronics	1	28000	28000	2024-02-08 00:00:00	Refunded	Processing	Online
+C0595	Sneha Desai	sneha.desai@gmail.com	7343868435	Vadodara	Gujarat	USB Drive	Accessories	5	900	4500	2025-04-21 00:00:00	Paid	 Returned 	Marketplace
+C0091	Meena Joshi	meena.joshi@gmail.com	9708676312	Kolkata	West Bengal	Backpack	Accessories	2	1800	3600	2025-12-01 00:00:00	Cancelled	Returned	Online
+C0926	Vikas Gupta	vikas.gupta@gmail.com	7046314343	Jaipur	Rajasthan	Desk	Furniture	-1	12000	96000	2025-08-10 00:00:00	Cancelled	Cancelled	Store
+C0818	Pooja Verma	pooja.verma@gmail.com	7719442108	Surat	Gujarat	USB Drive	Accessories	5	900	4500	2026-01-14 00:00:00	Cancelled	Delivered	Marketplace
+C0485	Aditya Kumar	aditya.kumar@gmail.com	9460414950	Surat	Gujarat	Backpack	Accessories	5	1800	9000	2026-04-08 00:00:00	Paid	Processing	Store
+C0085	  Rohan Gupta 	rohan.gupta@gmail.com	7330120877	Indore	Madhya Pradesh	Headphones	Electronics	5		12500	2024-05-15 00:00:00	Cancelled	Processing	Store
+C0015	Neha Yadav	neha.yadav@gmail.com	7749960739	Bhopal	Madhya Pradesh	Pen Set	Stationery	3	250	750	2025-11-05 00:00:00	Refunded	Processing	Online
+C0268	Meena Joshi	meena.joshi@gmail.com	7776569551	Lucknow	Uttar Pradesh	Notebook	Stationery	1	120	120	2024-12-17 00:00:00	Paid	Shipped	Marketplace
+C0842	Rohan Reddy	rohan.reddy@gmail.com	9130081627	Lucknow	Uttar Pradesh	Office Chair	Furniture	7	8500	59500	2024-08-31 00:00:00	Refunded	Shipped	Online
+C0592	Anjali Sharma	anjali.sharma@gmail.com	9758490418	Mumbai	Maharashtra	Monitor	Electronics	1		12000	2024-06-20 00:00:00	Refunded	Cancelled	Store
+C0309	Sneha Desai	sneha.desai@gmail.com	9287159563	Rajkot	Gujarat	Office Chair	Furniture	7	8500	59500	2025-04-30 00:00:00	Cancelled	Shipped	Marketplace
+C0892	Kavita Sharma	kavita.sharma@gmail.com	8240353129	Bhopal	Madhya Pradesh	Desk	Furniture	7	12000	84000	2025-11-25 00:00:00	Cancelled	Returned	Marketplace
+C0043	Neha Kaur	neha.kaur@gmail.com		Chennai	Tamil Nadu	Smartphone	Electronics	7	28000	196000	2025-09-17 00:00:00	Cancelled	Processing	Store
+C0274	Neha Verma	neha.verma@gmail.com	9810382991	Hyderabad	Telangana	Office Chair	Furniture	8	8500	68000	2026-03-02 00:00:00	Pending	Returned	Online
+C0533	Vikas Mishra	vikas.mishra@gmail.com	9964722828	Vadodara	Gujarat	Smartphone	Electronics	1	28000	28000	2025-11-19 00:00:00	Paid	Delivered	Online
+C0422	Neha Gupta	neha.gupta@gmail.com	7446278368	Chennai	Tamil Nadu	Desk	Furniture	6	12000	72000	2024-08-12 00:00:00	Cancelled	Processing	Online
+C0035	Rahul Yadav	rahul.yadav@gmail.com	7394884830	Surat	Gujarat	Pen Set	Stationery	4	250	1000	2025-09-05 00:00:00	Paid	Delivered	Online
+C0877	Isha Kumar	isha.kumar@gmail.com	8614729199	Chennai	Tamil Nadu	Backpack	Accessories	3	1800	5400	2024-04-23 00:00:00	Pending	Processing	Store
+C0479	Amit Mishra	amit.mishra@gmail.com	8947526113	Bhopal	Madhya Pradesh	Headphones	Electronics	7	2500	17500	2025-12-09 00:00:00	Cancelled	Processing	Online
+C0800	Amit Verma	amit.verma@gmail.com	7267951754	Delhi	DELHI	Office Chair	Furniture	6	8500	51000	2024-03-02 00:00:00	Cancelled	Processing	Online
+C0452	Amit Joshi	amit.joshi@gmail.com	7861867284	Hyderabad	Telangana	Office Chair	Furniture	3	8500	25500	2025-10-22 00:00:00	Refunded	Delivered	Online
+C0554	Kavita Singh	kavita.singh@gmail.com	9636965147	Chennai	Tamil Nadu	Monitor	Electronics	8	12000	96000	2026-01-02 00:00:00	Cancelled	Delivered	Online
+C0075	Amit Yadav	amit.yadav@gmail.com	8076303124	Lucknow	Uttar Pradesh	Desk	Furniture	1	12000	12000	2025-05-24 00:00:00	Pending	Delivered	Online
+C0681	Suresh Verma	suresh.verma@gmail.com	7651149137	Kolkata	West Bengal	Smartphone	Electronics	7	28000	196000	2025-08-11 00:00:00	Paid	Returned	Marketplace
+C0790	Sneha Joshi	sneha.joshi@gmail.com	8872853413	Delhi	Delhi	USB Drive	Accessories	2	900	1800	2025-07-07 00:00:00	Pending	Delivered	Store
+C0706	Sneha Patel	sneha.patel@gmail.com	9436293936	Bengaluru	Karnataka	Smartphone	Electronics	6	28000	168000	2025-11-29 00:00:00	Cancelled	 Cancelled 	Online
+C0648	Amit Mehta	amit.mehta@gmail.com	9296202444	Indore	Madhya Pradesh	Smartphone	Electronics	2	28000	56000	2026-05-11 00:00:00	Refunded	Processing	Marketplace
+C0208	Simran Gupta	simran.gupta@gmail.com	7168926124	Delhi	Delhi	Backpack	Accessories	4	1800	7200	2024-11-02 00:00:00	Refunded	Delivered	Marketplace
+C0706	Anjali Joshi	anjali.joshi@gmail.com	7364481568	Bhopal	Madhya Pradesh	Backpack	Accessories	8	1800	14400	2026-01-22 00:00:00	Pending	Shipped	Online
+C0198	Rahul Desai	rahul.desai@gmail.com	9546681221	Rajkot	Gujarat	Desk	Furniture	7	12000	84000	2024-03-05 00:00:00	Cancelled	Cancelled	Marketplace
+C0855	Mohit Sharma	mohit.sharma@gmail.com		Pune	Maharashtra	Laptop	Electronics	6	55000	330000	2026-03-17 00:00:00	Paid	Cancelled	Online
+C0217	Nikhil Joshi	nikhil.joshi@gmail.com	9912322067	Indore	Madhya Pradesh	Notebook	Stationery	3	120	360	2026-01-28 00:00:00	Pending	Delivered	Online
+C0754	Rohan Joshi	rohan.joshi@gmail.com	9808185031	Surat	Gujarat	Desk	Furniture	1	12000	12000	2024-09-05 00:00:00	Pending	 Delivered 	Online
+C0648	Priya Kaur	priya.kaur@gmail.com	8320003795	Indore	Madhya Pradesh	Monitor	Electronics	-1	12000	96000	2025-09-17 00:00:00	Pending	Returned	Online
+C0838	Neha Patel	neha.patel@gmail.com	9135215050	Hyderabad	Telangana	Pen Set	Stationery	4	250	1000	2024-03-05 00:00:00	Pending	Cancelled	Store
+C0831	Suresh Mehta	suresh.mehta@gmail.com	7518842513	Chennai	Tamil Nadu	Pen Set	Stationery	3	250	750	2024-11-25 00:00:00	Pending	Delivered	Marketplace
+C0178	Vikas Patel	vikas.patel@gmail.com	7518597947	Mumbai	Maharashtra	Keyboard	Electronics	7	1500	10500	2024-06-21 00:00:00	Cancelled	 Returned 	Online
+C0450	Meena Kaur	meena.kaur@gmail.com	9499610004	Surat	Gujarat	Keyboard	Electronics	2	1500	3000	2026-03-21 00:00:00	Refunded	Shipped	Online
+C0901	Sneha Patel	sneha.patel@gmail.com	7027271239	Surat	Gujarat	Keyboard	Electronics	2	1500	3000	2025-12-24 00:00:00	Cancelled	Cancelled	Marketplace
+C0827	Sneha Desai	sneha.desai@gmail.com	7544998804	Rajkot	Gujarat	Keyboard	Electronics	5	1500	7500	2025-06-19 00:00:00	Refunded	Cancelled	Online
+C0179	Isha Desai	isha.desai@gmail.com	7161581876	Hyderabad	Telangana	Keyboard	Electronics	8		12000	2025-09-18 00:00:00	Paid	Processing	Store
+C0429	Rahul Gupta	rahul.gupta@gmail.com	8012061834	Rajkot	Gujarat	Monitor	Electronics	2	12000	24000	2025-09-25 00:00:00	Cancelled	Returned	Marketplace
+C0225	  Mohit Chauhan 	mohit.chauhan@gmail.com	9690643430	Chennai	Tamil Nadu	Mouse	Electronics	5	800	4000	2024-02-24 00:00:00	Pending	Delivered	Online
+C0702	Sneha Joshi		7757305041	Vadodara	Gujarat	Backpack	Accessories	1	1800	1800	2024-02-25 00:00:00	Cancelled	Processing	Online
+C0446	Arjun Mehta		9649218939	Lucknow	UTTAR PRADESH	Desk	Furniture	1		12000	2024-04-16 00:00:00	Paid	Returned	Online
+C0162	Rahul Joshi	rahul.joshi@gmail.com	9211494631	Ahmedabad	Gujarat	Monitor	Electronics	4	12000	48000	2026-01-08 00:00:00	Refunded	Returned	Marketplace
+C0334	Kavita Singh	kavita.singh@gmail.com	9907059529	Bhopal	Madhya Pradesh	Smartphone	Electronics	4	28000	112000	2026-03-08 00:00:00	Paid	Processing	Online
+C0101	  Meena Desai 	meena.desai@gmail.com	8772083970	Indore	Madhya Pradesh	Mouse	Electronics	7	800	5600	2024-08-13 00:00:00	Paid	Cancelled	Marketplace
+C0497	Priya Kaur	priya.kaur@gmail.com	8872026192	Vadodara	Gujarat	Mouse	Electronics	8	800	6400	2024-01-07 00:00:00	Refunded	Processing	Online
+C0469	Karan Mishra	karan.mishra@gmail.com	8540133116	Mumbai	Maharashtra	Mouse	Electronics	6	800	4800	2024-05-10 00:00:00	Paid	Returned	Online
+C0288	Rohan Patel	rohan.patel@gmail.com	8999454573	Jaipur	Rajasthan	Office Chair	Furniture	3	8500	25500	2026-02-17 00:00:00	Cancelled	Shipped	Store
+C0619	Simran Chauhan	simran.chauhan@gmail.com	9740185752	Hyderabad	Telangana	Keyboard	Electronics	4	1500	6000	2024-03-29 00:00:00	Refunded	Returned	Store
+C0883	Karan Yadav	karan.yadav@gmail.com	9033619742	Indore	Madhya Pradesh	Desk	Furniture	5	12000	60000	2024-01-15 00:00:00	Refunded	Shipped	Online
+C0336	Kavita Yadav	kavita.yadav@gmail.com	7955229116	Bhopal	Madhya Pradesh	Pen Set	Stationery	3	250	750	2025-08-10 00:00:00	paid	Cancelled	Online
+C0042	Sneha Desai		9165592658	Surat	Gujarat	Office Chair	Furniture	7	8500	59500	2025-05-05 00:00:00	Paid	Cancelled	Store
+C0247	Amit Gupta	amit.gupta@gmail.com	7053356336	Kolkata	West Bengal	USB Drive	Accessories	7	900	6300	2024-08-11 00:00:00	Pending	Processing	Store
+C0245	Amit Sharma	amit.sharma@gmail.com	9060652074	Chennai	Tamil Nadu	Headphones	Electronics	3	2500	7500	2025-12-21 00:00:00	Refunded	Returned	Marketplace
+C0598	Rahul Joshi	rahul.joshi@gmail.com	8991836786	Lucknow	Uttar Pradesh	Keyboard	Electronics	7	1500	10500	2024-07-08 00:00:00	Cancelled	Cancelled	Marketplace
+C0649	Rahul Reddy	rahul.reddy@gmail.com	9694254580	Ahmedabad	Gujarat	Office Chair	Furniture	6	8500	51000	2025-06-27 00:00:00	paid	Processing	Store
+C0771	Arjun Desai	arjun.desai@gmail.com	9630672799	Bengaluru	Karnataka	Pen Set	Stationery	4	250	1000	2026-03-17 00:00:00	Paid	Returned	Store
+C0754	Priya Gupta	priya.gupta@gmail.com	9897612417	Pune	Maharashtra	Laptop	Electronics	2	55000	110000	2025-01-27 00:00:00	Cancelled	Cancelled	Marketplace
+C0042	Anjali Mehta	anjali.mehta@gmail.com	7752767775	Chennai	Tamil Nadu	Notebook	Stationery	2	120	240	2025-07-28 00:00:00	Pending	Shipped	Store
+C0245	Riya Patel	riya.patel@gmail.com	9787598695	Jaipur	Rajasthan	USB Drive	Accessories	4	900	3600	2026-02-10 00:00:00	Pending	Processing	Store
+C0920	Arjun Gupta	arjun.gupta@gmail.com	9921551603	Delhi	Delhi	Headphones	Electronics	1	2500	2500	2024-03-05 00:00:00	Cancelled	Processing	Store
+C0498	Nikhil Gupta	nikhil.gupta@gmail.com	7527033009	Jaipur	Rajasthan	USB Drive	Accessories	5	900	4500	2025-04-07 00:00:00	Cancelled	Delivered	Online
+C0914	Mohit Patel	mohit.patel@gmail.com	7344329261	Delhi	Delhi	Keyboard	Electronics	5	1500	7500	2024-03-19 00:00:00	Paid	Shipped	Store
+C0115	Rohan Joshi	rohan.joshi@gmail.com	7646384280	Indore	MADHYA PRADESH	Mouse	Electronics	1	800	800	2024-10-27 00:00:00	Refunded	Returned	Online
+C0486	Anjali Shah	anjali.shah@gmail.com	8906364408	Kolkata	West Bengal	Backpack	Accessories	1	1800	1800	2024-10-25 00:00:00	Pending	Delivered	Online
+C0893	Meena Reddy	meena.reddy@gmail.com	9231752989	Chennai	Tamil Nadu	Smartphone	Electronics	7		196000	2025-08-15 00:00:00	Cancelled	Processing	Store
+C0608	Nikhil Reddy	nikhil.reddy@gmail.com	9355655182	Jaipur	Rajasthan	Desk	Furniture	5	12000	60000	2025-08-03 00:00:00	Pending	Processing	Online
+C0809	Arjun Singh	arjun.singh@gmail.com	9079808343	Pune	Maharashtra	Headphones	Electronics	1	2500	2500	2024-05-31 00:00:00	Cancelled	Processing	Store
+C0171	Isha Kaur	isha.kaur@gmail.com	7690587281	Kolkata	West Bengal	Notebook	Stationery	5	120	600	2024-07-05 00:00:00	Pending	Shipped	Online
+C0244	Neha Sharma	neha.sharma@gmail.com	8359897631	Hyderabad	Telangana	Keyboard	Electronics	8	1500	12000	2024-09-23 00:00:00	Cancelled	Shipped	Online
+C0576	Priya Mishra	priya.mishra@gmail.com	8361263098	Pune	Maharashtra	Keyboard	Electronics	6	1500	9000	2025-04-04 00:00:00	Pending	Returned	Store
+C0125	Rahul Shah	rahul.shah@gmail.com	9144979311	Lucknow	Uttar Pradesh	Keyboard	Electronics	8	1500	12000	2024-11-23 00:00:00	Pending	Delivered	Marketplace
+C0560	Nikhil Mehta	nikhil.mehta@gmail.com	9779891609	Kolkata	West Bengal	Headphones	Electronics	8	2500	20000	2024-10-23 00:00:00	Pending	Returned	Marketplace
+C0929	Mohit Mehta	mohit.mehta@gmail.com	9959863754	Ahmedabad	Gujarat	USB Drive	Accessories	8	900	7200	2024-02-11 00:00:00	Pending	Returned	Online
+C0316	Rahul Shah	rahul.shah@gmail.com	9652236748	indore	Madhya Pradesh	Mouse	Electronics	8	800	6400	2024-12-31 00:00:00	Paid	Processing	Online
+C0623	Karan Yadav	karan.yadav@gmail.com	9261016130	Rajkot	Gujarat	Headphones	Electronics	4	2500	10000	2024-01-24 00:00:00	Paid	Returned	Store
+C0694	  Amit Gupta 	amit.gupta@gmail.com	8694036518	Rajkot	Gujarat	Desk	Furniture	6	12000	72000	2025-09-09 00:00:00	Paid	Processing	Store
+C0152	Kavita Mehta	kavita.mehta@gmail.com	8658341072	Pune	Maharashtra	Laptop	Electronics	5	55000	275000	2024-12-19 00:00:00	Cancelled	Processing	Store
+C0896	Riya Patel	riya.patel@gmail.com	7926403640	Kolkata	West Bengal	Desk	Furniture	7	12000	84000	2026-04-02 00:00:00	Refunded	Processing	Online
+C0826	Kavita Desai	kavita.desai@gmail.com	8778948768	Vadodara	Gujarat	Pen Set	Stationery	2	250	500	2024-05-27 00:00:00	Pending	Processing	Store
+C0889	Nikhil Mehta		7283965102	Bhopal	Madhya Pradesh	Pen Set	Stationery	7	250	1750	2024-03-31 00:00:00	Paid	Cancelled	Marketplace
+C0937	Arjun Shah	arjun.shah@gmail.com	7751159774	Bengaluru	Karnataka	Desk	Furniture	3	12000	36000	2024-07-23 00:00:00	Pending	Cancelled	Store
+C0568	Sneha Sharma	sneha.sharma@gmail.com	8297049620	Indore	Madhya Pradesh	Pen Set	Stationery	5	250	1250	2025-05-20 00:00:00	Refunded	Shipped	Online
+C0811	Rahul Kumar	rahul.kumar@gmail.com	8128189228	Mumbai	Maharashtra	Backpack	Accessories	8	1800	14400	2024-07-05 00:00:00	Cancelled	Cancelled	Online
+C0504	Meena Sharma			Lucknow	Uttar Pradesh	Headphones	Electronics	8	2500	20000	2024-03-09 00:00:00	Cancelled	Returned	Store
+C0580	Kavita Reddy	kavita.reddy@gmail.com	8107721600	Chennai	Tamil Nadu	Backpack	Accessories	8	1800	14400	2025-12-11 00:00:00	Paid	Processing	Marketplace
+C0751	Aditya Sharma	aditya.sharma@gmail.com	8114703737	Vadodara	Gujarat	Pen Set	Stationery	1	250	250	2024-05-29 00:00:00	Cancelled	Cancelled	Marketplace
+C0139	Anjali Kumar	anjali.kumar@gmail.com	7227153651	Mumbai	Maharashtra	Smartphone	Electronics	7	28000	196000	2025-10-13 00:00:00	Cancelled	Delivered	Store
+C0299	Nikhil Mishra	nikhil.mishra@gmail.com	7329968072	Bengaluru	Karnataka	Mouse	Electronics	3	800	2400	2026-02-22 00:00:00	Paid	Returned	Online
+C0557	Vikas Reddy	vikas.reddy@gmail.com	8358113461	Indore	Madhya Pradesh	Backpack	Accessories	5	1800	9000	2024-10-04 00:00:00	Cancelled	Delivered	Marketplace
+C0594	Anjali Reddy	anjali.reddy@gmail.com	7617262027	Surat	Gujarat	Keyboard	Electronics	5	1500	7500	2025-01-16 00:00:00	Refunded	Cancelled	Store
+C0944	Simran Patel	simran.patel@gmail.com	7935771229	Vadodara	Gujarat	Notebook	Stationery	4	120	480	2026-05-01 00:00:00	Pending	Returned	Marketplace
+C0707	Nikhil Reddy	nikhil.reddy@gmail.com	9285333436	Kolkata	West Bengal	Notebook	Stationery	2	120	240	2025-03-03 00:00:00	refunded	Delivered	Online
+C0839	Rohan Kaur	rohan.kaur@gmail.com	7074643958	Jaipur	Rajasthan	Smartphone	Electronics	5	28000	140000	2025-12-08 00:00:00	Cancelled	Shipped	Store
+C0912	Isha Gupta	isha.gupta@gmail.com	8469072661	Vadodara	Gujarat	USB Drive	Accessories	5	900	4500	2024-01-30 00:00:00	Paid	Shipped	Online
+C0878	Rohan Desai	rohan.desai@gmail.com	7973129790	Mumbai	Maharashtra	Keyboard	Electronics	4	1500	6000	2024-05-13 00:00:00	Paid	Cancelled	Marketplace
+C0782	Neha Patel	neha.patel@gmail.com	7080772905	lucknow	Uttar Pradesh	Desk	Furniture	7	12000	84000	2024-02-13 00:00:00	Pending	Delivered	Online
+C0813	Nikhil Yadav	nikhil.yadav@gmail.com	7254542263	Jaipur	Rajasthan	Monitor	Electronics	5	12000	60000	2024-02-14 00:00:00	Paid	Processing	Marketplace
+C0011	Neha Chauhan	neha.chauhan@gmail.com	7531689268	Bhopal	Madhya Pradesh	Pen Set	Stationery	4	250	1000	2025-08-24 00:00:00	Pending	Shipped	Marketplace
+C0360	Rahul Patel	rahul.patel@gmail.com	7625162463	Indore	Madhya Pradesh	USB Drive	Accessories	5	900	4500	2025-08-16 00:00:00	Cancelled	Processing	Online
+C0876	Nikhil Chauhan	nikhil.chauhan@gmail.com	9632627835	Rajkot	Gujarat	Notebook	Stationery	2	120	240	2024-04-11 00:00:00	Paid	Returned	Online
+C0733	Karan Verma	karan.verma@gmail.com	7737761377	Bhopal	Madhya Pradesh	Notebook	Stationery	1	120	120	2026-01-12 00:00:00	Paid	Shipped	Marketplace
+C0872	  Sneha Mehta 	sneha.mehta@gmail.com	9998458008	Hyderabad	Telangana	Keyboard	Electronics	8	1500	12000	2025-11-20 00:00:00	Paid	Shipped	Store
+C0389	Kavita Singh			Rajkot	Gujarat	Office Chair	Furniture	2	8500	17000	2026-02-18 00:00:00	Cancelled	Delivered	Store
+C0113	Nikhil Kumar	nikhil.kumar@gmail.com	9129513573	Lucknow	Uttar Pradesh	Smartphone	Electronics	5	28000	140000	2025-07-24 00:00:00	Paid	Delivered	Store
+C0506	Neha Shah	neha.shah@gmail.com	8218101886	Jaipur	Rajasthan	Pen Set	Stationery	5	250	1250	2025-12-04 00:00:00	Refunded	Shipped	Marketplace
+C0418	Pooja Reddy	pooja.reddy@gmail.com	8838081369	Rajkot	Gujarat	Monitor	Electronics	8	12000	96000	2025-11-26 00:00:00	Cancelled	Shipped	Online
+C0691	Sneha Mishra	sneha.mishra@gmail.com	7451709808	Delhi	DELHI	Desk	Furniture	2	12000	24000	2024-05-02 00:00:00	Pending	Cancelled	Store
+C0712	Aditya Patel		7724660700	Ahmedabad	GUJARAT	Smartphone	Electronics	4	28000	112000	2024-12-12 00:00:00	Pending	Returned	Store
+C0126	Meena Reddy	meena.reddy@gmail.com	8824090668	Kolkata	West Bengal	Desk	Furniture	5	12000	60000	2026-02-22 00:00:00	Cancelled	Cancelled	Store
+C0488	Isha Shah	isha.shah@gmail.com	9081052775	Bengaluru	Karnataka	Headphones	Electronics	3	2500	7500	2026-02-25 00:00:00	Refunded	Delivered	Online
+C0257	Sneha Joshi	sneha.joshi@gmail.com	7991372057	Chennai	Tamil Nadu	Keyboard	Electronics	1	1500	1500	2024-04-11 00:00:00	Paid	Delivered	Store
+C0695	Rahul Kumar	rahul.kumar@gmail.com	8643396139	Hyderabad	Telangana	Backpack	Accessories	6	1800	10800	2024-06-05 00:00:00	Cancelled	Returned	Marketplace
+C0099	Amit Mishra	amit.mishra@gmail.com	9233163576	Lucknow	Uttar Pradesh	Desk	Furniture	8	12000	96000	2024-07-25 00:00:00	Cancelled	Cancelled	Store
+C0517	Arjun Gupta	arjun.gupta@gmail.com	8475817955	Lucknow	Uttar Pradesh	Notebook	Stationery	1	120	120	2026-02-21 00:00:00	Paid	Cancelled	Online
+C0393	Mohit Mehta	mohit.mehta@gmail.com	8616353231	Jaipur	Rajasthan	Desk	Furniture	1	12000	12000	2024-02-03 00:00:00	Pending	Returned	Marketplace
+C0882	Pooja Kaur	pooja.kaur@gmail.com	7704994153	Jaipur	Rajasthan	Office Chair	Furniture	3	8500	25500	2024-11-15 00:00:00	Refunded	Cancelled	Online
+C0583	Sneha Mishra	sneha.mishra@gmail.com	9378483743	Chennai	Tamil Nadu	Notebook	Stationery	8	120	960	2025-05-02 00:00:00	Pending	Returned	Online
+C0401	Arjun Joshi	arjun.joshi@gmail.com	9538519431	Delhi	Delhi	Pen Set	Stationery	6	250	1500	2026-02-23 00:00:00	Cancelled	Processing	Online
+C0029	Aditya Sharma	aditya.sharma@gmail.com	7550606479	Indore	Madhya Pradesh	Smartphone	Electronics	6	28000	168000	2026-04-08 00:00:00	Paid	 Processing 	Store
+C0100	Kavita Mehta	kavita.mehta@gmail.com	8534875624	Delhi	Delhi	Smartphone	Electronics	1	28000	28000	2025-11-08 00:00:00	Pending	Shipped	Online
+C0664	Pooja Yadav	pooja.yadav@gmail	7364821968	Bhopal	Madhya Pradesh	USB Drive	Accessories	2	900	1800	2026-06-08 00:00:00	Cancelled	Delivered	Store
+C0174	Rahul Gupta	rahul.gupta@gmail.com	8400661168	Surat	Gujarat	Desk	Furniture	7	12000	84000	2025-08-04 00:00:00	Refunded	Processing	Online
+C0713	Sneha Yadav	sneha.yadav@gmail	7095504800	Pune	Maharashtra	Office Chair	Furniture	7	8500	59500	2024-11-26 00:00:00	Paid	Cancelled	Online
+C0708	Karan Mehta	karan.mehta@gmail.com		Bengaluru	Karnataka	Backpack	Accessories	6	1800	10800	2024-06-19 00:00:00	Cancelled	Processing	Store
+C0207	Sneha Mishra	sneha.mishra@gmail.com	7323502003	Indore	Madhya Pradesh	Notebook	Stationery	4	120	480	2024-10-21 00:00:00	Cancelled	Delivered	Store
+C0588	Suresh Chauhan	suresh.chauhan@gmail.com	7970172879	Hyderabad	Telangana	USB Drive	Accessories	2	900	1800	2026-01-04 00:00:00	Paid	Returned	Store
+C0280	Amit Yadav	amit.yadav@gmail.com	9280901028	Jaipur	Rajasthan	Office Chair	Furniture	4	8500	34000	2024-12-21 00:00:00	Paid	Processing	Marketplace
+C0824	Pooja Shah	pooja.shah@gmail.com	9849524815	Bengaluru	Karnataka	Smartphone	Electronics	4	28000	112000	2025-02-28 00:00:00	Refunded	Processing	Marketplace
+C0528	Mohit Mishra	mohit.mishra@gmail.com	9351762983	Vadodara	Gujarat	Laptop	Electronics	3	55000	165000	2025-08-13 00:00:00	Refunded	Shipped	Marketplace
+C0844	Mohit Verma	mohit.verma@gmail.com	9739872850	Bengaluru	Karnataka	Pen Set	Stationery	7	250	1750	2025-08-02 00:00:00	Paid	Returned	Online
+C0374	  Mohit Kumar 	mohit.kumar@gmail.com	8032398249	Vadodara	Gujarat	USB Drive	Accessories	5	900	4500	2026-05-14 00:00:00	Refunded	Cancelled	Store
+C0881	Amit Mishra	amit.mishra@gmail.com	7874275114	Indore	Madhya Pradesh	Office Chair	Furniture	5	8500	42500	2026-04-23 00:00:00	Cancelled	Shipped	Store
+C0704	Isha Singh	isha.singh@gmail.com	8743180954	Rajkot	Gujarat	Monitor	Electronics	3	12000	36000	2024-07-15 00:00:00	Paid	Shipped	Store
+C0476	Sneha Gupta		8873176604	Delhi	Delhi	Backpack	Accessories	1	1800	1800	2024-07-25 00:00:00	Pending	Processing	Online
+C0030	Arjun Chauhan	arjun.chauhan@gmail.com	8193021614	Chennai	Tamil Nadu	Notebook	Stationery	3	120	360	2025-10-21 00:00:00	Paid	Cancelled	Online
+C0057	Amit Mehta	amit.mehta@gmail.com	9583851226	Mumbai	Maharashtra	Monitor	Electronics	7	12000	84000	2025-01-07 00:00:00	Paid	Cancelled	Marketplace
+C0863	Rohan Singh	rohan.singh@gmail.com	7480745842	Hyderabad	Telangana	USB Drive	Accessories	2	900	1800	2025-06-18 00:00:00	Cancelled	Cancelled	Online
+C0244	Isha Patel	isha.patel@gmail.com		Pune	MAHARASHTRA	Pen Set	Stationery	7	250	1750	2026-04-05 00:00:00	Pending	Cancelled	Online
+C0148	Neha Kumar	neha.kumar@gmail.com	7919589589	Mumbai	Maharashtra	Desk	Furniture	7	12000	84000	2024-09-17 00:00:00	Paid	Cancelled	Marketplace
+C0384	Neha Mehta	neha.mehta@gmail.com	9343957058	Delhi	Delhi	Desk	Furniture	4	12000	48000	2024-10-11 00:00:00	Pending	Processing	Store
+C0733	Anjali Reddy	anjali.reddy@gmail.com	8323586087	Surat	Gujarat	Backpack	Accessories	1	1800	1800	2026-05-11 00:00:00	Paid	Shipped	Store
+C0566	Suresh Verma	suresh.verma@gmail.com	9744265294	Kolkata	West Bengal	Smartphone	Electronics	2	28000	56000	2025-07-01 00:00:00	Pending	Cancelled	Store
+C0009	Suresh Kaur	suresh.kaur@gmail		Mumbai	Maharashtra	Monitor	Electronics	4	12000	48000	2024-10-31 00:00:00	Pending	Shipped	Store
+C0647	Vikas Kaur	vikas.kaur@gmail.com	9767803644	Delhi	Delhi	Laptop	Electronics	5	55000	275000	2026-06-06 00:00:00	Paid	Cancelled	Store
+C0755	Kavita Kaur	kavita.kaur@gmail.com	8429031013	Kolkata	West Bengal	Office Chair	Furniture	2	8500	17000	2026-04-24 00:00:00	Pending	Processing	Marketplace
+C0068	Anjali Shah	anjali.shah@gmail.com	9586068261	Kolkata	West Bengal	Notebook	Stationery	6	120	720	2025-04-09 00:00:00	Paid	Delivered	Marketplace
+C0657	Simran Mishra	simran.mishra@gmail	8904409842	Lucknow	Uttar Pradesh	Backpack	Accessories	3	1800	5400	2024-01-04 00:00:00	Refunded	Shipped	Marketplace
+C0313	Vikas Yadav	vikas.yadav@gmail.com	7353183979	Ahmedabad	Gujarat	Keyboard	Electronics	4	1500	6000	2025-06-12 00:00:00	Pending	Returned	Marketplace
+C0421	Vikas Joshi	vikas.joshi@gmail.com	9054564070	Indore	Madhya Pradesh	USB Drive	Accessories	3	900	2700	2024-09-23 00:00:00	Pending	Returned	Store
+C0819	Pooja Singh	pooja.singh@gmail.com	7362490731	Delhi	Delhi	Smartphone	Electronics	3	28000	84000	2025-02-06 00:00:00	Refunded	Returned	Online
+C0022	Rahul Kaur	rahul.kaur@gmail.com	9398868010	Chennai	Tamil Nadu	Pen Set	Stationery	4	250	1000	2024-04-01 00:00:00	Refunded	Shipped	Store
+C0719	Simran Sharma	simran.sharma@gmail.com	8722431820	Hyderabad	Telangana	Office Chair	Furniture	5	8500	42500	2024-06-01 00:00:00	Paid	Processing	Online
+C0581	Neha Sharma	neha.sharma@gmail.com	9258455735	Delhi	Delhi	Desk	Furniture	8	12000	96000	2024-05-01 00:00:00	Pending	Shipped	Online
+C0883	Arjun Verma	arjun.verma@gmail.com	9122436090	Delhi	Delhi	Keyboard	Electronics	7	1500	10500	2026-05-26 00:00:00	Pending	Returned	Online
+C0844	Pooja Desai	pooja.desai@gmail.com	9908503113	Rajkot	Gujarat	Office Chair	Furniture	3	8500	25400	2025-02-22 00:00:00	Pending	Delivered	Store
+C0269	Meena Yadav	meena.yadav@gmail.com	8936930132	Bhopal	Madhya Pradesh	Mouse	Electronics	6	800	4800	2025-08-19 00:00:00	Refunded	Delivered	Online
+C0481	Rohan Reddy	rohan.reddy@gmail.com	8388330907	Kolkata	West Bengal	Office Chair	Furniture	4	8500	34000	2025-12-31 00:00:00	Refunded	Cancelled	Marketplace
+C0612	Arjun Patel		7409221994	Bengaluru	Karnataka	Laptop	Electronics	1	55000	55000	2024-12-06 00:00:00	Pending	Cancelled	Store
+C0621	Isha Desai	isha.desai@gmail.com	7195472006	Surat	Gujarat	Headphones	Electronics	7	2500	17500	2024-05-11 00:00:00	refunded	Processing	Online
+C0914	Riya Sharma	riya.sharma@gmail.com	9493172294	Vadodara	Gujarat	Headphones	Electronics	3	2500	7500	2025-05-30 00:00:00	Refunded	Processing	Store
+C0136	Amit Mehta	amit.mehta@gmail.com	9278152876	Delhi	Delhi	Keyboard	Electronics	5	1500	7500	2024-04-29 00:00:00	Cancelled	Delivered	Online
+C0512	Arjun Desai	arjun.desai@gmail.com	8548731742	Bhopal	Madhya Pradesh	Office Chair	Furniture	5	8500	42500	2026-06-16 00:00:00	Cancelled	Returned	Store
+C0530	Vikas Shah	vikas.shah@gmail.com	7708600119	Pune	Maharashtra	USB Drive	Accessories	8	900	7200	2026-02-21 00:00:00	Pending	Returned	Marketplace
+C0652	Mohit Sharma	mohit.sharma@gmail.com	7811405047	Vadodara	Gujarat	Laptop	Electronics	4	55000	220000	2024-07-06 00:00:00	Paid	Cancelled	Store
+C0168	Mohit Shah	mohit.shah@gmail.com	7498319477	bhopal	Madhya Pradesh	Desk	Furniture	1	12000	12000	2025-03-28 00:00:00	Cancelled	Returned	Store
+C0469	Sneha Patel	sneha.patel@gmail.com	7635885849	Ahmedabad	Gujarat	Smartphone	Electronics	2	28000	56000	2024-07-27 00:00:00	Cancelled	Shipped	Online
+C0768	Nikhil Reddy	nikhil.reddy@gmail.com	8171630795	Hyderabad	Telangana	Backpack	Accessories	4	1800	7200	2025-08-20 00:00:00	Paid	Returned	Marketplace
+C0185	Kavita Kaur	kavita.kaur@gmail.com	7330005804	Rajkot	Gujarat	Desk	Furniture	2	12000	24000	2024-12-02 00:00:00	Paid	Processing	Marketplace
+C0697	Neha Shah	neha.shah@gmail.com		Hyderabad	Telangana	Monitor	Electronics	6	12000	72000	2024-06-06 00:00:00	Paid	Delivered	Store
+C0851	Sneha Joshi	sneha.joshi@gmail.com	9698771618	Mumbai	Maharashtra	Pen Set	Stationery	1	250	250	2024-12-03 00:00:00	Paid	Returned	Store
+C0333	Aditya Kumar	aditya.kumar@gmail.com	7907813747	Indore	Madhya Pradesh	Laptop	Electronics	5	55000	275000	2024-11-26 00:00:00	Paid	Delivered	Marketplace
+C0617	Suresh Patel	suresh.patel@gmail.com	8713084216	Mumbai	Maharashtra	Keyboard	Electronics	4	1500	6000	2026-02-28 00:00:00	Refunded	Delivered	Online
+C0873	Karan Kumar	karan.kumar@gmail.com	8668607252	Lucknow	Uttar Pradesh	Office Chair	Furniture	5	8500	42500	2025-10-24 00:00:00	Pending	 Delivered 	Store
+C0503	Kavita Desai	kavita.desai@gmail.com	8331874973	Bhopal	Madhya Pradesh	Backpack	Accessories	3	1800	5400	2025-01-02 00:00:00	Paid	Processing	Marketplace
+C0205	Sneha Joshi	sneha.joshi@gmail.com	8666831822	Jaipur	Rajasthan	Headphones	Electronics	7	2500	17500	2024-04-02 00:00:00	Refunded	Processing	Marketplace
+C0191	Kavita Mishra	kavita.mishra@gmail.com	8829729510	Ahmedabad	Gujarat	Laptop	Electronics	6	55000	330000	2025-04-19 00:00:00	Pending	Shipped	Store
+C0540	Nikhil Patel	nikhil.patel@gmail.com	8248559979	Jaipur	Rajasthan	Office Chair	Furniture	2	8500	17000	2026-03-31 00:00:00	Refunded	Processing	Online
+C0131	Pooja Reddy	pooja.reddy@gmail.com	8067958681	Bengaluru	Karnataka	Office Chair	Furniture	5	8500	42500	2025-08-05 00:00:00	Paid	Returned	Online
+C0940	Priya Gupta	priya.gupta@gmail.com	7462276641	Bengaluru	Karnataka	Office Chair	Furniture	7	8500	59500	2024-04-06 00:00:00	Refunded	Returned	Store
+C0364	Arjun Yadav	arjun.yadav@gmail.com	7351197575	Lucknow	Uttar Pradesh	Notebook	Stationery	1	120	120	2024-04-26 00:00:00	Refunded	Shipped	Online
+C0864	Suresh Sharma	suresh.sharma@gmail.com		Delhi	Delhi	USB Drive	Accessories	5	900	4500	2024-11-17 00:00:00	Refunded	Cancelled	Marketplace
+C0828	Arjun Mehta		7803982387	Rajkot	Gujarat	Keyboard	Electronics	2	1500	3000	2026-02-03 00:00:00	Cancelled	Delivered	Store
+C0548	Rahul Sharma	rahul.sharma@gmail.com	8696227959	Ahmedabad	Gujarat	Laptop	Electronics	3	55000	165000	2025-11-02 00:00:00	Refunded	Cancelled	Marketplace
+C0415	Isha Desai	isha.desai@gmail	9090457198	Mumbai	Maharashtra	Pen Set	Stationery	6	250	1500	2025-12-08 00:00:00	Refunded	Processing	Online
+C0129	  Rohan Sharma 	rohan.sharma@gmail.com	7819488717	Ahmedabad	Gujarat	Laptop	Electronics	4	55000	220000	2026-05-29 00:00:00	Paid	Shipped	Store
+C0665	Rohan Mishra		8038438114	Delhi	Delhi	Backpack	Accessories	4	1800	7200	2024-03-29 00:00:00	Cancelled	Cancelled	Online
+C0486	Kavita Sharma	kavita.sharma@gmail.com	7500186829	Vadodara	Gujarat	Keyboard	Electronics	8	1500	12000	2025-05-11 00:00:00	Refunded	Delivered	Store
+C0600	Meena Singh	meena.singh@gmail.com	8266291262	Hyderabad	Telangana	Office Chair	Furniture	1	8500	8500	2024-12-07 00:00:00	Paid	Delivered	Marketplace
+C0868	Kavita Shah	kavita.shah@gmail.com	9129029086	Kolkata	West Bengal	Pen Set	Stationery	5	250	1250	2024-07-02 00:00:00	Refunded	Cancelled	Store
+C0526	Aditya Desai	aditya.desai@gmail.com	9626352261	Bhopal	Madhya Pradesh	Backpack	Accessories	8	1800	14400	2024-08-25 00:00:00	Paid	Returned	Online
+C0433	Aditya Mehta	aditya.mehta@gmail.com	9376215097	Ahmedabad	Gujarat	Headphones	Electronics	7	2500	17500	2025-04-29 00:00:00	Paid	Cancelled	Marketplace
+C0662	Anjali Joshi	anjali.joshi@gmail.com	9995801715	Delhi	Delhi	Laptop	Electronics	3	55000	165000	2024-10-21 00:00:00	Pending	Cancelled	Store
+C0449	Meena Gupta	meena.gupta@gmail.com	7943614372	Hyderabad	Telangana	Backpack	Accessories	6	1800	10800	2025-09-08 00:00:00	Refunded	Shipped	Store
+C0741	Suresh Shah	suresh.shah@gmail.com	9890973792	Chennai	Tamil Nadu	USB Drive	Accessories	6	900	5400	2026-03-26 00:00:00	Refunded	Shipped	Marketplace
+C0213	Pooja Desai	pooja.desai@gmail.com	7370191370	Chennai	Tamil Nadu	Desk	Furniture	3	12000	36000	2024-06-26 00:00:00	Pending	Shipped	Marketplace
+C0504	Neha Chauhan	neha.chauhan@gmail.com	8786639225	Jaipur	Rajasthan	Headphones	Electronics	4	2500	10000	2024-08-02 00:00:00	Paid	Delivered	Store
+C0903	Arjun Mehta	arjun.mehta@gmail.com	9907383020	Vadodara	Gujarat	Keyboard	Electronics	1	1500	1500	2026-04-06 00:00:00	Paid	Processing	Store
+C0117	Isha Singh		7518351152	Bengaluru	Karnataka	Mouse	Electronics	8	800	6400	2024-09-21 00:00:00	Cancelled	Processing	Online
+C0789	Riya Verma	riya.verma@gmail.com	7649306170	Indore	Madhya Pradesh	USB Drive	Accessories	2	900	1800	2025-12-24 00:00:00	Paid	Cancelled	Store
+C0862	Neha Patel	neha.patel@gmail.com	9622389093	Hyderabad	Telangana	Monitor	Electronics	1	12000	12000	2025-03-06 00:00:00	Paid	Shipped	Marketplace
+C0121	  Karan Kaur 	karan.kaur@gmail.com	8553225274	Vadodara	Gujarat	USB Drive	Accessories	5	900	4500	2025-12-26 00:00:00	refunded	Returned	Store
+C0751	  Neha Kumar 	neha.kumar@gmail.com	9779243136	Pune	Maharashtra	Smartphone	Electronics	3	28000	84000	2024-05-05 00:00:00	Pending	Cancelled	Store
+C0788	Rahul Singh	rahul.singh@gmail.com	9034368522	Pune	Maharashtra	Headphones	Electronics	3	2500	7500	2024-03-28 00:00:00	Cancelled	Processing	Marketplace
+C0773	Kavita Mehta	kavita.mehta@gmail.com	9703425939	Chennai	Tamil Nadu	Mouse	Electronics	3	800	2400	2026-02-10 00:00:00	Refunded	Shipped	Online
+C0822	Kavita Shah	kavita.shah@gmail.com	8757970136	Bhopal	Madhya Pradesh	Desk	Furniture	6	12000	72000	2024-01-31 00:00:00	Refunded	Shipped	Online
+C0735	Nikhil Patel		7364119662	Pune	Maharashtra	Smartphone	Electronics	7	28000	196000	2026-03-01 00:00:00	Pending	 Cancelled 	Online
+C0403	Priya Mishra	priya.mishra@gmail.com	9755074460	Vadodara	Gujarat	Pen Set	Stationery	1	250	250	2025-10-08 00:00:00	Cancelled	Cancelled	Store
+C0908	Riya Reddy	riya.reddy@gmail.com	8307057438	Kolkata	West Bengal	USB Drive	Accessories	6	900	5400	2024-12-18 00:00:00	Paid	Processing	Marketplace
+C0626	Rohan Desai	rohan.desai@gmail.com	8734900802	Jaipur	Rajasthan	Backpack	Accessories	4	1800	7200	2025-07-11 00:00:00	Refunded	Processing	Marketplace
+C0415	Karan Kaur		8295067571	Ahmedabad	Gujarat	Laptop	Electronics	6	55000	330000	2025-02-03 00:00:00	Pending	Returned	Marketplace
+C0291	Karan Patel	karan.patel@gmail.com	9197612808	bengaluru	Karnataka	Headphones	Electronics	6	2500	15000	2026-02-14 00:00:00	Pending	Delivered	Online
+C0912	Riya Yadav	riya.yadav@gmail.com	8111065867	Rajkot	Gujarat	Headphones	Electronics	7	2500	17500	2025-06-01 00:00:00	Paid	Delivered	Store
+C0266	Nikhil Mehta	nikhil.mehta@gmail.com	7531772868	Surat	Gujarat	Backpack	Accessories	2	1800	3600	2025-04-04 00:00:00	Cancelled	Returned	Marketplace
+C0006	Mohit Mehta	mohit.mehta@gmail.com	8014030282	Lucknow	Uttar Pradesh	USB Drive	Accessories	4	900	3600	2024-12-24 00:00:00	Cancelled	Processing	Marketplace
+C0804	Aditya Mishra	aditya.mishra@gmail.com	7601172960	Kolkata	West Bengal	Office Chair	Furniture	4	8500	34000	2024-04-17 00:00:00	Cancelled	Returned	Marketplace
+C0198	Anjali Joshi	anjali.joshi@gmail.com	7420854556	Vadodara	Gujarat	USB Drive	Accessories	7	900	6300	2026-04-28 00:00:00	Refunded	Delivered	Online
+C0064	Kavita Kaur	kavita.kaur@gmail.com	7558617715	Jaipur	Rajasthan	Mouse	Electronics	8	800	6400	2024-03-20 00:00:00	Cancelled	Returned	Store
+C0603	Riya Gupta	riya.gupta@gmail.com	8695577814	Indore	Madhya Pradesh	Headphones	Electronics	8	2500	20000	2025-10-13 00:00:00	Refunded	Cancelled	Marketplace
+C0502	Kavita Reddy	kavita.reddy@gmail.com	7699404386	Vadodara	Gujarat	Notebook	Stationery	3	120	360	2025-05-11 00:00:00	Refunded	Shipped	Marketplace
+C0526	Nikhil Patel	nikhil.patel@gmail.com	9982728970	Rajkot	Gujarat	Desk	Furniture	8	12000	96100	2024-02-03 00:00:00	Pending	Returned	Store
+C0944	Neha Yadav	neha.yadav@gmail.com	8755008946	Ahmedabad	Gujarat	Monitor	Electronics	6	12000	72500	2025-08-08 00:00:00	Cancelled	Delivered	Marketplace
+C0157	  Neha Mehta 	neha.mehta@gmail.com	8309641145	Pune	Maharashtra	Headphones	Electronics	5	2500	12500	2025-05-12 00:00:00	Paid	Shipped	Online
+C0803	Aditya Shah	aditya.shah@gmail.com	7208954648	Bhopal	Madhya Pradesh	Headphones	Electronics	5	2500	12500	2024-08-08 00:00:00	Pending	Cancelled	Online
+C0126	Riya Mehta	riya.mehta@gmail.com	7290187466	Indore	Madhya Pradesh	Laptop	Electronics	7	55000	385000	2025-05-07 00:00:00	Cancelled	Returned	Store
+C0922	Vikas Chauhan	vikas.chauhan@gmail.com	8620515349	Jaipur	Rajasthan	USB Drive	Accessories	3	900	2700	2026-02-19 00:00:00	Pending	Returned	Marketplace
+C0472	Mohit Mishra	mohit.mishra@gmail.com	8928761313	Vadodara	Gujarat	USB Drive	Accessories	6	900	5400	2024-04-01 00:00:00	Refunded	Cancelled	Online
+C0922	Suresh Mehta	suresh.mehta@gmail.com	9323553486	Surat	Gujarat	Backpack	Accessories	8	1800	14400	2026-01-23 00:00:00	Cancelled	Delivered	Online
+C0725	Rahul Yadav	rahul.yadav@gmail.com	9706298441	Lucknow	Uttar Pradesh	USB Drive	Accessories	5	900	4500	2025-07-28 00:00:00	Paid	Returned	Online
+C0198	Isha Gupta	isha.gupta@gmail.com	9477575864	Lucknow	Uttar Pradesh	Laptop	Electronics	4	55000	220000	2026-07-02 00:00:00	Refunded	Returned	Online
+C0124	Riya Kumar	riya.kumar@gmail.com	7081490931	Mumbai	Maharashtra	Mouse	Electronics	4	800	3200	2026-04-29 00:00:00	Refunded	Delivered	Marketplace
+C0622	Vikas Shah	vikas.shah@gmail.com	9529276291	Surat	Gujarat	Desk	Furniture	1	12000	12000	2024-12-14 00:00:00	Refunded	Shipped	Store
+C0025	Nikhil Mehta		8640724675	Mumbai	Maharashtra	Monitor	Electronics	2	12000	24000	2024-04-11 00:00:00	Pending	Processing	Online
+C0188	Arjun Chauhan	arjun.chauhan@gmail.com	7384951755	Vadodara	Gujarat	Headphones	Electronics	7	2500	17500	2025-11-25 00:00:00	Pending	Delivered	Marketplace
+C0334	Simran Sharma	simran.sharma@gmail.com	7251263235	mumbai	Maharashtra	Office Chair	Furniture	2	8500	17000	2024-11-23 00:00:00	Pending	Cancelled	Store
+C0265	Suresh Reddy	suresh.reddy@gmail.com	7519546158	Surat	Gujarat	Mouse	Electronics	4	800	3200	2026-02-09 00:00:00	Pending	Cancelled	Marketplace
+C0771	Nikhil Shah	nikhil.shah@gmail.com	7494270721	Mumbai	Maharashtra	Laptop	Electronics	6	55000	330000	2025-04-20 00:00:00	Refunded	Delivered	Store
+C0030	Kavita Mishra	kavita.mishra@gmail.com	8003907590	Bhopal	Madhya Pradesh	Laptop	Electronics	5	55000	275000	2025-07-21 00:00:00	Paid	Shipped	Marketplace
+C0668	Rohan Verma	rohan.verma@gmail.com	9440596445	Delhi	Delhi	Desk	Furniture	2	12000	24000	2026-05-16 00:00:00	Pending	Shipped	Store
+C0554	Simran Chauhan		8052960554	Bengaluru	Karnataka	Office Chair	Furniture	8	8500	68000	2024-12-02 00:00:00	paid	Cancelled	Marketplace
+C0297	Simran Sharma	simran.sharma@gmail.com	7258449780	Bhopal	Madhya Pradesh	Desk	Furniture	5	12000	60000	2025-09-04 00:00:00	Cancelled	Cancelled	Store
+C0863	Karan Yadav	karan.yadav@gmail.com	9191843886	Mumbai	Maharashtra	Laptop	Electronics	3	55000	165000	2026-01-26 00:00:00	Paid	Processing	Online
+C0405	Neha Reddy	neha.reddy@gmail.com	7599793329	Kolkata	West Bengal	Notebook	Stationery	5	120	600	2026-06-18 00:00:00	Refunded	Shipped	Marketplace
+C0517	Vikas Kaur	vikas.kaur@gmail.com	9929601471	Pune	Maharashtra	Backpack	Accessories	5	1800	9000	2026-02-09 00:00:00	Refunded	Processing	Online
+C0679	Vikas Mehta	vikas.mehta@gmail.com	7904622735	Jaipur	Rajasthan	Pen Set	Stationery	6	250	1500	2024-01-17 00:00:00	Pending	Delivered	Marketplace
+C0488	Rahul Kaur	rahul.kaur@gmail.com	7041139816	Chennai	TAMIL NADU	Keyboard	Electronics	7		10500	2025-07-23 00:00:00	Refunded	Cancelled	Marketplace
+C0084	  Amit Gupta 	amit.gupta@gmail.com		Bhopal	Madhya Pradesh	Backpack	Accessories	8	1800	14400	2025-11-19 00:00:00	Paid	Processing	Store
+C0848	Isha Mehta	isha.mehta@gmail.com	8661083050	Vadodara	Gujarat	USB Drive	Accessories	1	900	900	2024-05-07 00:00:00	Refunded	Processing	Online
+C0456	Rahul Singh	rahul.singh@gmail.com	7084961603	Lucknow	UTTAR PRADESH	Headphones	Electronics	6	2500	15000	2024-07-15 00:00:00	Paid	Returned	Marketplace
+C0311	Meena Singh	meena.singh@gmail.com		Pune	Maharashtra	Laptop	Electronics	5	55000	275000	2025-05-19 00:00:00	Pending	Delivered	Online
+C0841	Suresh Patel	suresh.patel@gmail.com	8191198671	Hyderabad	Telangana	Notebook	Stationery	8	120	960	2024-06-23 00:00:00	Pending	 Returned 	Marketplace
+C0699	Isha Yadav	isha.yadav@gmail.com	7753890647	Ahmedabad	Gujarat	Pen Set	Stationery	-3	250	750	2026-02-02 00:00:00	Paid	Shipped	Store
+C0584	Meena Kaur	meena.kaur@gmail.com	9246611301	Kolkata	West Bengal	Headphones	Electronics	4	2500	10000	2026-05-18 00:00:00	Paid	Returned	Marketplace
+C0259	Riya Kaur	riya.kaur@gmail.com	8949597857	Surat	Gujarat	Office Chair	Furniture	1	8500	8500	2026-05-24 00:00:00	Cancelled	Cancelled	Store
+C0281	Neha Mishra	neha.mishra@gmail.com	9226061246	Jaipur	Rajasthan	Desk	Furniture	6	12000	72000	2025-06-13 00:00:00	Paid	Shipped	Online
+C0285	Kavita Gupta	kavita.gupta@gmail.com	8927845458	Pune	Maharashtra	Laptop	Electronics	7	55000	385000	2024-07-18 00:00:00	Cancelled	Delivered	Marketplace
+C0828	Rahul Desai	rahul.desai@gmail.com	7969064866	Kolkata	West Bengal	Office Chair	Furniture	2	8500	17000	2024-09-12 00:00:00	Pending	Shipped	Store
+C0319	Amit Mishra	amit.mishra@gmail.com	9685620292	Ahmedabad	Gujarat	Laptop	Electronics	8	55000	440000	2025-03-18 00:00:00	Paid	Returned	Marketplace
+C0343	Arjun Singh	arjun.singh@gmail.com	7463172080	Jaipur	Rajasthan	Mouse	Electronics	6		4800	2026-05-02 00:00:00	Paid	Processing	Marketplace
+C0814	Meena Patel	meena.patel@gmail.com	9576828779	Hyderabad	Telangana	Desk	Furniture	2	12000	24000	2025-10-02 00:00:00	Refunded	Returned	Online
+C0088	Priya Kaur	priya.kaur@gmail.com	7143209999	Delhi	Delhi	Smartphone	Electronics	2	28000	56000	2026-03-12 00:00:00	Pending	Delivered	Store
+C0057	Pooja Yadav	pooja.yadav@gmail.com	9689444996	Delhi	Delhi	Monitor	Electronics	2	12000	24000	2025-11-24 00:00:00	Paid	Returned	Online
+C0302	  Suresh Shah 	suresh.shah@gmail.com	7411587803	hyderabad	Telangana	Office Chair	Furniture	4	8500	34000	2026-06-04 00:00:00	Paid	Cancelled	Store
+C0476	  Kavita Kaur 	kavita.kaur@gmail.com	9663784672	Hyderabad	Telangana	Monitor	Electronics	6	12000	72000	2025-10-28 00:00:00	Paid	Cancelled	Marketplace
+C0337	Aditya Singh	aditya.singh@gmail.com		Ahmedabad	Gujarat	Laptop	Electronics	2	55000	110000	2025-08-30 00:00:00	Pending	Returned	Online
+C0653	Nikhil Verma	nikhil.verma@gmail.com	8526393650	Delhi	Delhi	Desk	Furniture	8	12000	96000	2024-07-09 00:00:00	Pending	Shipped	Online
+C0062	Rohan Verma	rohan.verma@gmail.com	9510504153	Delhi	Delhi	Notebook	Stationery	6	120	720	2024-11-14 00:00:00	Pending	Shipped	Store
+C0317	Isha Mehta	isha.mehta@gmail.com	8250110133	Pune	Maharashtra	Laptop	Electronics	3	55000	165000	2024-02-28 00:00:00	Pending	Returned	Marketplace
+C0880	Priya Shah	priya.shah@gmail.com	8476678923	Rajkot	Gujarat	Mouse	Electronics	4	800	3200	2026-03-15 00:00:00	Paid	Processing	Online
+C0684	Sneha Desai	sneha.desai@gmail.com	9971434495	Jaipur	Rajasthan	Pen Set	Stationery	6	250	1500	2026-05-22 00:00:00	Cancelled	Returned	Store
+C0429	Vikas Kumar	vikas.kumar@gmail.com	7450318292	Jaipur	Rajasthan	Laptop	Electronics	8	55000	440000	2024-08-12 00:00:00	Paid	Shipped	Marketplace
+C0236	Mohit Yadav	mohit.yadav@gmail.com	7915422939	Rajkot	Gujarat	Desk	Furniture	6	12000	72000	2026-04-06 00:00:00	Refunded	Shipped	Store
+C0189	Rahul Mehta		7042486233	Ahmedabad	Gujarat	Smartphone	Electronics	1	28000	28000	2025-07-22 00:00:00	Paid	Shipped	Store
+C0451	Karan Mishra	karan.mishra@gmail.com	9515503899	Bhopal	Madhya Pradesh	Smartphone	Electronics	1	28000	28000	2024-01-31 00:00:00	Pending	Shipped	Store
+C0179	Meena Kaur	meena.kaur@gmail.com	8125276504	Kolkata	West Bengal	Keyboard	Electronics	6	1500	9000	2026-05-17 00:00:00	Pending	Shipped	Online
+C0023	Simran Reddy	simran.reddy@gmail.com	8124373488	Bhopal	Madhya Pradesh	Monitor	Electronics	1	12000	12000	2026-05-01 00:00:00	Pending	Cancelled	Marketplace
+C0807	Neha Mehta	neha.mehta@gmail.com	7902962666	Mumbai	Maharashtra	Desk	Furniture	4	12000	48000	2025-01-13 00:00:00	Cancelled	Shipped	Marketplace
+C0819	Isha Kaur	isha.kaur@gmail.com	8862804888	Bhopal	MADHYA PRADESH	USB Drive	Accessories	2	900	1800	2024-05-01 00:00:00	Pending	Shipped	Online
+C0197	Riya Shah	riya.shah@gmail.com	9982227275	Pune	Maharashtra	Smartphone	Electronics	7	28000	196000	2025-10-13 00:00:00	Pending	Delivered	Marketplace
+C0602	Karan Reddy	karan.reddy@gmail.com	9299819036	Mumbai	Maharashtra	Keyboard	Electronics	6	1500	9000	2024-09-10 00:00:00	Paid	Processing	Online
+C0872	Nikhil Yadav	nikhil.yadav@gmail.com	9100198814	Rajkot	Gujarat	USB Drive	Accessories	2	900	1800	2026-03-14 00:00:00	Refunded	Returned	Online
+C0172	Nikhil Shah	nikhil.shah@gmail.com		Lucknow	Uttar Pradesh	Notebook	Stationery	6	120	720	2025-05-25 00:00:00	Refunded	Shipped	Store
+C0730	Anjali Gupta	anjali.gupta@gmail.com	9982896336	Jaipur	Rajasthan	USB Drive	Accessories	8	900	7200	2025-04-30 00:00:00	Cancelled	Returned	Store
+C0654	Aditya Mishra	aditya.mishra@gmail.com	7157215100	Rajkot	Gujarat	Mouse	Electronics	4	800	3200	2025-04-07 00:00:00	Pending	Cancelled	Online
+C0314	Kavita Kaur	kavita.kaur@gmail.com	8619559006	Hyderabad	Telangana	Keyboard	Electronics	6	1500	9000	2024-09-17 00:00:00	Paid	Shipped	Online
+C0303	Mohit Gupta	mohit.gupta@gmail.com	8510002930	Rajkot	Gujarat	Pen Set	Stationery	1	250	250	2025-04-21 00:00:00	Cancelled	Cancelled	Store
+C0479	Kavita Shah	kavita.shah@gmail.com	8578451771	Lucknow	Uttar Pradesh	Desk	Furniture	6	12000	72000	2024-10-06 00:00:00	Refunded	Delivered	Online
+C0453	Meena Verma	meena.verma@gmail.com	9771778007	Ahmedabad	Gujarat	Smartphone	Electronics	2	28000	56000	2024-10-28 00:00:00	Paid	Processing	Online
+C0101	Neha Patel	neha.patel@gmail.com	8547205674	Surat	Gujarat	Notebook	Stationery	4	120	480	2024-12-07 00:00:00	Pending	Processing	Store
+C0310	Arjun Singh	arjun.singh@gmail.com	9594306443	Vadodara	Gujarat	USB Drive	Accessories	5	900	4500	2024-09-01 00:00:00	Cancelled	Processing	Store
+C0802	Suresh Shah	suresh.shah@gmail.com	9490882519	Lucknow	Uttar Pradesh	Backpack	Accessories	1	1800	1800	2025-04-28 00:00:00	Pending	Cancelled	Online
+C0233	Karan Joshi	karan.joshi@gmail.com	8003833443	Bengaluru	Karnataka	Pen Set	Stationery	8	250	2000	2026-01-09 00:00:00	Refunded	Processing	Online
+C0321	Karan Shah	karan.shah@gmail.com	9997634920	Delhi	Delhi	Mouse	Electronics	8	800	6400	2025-04-05 00:00:00	Paid	Processing	Online
+C0592	Rohan Verma	rohan.verma@gmail.com	7041580252	Jaipur	Rajasthan	Backpack	Accessories	6	1800	10800	2024-12-13 00:00:00	Pending	Cancelled	Store
+C0703	  Suresh Chauhan 	suresh.chauhan@gmail.com	9965754837	Bengaluru	Karnataka	Headphones	Electronics	6	2500	15000	2025-08-24 00:00:00	Paid	Returned	Online
+C0945	Rohan Kumar	rohan.kumar@gmail.com	8418415203	Hyderabad	Telangana	Backpack	Accessories	-2	1800	12600	2025-01-25 00:00:00	Pending	Cancelled	Online
+C0548	Suresh Singh	suresh.singh@gmail.com	9039154519	Ahmedabad	Gujarat	Smartphone	Electronics	8	28000	224000	2025-10-16 00:00:00	Cancelled	Delivered	Online
+C0107	Riya Kumar	riya.kumar@gmail.com	7137693023	indore	Madhya Pradesh	USB Drive	Accessories	8	900	7200	2024-01-28 00:00:00	Pending	Shipped	Online
+C0934	Suresh Verma	suresh.verma@gmail.com	7884300678	Rajkot	Gujarat	Headphones	Electronics	2	2500	5000	2025-04-10 00:00:00	Paid	Processing	Marketplace
+C0012	Simran Mehta	simran.mehta@gmail.com	8764635577	Delhi	Delhi	Keyboard	Electronics	2	1500	3000	2024-05-12 00:00:00	Refunded	Cancelled	Marketplace
+C0071	Suresh Kaur	suresh.kaur@gmail.com	7886823531	Vadodara	Gujarat	Mouse	Electronics	5	800	4000	2025-03-18 00:00:00	Refunded	Shipped	Marketplace
+C0589	Pooja Yadav	pooja.yadav@gmail.com	7871761712	Bengaluru	Karnataka	USB Drive	Accessories	8	900	7200	2024-10-09 00:00:00	Pending	Delivered	Online
+C0457	Amit Reddy	amit.reddy@gmail.com	8714709481	Hyderabad	Telangana	Mouse	Electronics	6	800	4800	2025-05-08 00:00:00	Refunded	Cancelled	Store
+C0590	Priya Desai	priya.desai@gmail.com	7391283036	Mumbai	Maharashtra	Backpack	Accessories	8	1800	14400	2024-12-21 00:00:00	Cancelled	Cancelled	Marketplace
+C0844	Simran Shah	simran.shah@gmail.com	8070025912	Vadodara	Gujarat	Pen Set	Stationery	7	250	1750	2025-04-13 00:00:00	Refunded	Shipped	Marketplace
+C0583	Neha Shah	neha.shah@gmail.com	7187537466	Rajkot	Gujarat	Keyboard	Electronics	5	1500	7500	2025-05-10 00:00:00	Cancelled	Delivered	Marketplace
+C0744	Karan Kaur	karan.kaur@gmail.com	9119513018	Delhi	Delhi	Notebook	Stationery	2	120	240	2025-01-12 00:00:00	Paid	Delivered	Marketplace
+C0785	Vikas Shah	vikas.shah@gmail.com	8936755326	vadodara	Gujarat	Headphones	Electronics	4	2500	10000	2025-06-02 00:00:00	Paid	Cancelled	Online
+C0075	Mohit Shah	mohit.shah@gmail.com	8475998631	Kolkata	West Bengal	Office Chair	Furniture	4	8500	34000	2025-02-10 00:00:00	Paid	Delivered	Store
+C0118	Rohan Mehta	rohan.mehta@gmail.com	9878897555	Kolkata	West Bengal	Desk	Furniture	8	12000	96000	2025-04-17 00:00:00	Paid	Delivered	Marketplace
+C0673	Meena Desai	meena.desai@gmail.com	8880008770	Vadodara	Gujarat	Desk	Furniture	5		60000	2026-05-11 00:00:00	Pending	Shipped	Online
+C0622	Neha Kumar	neha.kumar@gmail.com	8263341689	Ahmedabad	Gujarat	Notebook	Stationery	7	120	840	2024-06-21 00:00:00	Paid	Delivered	Marketplace
+C0280	Rohan Joshi	rohan.joshi@gmail.com	8537971916	Vadodara	Gujarat	Mouse	Electronics	1	800	800	2025-11-22 00:00:00	Pending	Cancelled	Marketplace
+C0049	Nikhil Mishra	nikhil.mishra@gmail.com	9845587379	Kolkata	West Bengal	Backpack	Accessories	2	1800	3600	2025-02-03 00:00:00	Cancelled	Cancelled	Online
+C0613	Rahul Sharma	rahul.sharma@gmail.com	8620901440	Lucknow	Uttar Pradesh	Mouse	Electronics	4	800	3200	2025-01-18 00:00:00	Pending	Shipped	Online
+C0017	Kavita Sharma	kavita.sharma@gmail.com	7062534560	Pune	Maharashtra	Mouse	Electronics	2		1600	2024-08-13 00:00:00	Paid	Shipped	Marketplace
+C0172	Priya Shah	priya.shah@gmail.com	9201171190	Ahmedabad	Gujarat	Smartphone	Electronics	6	28000	168000	2025-07-29 00:00:00	Pending	Returned	Online
+C0555	Suresh Shah	suresh.shah@gmail.com	7518849078	Rajkot	GUJARAT	Mouse	Electronics	2	800	1600	2024-12-31 00:00:00	Cancelled	Shipped	Online
+C0412	Vikas Sharma		8671543978	Rajkot	Gujarat	Desk	Furniture	4	12000	48000	2024-03-08 00:00:00	Cancelled	Returned	Store
+C0045	Amit Kaur	amit.kaur@gmail.com	7938711724	Delhi	Delhi	Headphones	Electronics	8	2500	20000	2024-04-14 00:00:00	Pending	Processing	Online
+C0615	Vikas Mishra	vikas.mishra@gmail.com	9990651739	Delhi	Delhi	Backpack	Accessories	3	1800	5400	2024-12-06 00:00:00	Pending	Processing	Marketplace
+C0494	Amit Mehta	amit.mehta@gmail.com	7075801011	Hyderabad	Telangana	Pen Set	Stationery	8	250	2000	2025-01-26 00:00:00	Pending	Returned	Marketplace
+C0722	Rahul Singh	rahul.singh@gmail.com	7091110776	hyderabad	Telangana	Monitor	Electronics	5	12000	60000	2024-08-30 00:00:00	Refunded	Shipped	Marketplace
+C0082	Priya Kumar	priya.kumar@gmail.com	8608566723	Jaipur	Rajasthan	Headphones	Electronics	4		10000	2024-06-04 00:00:00	Refunded	Shipped	Marketplace
+C0039	Meena Kaur	meena.kaur@gmail.com	9568713374	Jaipur	Rajasthan	USB Drive	Accessories	6	900	5400	2024-05-17 00:00:00	Cancelled	Processing	Marketplace
+C0806	Priya Gupta	priya.gupta@gmail.com	8781953573	Chennai	Tamil Nadu	Headphones	Electronics	1	2500	2500	2024-08-22 00:00:00	Cancelled	Processing	Online
+C0211	Riya Sharma	riya.sharma@gmail.com	9856179077	Rajkot	Gujarat	Backpack	Accessories	4	1800	7200	2025-09-14 00:00:00	Refunded	Returned	Store
+C0188	Mohit Mishra	mohit.mishra@gmail.com	7025953043	Ahmedabad	Gujarat	Desk	Furniture	2	12000	24000	2024-07-16 00:00:00	Paid	Shipped	Online
+C0129	Amit Kumar	amit.kumar@gmail.com	9545329249	Bengaluru	Karnataka	Mouse	Electronics	4	800	3200	2025-03-06 00:00:00	Paid	Cancelled	Marketplace
+C0479	Pooja Kumar	pooja.kumar@gmail		Rajkot	Gujarat	Office Chair	Furniture	3	8500	25500	2025-09-12 00:00:00	Pending	Processing	Store
+C0591	Mohit Mishra			Mumbai	Maharashtra	Desk	Furniture	2	12000	24000	2025-01-03 00:00:00	Refunded	Cancelled	Online
+C0483	Mohit Shah	mohit.shah@gmail.com	9170215005	Hyderabad	TELANGANA	USB Drive	Accessories	7	900	6300	2026-02-17 00:00:00	Pending	Cancelled	Online
+C0781	Suresh Shah	suresh.shah@gmail.com	7357482385	Lucknow	Uttar Pradesh	Headphones	Electronics	3	2500	7600	2025-07-20 00:00:00	Pending	Processing	Store
+C0475	Pooja Joshi	pooja.joshi@gmail.com	8216445336	Delhi	Delhi	Notebook	Stationery	-2	120	960	2024-03-14 00:00:00	Cancelled	Shipped	Marketplace
+C0481	Karan Kumar	karan.kumar@gmail.com	7814436678	Surat	Gujarat	Laptop	Electronics	6	55000	330000	2025-05-18 00:00:00	Refunded	Cancelled	Store
+C0761	Anjali Shah	anjali.shah@gmail.com	9102606026	Mumbai	Maharashtra	Backpack	Accessories	2	1800	3600	2025-02-22 00:00:00	Paid	Delivered	Store
+C0580	Simran Singh	simran.singh@gmail.com	8873885378	Mumbai	Maharashtra	USB Drive	Accessories	6	900	5400	2025-06-05 00:00:00	Refunded	Processing	Marketplace
+C0060	Suresh Kaur	suresh.kaur@gmail.com	8821239360	Kolkata	West Bengal	Mouse	Electronics	4	800	3200	2025-05-04 00:00:00	Paid	Processing	Marketplace
+C0724	Rahul Desai	rahul.desai@gmail.com	9859055095	Chennai	Tamil Nadu	Keyboard	Electronics	5	1500	7500	2025-09-11 00:00:00	refunded	Shipped	Store
+C0254	Isha Yadav	isha.yadav@gmail.com	9845865358	Indore	Madhya Pradesh	Keyboard	Electronics	1	1500	1500	2024-04-29 00:00:00	Paid	Cancelled	Store
+C0724	Aditya Kaur		7345093405	Bengaluru	Karnataka	Mouse	Electronics	7	800	5600	2024-06-18 00:00:00	Refunded	 Processing 	Marketplace
+C0310	Nikhil Gupta	nikhil.gupta@gmail.com	9828176084	Bhopal	Madhya Pradesh	Office Chair	Furniture	5	8500	42500	2026-01-21 00:00:00	Refunded	Delivered	Online
+C0652	Aditya Chauhan	aditya.chauhan@gmail.com	8479155865	Indore	Madhya Pradesh	Keyboard	Electronics	5	1500	7500	2026-02-05 00:00:00	Pending	Cancelled	Marketplace
+C0316	Rahul Kumar	rahul.kumar@gmail.com	9111935339	Surat	Gujarat	Monitor	Electronics	2	12000	24000	2026-03-03 00:00:00	Refunded	Returned	Store
+C0671	Pooja Desai	pooja.desai@gmail.com	8850914417	Vadodara	Gujarat	Keyboard	Electronics	6	1500	9000	2024-07-09 00:00:00	Pending	Shipped	Store
+C0187	Nikhil Patel	nikhil.patel@gmail.com	8935573331	Hyderabad	Telangana	Mouse	Electronics	3	800	2400	2024-07-24 00:00:00	Paid	Shipped	Online
+C0266	Kavita Joshi	kavita.joshi@gmail.com	9692246047	Bhopal	Madhya Pradesh	Pen Set	Stationery	2	250	500	2026-06-08 00:00:00	Pending	Delivered	Store
+C0088	  Suresh Patel 	suresh.patel@gmail.com	8188684621	Ahmedabad	Gujarat	Smartphone	Electronics	1	28000	28000	2025-08-22 00:00:00	Pending	Cancelled	Store
+C0689	Neha Sharma	neha.sharma@gmail.com	7262235551	Mumbai	Maharashtra	Laptop	Electronics	1	55000	55000	2024-04-09 00:00:00	Pending	Returned	Online
+C0385	Isha Gupta	isha.gupta@gmail.com	8141756063	Bhopal	Madhya Pradesh	Desk	Furniture	-2		96000	2026-02-14 00:00:00	Cancelled	Returned	Store
+C0345	Anjali Mishra	anjali.mishra@gmail.com	8473506403	Pune	Maharashtra	Mouse	Electronics	6	800	4800	2025-11-12 00:00:00	Refunded	Cancelled	Marketplace
+C0059	Anjali Reddy	anjali.reddy@gmail.com	8418435511	Lucknow	Uttar Pradesh	Monitor	Electronics	1	12000	12000	2025-04-12 00:00:00	Refunded	Shipped	Online
+C0617	Neha Reddy	neha.reddy@gmail.com	9279035657	Mumbai	MAHARASHTRA	USB Drive	Accessories	4	900	3600	2025-01-12 00:00:00	Refunded	Returned	Marketplace
+C0675	Sneha Gupta	sneha.gupta@gmail.com	8774365207	Chennai	Tamil Nadu	Mouse	Electronics	1	800	800	2025-10-15 00:00:00	Cancelled	Delivered	Marketplace
+C0369	Priya Chauhan	priya.chauhan@gmail.com	8398120064	Chennai	Tamil Nadu	Desk	Furniture	4	12000	48000	2025-09-13 00:00:00	Refunded	Cancelled	Marketplace
+C0628	Amit Mehta	amit.mehta@gmail.com	8837886403	Bhopal	Madhya Pradesh	Desk	Furniture	2	12000	24000	2026-01-21 00:00:00	Refunded	Processing	Marketplace
+C0200	Rohan Reddy	rohan.reddy@gmail.com	9233616746	Bhopal	Madhya Pradesh	Pen Set	Stationery	1	250	150	2024-05-10 00:00:00	Refunded	Delivered	Store
+C0853	Riya Reddy	riya.reddy@gmail.com	9004903816	Vadodara	Gujarat	Desk	Furniture	2	12000	24000	2025-08-05 00:00:00	Pending	Shipped	Online
+C0175	Amit Patel	amit.patel@gmail.com	8867852958	Kolkata	West Bengal	Laptop	Electronics	3	55000	165000	2024-11-30 00:00:00	Refunded	Processing	Online
+C0737	  Arjun Mishra 	arjun.mishra@gmail.com	9045702848	Bhopal	Madhya Pradesh	Backpack	Accessories	2	1800	3600	2025-11-12 00:00:00	Pending	Returned	Marketplace
+C0743	Sneha Patel	sneha.patel@gmail.com	9971192022	Pune	Maharashtra	Mouse	Electronics	2	800	1600	2025-10-21 00:00:00	Cancelled	Cancelled	Marketplace
+C0761	Suresh Mishra	suresh.mishra@gmail.com	9757807940	Lucknow	Uttar Pradesh	Notebook	Stationery	7	120	840	2026-04-07 00:00:00	Pending	Shipped	Store
+C0119	Pooja Patel	pooja.patel@gmail.com	7478384314	Ahmedabad	Gujarat	Smartphone	Electronics	4	28000	112000	2026-02-01 00:00:00	Paid	Returned	Store
+C0131	Vikas Shah	vikas.shah@gmail.com	9477838974	Kolkata	West Bengal	Laptop	Electronics	5	55000	275000	2024-03-04 00:00:00	Pending	Cancelled	Store
+C0328	Anjali Chauhan	anjali.chauhan@gmail.com	9917580604	Bhopal	Madhya Pradesh	Keyboard	Electronics	4	1500	6000	2024-04-19 00:00:00	Refunded	Delivered	Marketplace
+C0873	Mohit Mehta	mohit.mehta@gmail.com	7621485146	Indore	Madhya Pradesh	Headphones	Electronics	4	2500	10000	2025-05-26 00:00:00	Refunded	Shipped	Marketplace
+C0291	Rohan Desai		9857659513	Indore	Madhya Pradesh	USB Drive	Accessories	1	900	900	2025-05-09 00:00:00	Cancelled	Processing	Marketplace
+C0706	Neha Verma	neha.verma@gmail.com	9465190755	Jaipur	Rajasthan	Backpack	Accessories	4	1800	7200	2025-05-21 00:00:00	Cancelled	Cancelled	Online
+C0830	Vikas Kumar	vikas.kumar@gmail.com	7904576318	Indore	Madhya Pradesh	USB Drive	Accessories	4	900	3600	2025-12-18 00:00:00	Paid	Shipped	Store
+C0745	Suresh Verma	suresh.verma@gmail.com	9831458506	Bhopal	Madhya Pradesh	Keyboard	Electronics	1	1500	1500	2025-07-15 00:00:00	Refunded	Processing	Store
+C0695	Sneha Mehta	sneha.mehta@gmail.com	8680890073	Delhi	DELHI	Monitor	Electronics	5	12000	60000	2024-10-16 00:00:00	Pending	Returned	Store
+C0100	Rohan Mehta	rohan.mehta@gmail.com	9492728925	Indore	MADHYA PRADESH	Laptop	Electronics	5	55000	275000	2025-04-13 00:00:00	Pending	Returned	Online
+C0453	Sneha Verma	sneha.verma@gmail.com	7622009556	Rajkot	Gujarat	Mouse	Electronics	4	800	3200	2026-01-22 00:00:00	Paid	Processing	Marketplace
+C0877	Aditya Patel	aditya.patel@gmail.com	9913352779	Lucknow	Uttar Pradesh	Keyboard	Electronics	7	1500	10500	2025-03-13 00:00:00	Pending	Delivered	Online
+C0365	Sneha Kumar	sneha.kumar@gmail.com	7225366046	Ahmedabad	Gujarat	Notebook	Stationery	6	120	720	2025-08-30 00:00:00	Refunded	Shipped	Marketplace
+C0740	Suresh Singh	suresh.singh@gmail.com	7145998097	Ahmedabad	Gujarat	Mouse	Electronics	7	800	5600	2025-05-15 00:00:00	Cancelled	Returned	Online
+C0669	Suresh Chauhan	suresh.chauhan@gmail.com	9971236252	Lucknow	Uttar Pradesh	Backpack	Accessories	2	1800	3600	2026-07-03 00:00:00	Refunded	Cancelled	Store
+C0648	Mohit Mehta	mohit.mehta@gmail.com	7049832004	Ahmedabad	Gujarat	Monitor	Electronics	2	12000	24000	2024-05-04 00:00:00	Refunded	Returned	Online
+C0024	Aditya Yadav	aditya.yadav@gmail.com	9459429548	Jaipur	Rajasthan	Headphones	Electronics	2	2500	5000	2026-03-24 00:00:00	Pending	Cancelled	Store
+C0661	Kavita Verma	kavita.verma@gmail.com	9454243528	Vadodara	Gujarat	Monitor	Electronics	6		72000	2024-06-03 00:00:00	Pending	Cancelled	Marketplace
+C0021	Suresh Gupta	suresh.gupta@gmail.com	9303892561	Lucknow	Uttar Pradesh	Notebook	Stationery	8	120	960	2024-03-06 00:00:00	Paid	Shipped	Marketplace
+C0920	Neha Kumar	neha.kumar@gmail	9573126110	Kolkata	West Bengal	Keyboard	Electronics	1	1500	1500	2025-07-22 00:00:00	Refunded	Processing	Online
+C0041	Rohan Yadav	rohan.yadav@gmail.com	7885750682	Chennai	Tamil Nadu	Keyboard	Electronics	2	1500	3000	2025-07-29 00:00:00	cancelled	Delivered	Online
+C0128	Nikhil Verma	nikhil.verma@gmail.com	8561476763	Bengaluru	Karnataka	Keyboard	Electronics	7	1500	10500	2025-04-11 00:00:00	Paid	Shipped	Store
+C0048	Nikhil Kaur	nikhil.kaur@gmail.com	8260129779	Chennai	Tamil Nadu	Notebook	Stationery	8	120	960	2024-05-23 00:00:00	Refunded	 Processing 	Marketplace
+C0933	Anjali Yadav	anjali.yadav@gmail.com	9311592151	Bengaluru	Karnataka	Mouse	Electronics	2	800	1600	2025-11-09 00:00:00	Paid	Shipped	Online
+C0193	Rohan Verma	rohan.verma@gmail.com	7924332531	Vadodara	Gujarat	Pen Set	Stationery	4	250	1000	2025-08-28 00:00:00	Cancelled	Processing	Online
+C0747	Isha Shah	isha.shah@gmail.com	7319372311	bengaluru	Karnataka	Headphones	Electronics	5	2500	12500	2025-01-25 00:00:00	Pending	Cancelled	Store
+C0086	Arjun Mishra	arjun.mishra@gmail.com	8826835815	Kolkata	West Bengal	Keyboard	Electronics	4	1500	6000	2024-03-13 00:00:00	Cancelled	Shipped	Marketplace
+C0382	Aditya Mishra	aditya.mishra@gmail.com	9782155716	Indore	Madhya Pradesh	Notebook	Stationery	3	120	360	2025-03-05 00:00:00	Pending	Processing	Store
+C0389	Rahul Yadav	rahul.yadav@gmail.com	8062994474	Ahmedabad	Gujarat	Headphones	Electronics	2	2500	5000	2025-06-28 00:00:00	Paid	Returned	Store
+C0068	Vikas Mishra	vikas.mishra@gmail.com	7382141089	Pune	Maharashtra	Smartphone	Electronics	5	28000	140000	2024-05-29 00:00:00	Pending	Processing	Online
+C0101	Suresh Singh	suresh.singh@gmail.com	8626213564	Ahmedabad	Gujarat	Monitor	Electronics	3	12000	36000	2025-06-23 00:00:00	Cancelled	Returned	Store
+C0098	Nikhil Mehta	nikhil.mehta@gmail.com	9457400192	Indore	Madhya Pradesh	Headphones	Electronics	5	2500	12500	2025-09-14 00:00:00	Paid	Delivered	Online
+C0326	Suresh Kumar	suresh.kumar@gmail.com	8482506257	Lucknow	Uttar Pradesh	USB Drive	Accessories	7		6300	2025-05-03 00:00:00	Pending	Processing	Online
+C0704	Nikhil Desai	nikhil.desai@gmail.com	7667829966	Chennai	Tamil Nadu	Keyboard	Electronics	3	1500	4500	2025-01-22 00:00:00	Cancelled	Delivered	Marketplace
+C0655	Anjali Desai	anjali.desai@gmail.com	8069926278	Chennai	Tamil Nadu	Pen Set	Stationery	7	250	1750	2025-12-24 00:00:00	Refunded	Shipped	Store
+C0363	Mohit Gupta	mohit.gupta@gmail.com	8231881066	Mumbai	Maharashtra	Office Chair	Furniture	4	8500	34000	2024-08-11 00:00:00	Paid	Processing	Store
+C0790	Vikas Reddy		7387150891	Chennai	Tamil Nadu	Monitor	Electronics	2	12000	24000	2026-01-17 00:00:00	pending	Delivered	Online
+C0590	Priya Patel	priya.patel@gmail.com		bengaluru	KARNATAKA	Desk	Furniture	1	12000	12000	2025-03-10 00:00:00	Pending	Cancelled	Store
+C0528	Riya Desai	riya.desai@gmail.com	7535546287	Delhi	Delhi	Laptop	Electronics	4	55000	220000	2026-05-01 00:00:00	Paid	Cancelled	Marketplace
+C0548	Anjali Singh	anjali.singh@gmail.com	9839721175	Bhopal	Madhya Pradesh	Notebook	Stationery	1	120	120	2025-09-13 00:00:00	Refunded	Shipped	Marketplace
+C0904	Nikhil Kaur	nikhil.kaur@gmail.com	7966662179	Vadodara	Gujarat	Monitor	Electronics	6	12000	72000	2026-05-09 00:00:00	Pending	Returned	Store
+C0053	Kavita Joshi	kavita.joshi@gmail	8628199646	Vadodara	Gujarat	Smartphone	Electronics	2	28000	56000	2024-12-12 00:00:00	Pending	Returned	Online
+C0298	Pooja Joshi	pooja.joshi@gmail.com	8260766339	Mumbai	Maharashtra	Mouse	Electronics	1	800	800	2026-01-25 00:00:00	Refunded	Shipped	Store
+C0659	Nikhil Reddy		7152166933	Bhopal	Madhya Pradesh	Desk	Furniture	8	12000	96000	2024-02-28 00:00:00	Cancelled	Delivered	Marketplace
+C0472	  Vikas Verma 	vikas.verma@gmail.com	8519957781	Ahmedabad	Gujarat	Laptop	Electronics	6	55000	330000	2026-01-09 00:00:00	Pending	Cancelled	Store
+C0010	Neha Shah	neha.shah@gmail.com	9113322013	Rajkot	Gujarat	Monitor	Electronics	3	12000	36000	2025-02-24 00:00:00	Paid	Cancelled	Online
+C0160	Arjun Singh	arjun.singh@gmail	9021635448	Delhi	Delhi	Smartphone	Electronics	5	28000	140000	2025-01-08 00:00:00	Refunded	Shipped	Marketplace
+C0832	Arjun Patel	arjun.patel@gmail.com	8883652701	Chennai	Tamil Nadu	Desk	Furniture	3	12000	36000	2024-05-23 00:00:00	Cancelled	Cancelled	Online
+C0368	Karan Patel	karan.patel@gmail.com	7814184372	Mumbai	Maharashtra	Laptop	Electronics	3	55000	165000	2025-02-08 00:00:00	Refunded	Processing	Online
+C0165	Karan Joshi	karan.joshi@gmail.com		Mumbai	Maharashtra	Monitor	Electronics	7	12000	84000	2025-05-15 00:00:00	Refunded	Shipped	Store
+C0770	Suresh Gupta	suresh.gupta@gmail.com	8670091632	Vadodara	Gujarat	Monitor	Electronics	2	12000	24000	2026-03-22 00:00:00	Paid	Shipped	Online
+C0353	Nikhil Sharma	nikhil.sharma@gmail.com	9939637388	Rajkot	Gujarat	Laptop	Electronics	6	55000	330000	2025-03-15 00:00:00	Paid	Cancelled	Store
+C0297	Pooja Joshi	pooja.joshi@gmail.com	7354828271	Lucknow	Uttar Pradesh	Office Chair	Furniture	4	8500	34000	2025-09-24 00:00:00	Pending	Returned	Online
+C0256	Arjun Chauhan	arjun.chauhan@gmail.com	7494007097	Indore	Madhya Pradesh	Headphones	Electronics	4	2500	10000	2025-11-13 00:00:00	Refunded	Shipped	Store
+C0724	Neha Desai	neha.desai@gmail.com	9157507853	Hyderabad	Telangana	Keyboard	Electronics	4	1500	6000	2026-05-25 00:00:00	Pending	Shipped	Online
+C0136	Suresh Sharma	suresh.sharma@gmail.com	8176226755	Rajkot	Gujarat	Keyboard	Electronics	7	1500	10500	2024-01-19 00:00:00	Pending	Delivered	Online
+C0390	Kavita Gupta	kavita.gupta@gmail.com	8316175308	Kolkata	West Bengal	Backpack	Accessories	4	1800	7200	2024-08-15 00:00:00	Cancelled	Cancelled	Store
+C0063	Nikhil Shah	nikhil.shah@gmail.com	9765414165	surat	Gujarat	Headphones	Electronics	2	2500	5000	2024-10-02 00:00:00	Cancelled	Processing	Store
+C0729	Kavita Singh	kavita.singh@gmail.com	8373706137	Bhopal	Madhya Pradesh	Laptop	Electronics	3	55000	165000	2024-02-11 00:00:00	Paid	Delivered	Marketplace
+C0763	Vikas Singh	vikas.singh@gmail.com	8225427052	Jaipur	Rajasthan	Headphones	Electronics	2	2500	5000	2025-03-17 00:00:00	Pending	Processing	Store
+C0373	Vikas Verma	vikas.verma@gmail.com	7479011764	Ahmedabad	Gujarat	Backpack	Accessories	1	1800	1800	2025-11-30 00:00:00	Pending	Processing	Store
+C0760	Anjali Desai	anjali.desai@gmail.com	9529353797	Bengaluru	Karnataka	Pen Set	Stationery	6	250	1500	2024-08-31 00:00:00	Cancelled	Shipped	Marketplace
+C0394	Amit Kaur	amit.kaur@gmail.com	7456836428	Vadodara	Gujarat	Backpack	Accessories	2	1800	3600	2024-02-12 00:00:00	Pending	Shipped	Marketplace
+C0457	Neha Patel	neha.patel@gmail.com	9347539024	Hyderabad	Telangana	Smartphone	Electronics	5	28000	140000	2026-01-12 00:00:00	Refunded	Shipped	Marketplace
+C0739	Rohan Sharma	rohan.sharma@gmail.com	7549034032	Rajkot	Gujarat	Office Chair	Furniture	5	8500	42500	2026-06-17 00:00:00	Cancelled	Processing	Store
+C0645	Neha Kaur	neha.kaur@gmail.com	8873145919	Ahmedabad	Gujarat	Desk	Furniture	7	12000	84000	2025-06-20 00:00:00	Paid	Shipped	Marketplace
+C0281	Rohan Verma	rohan.verma@gmail.com	7195185743	Hyderabad	Telangana	Laptop	Electronics	4	55000	220000	2026-01-28 00:00:00	Refunded	Cancelled	Marketplace
+C0546	Nikhil Patel	nikhil.patel@gmail.com	7710895332	Jaipur	Rajasthan	Notebook	Stationery	7	120	840	2025-07-29 00:00:00	Refunded	Cancelled	Marketplace
+C0279	Karan Kumar	karan.kumar@gmail.com	7015464229	Vadodara	Gujarat	Pen Set	Stationery	4	250	1000	2025-08-29 00:00:00	Paid	Returned	Store
+C0516	Nikhil Verma	nikhil.verma@gmail.com	8303136758	Indore	Madhya Pradesh	Mouse	Electronics	5	800	4000	2025-12-26 00:00:00	Cancelled	Returned	Online
+C0176	Meena Sharma	meena.sharma@gmail.com	9291647639	Rajkot	Gujarat	Headphones	Electronics	1	2500	2500	2025-10-16 00:00:00	Pending	Processing	Online
+C0277	Priya Mishra	priya.mishra@gmail.com	8069481523	Indore	Madhya Pradesh	Mouse	Electronics	2	800	1600	2024-01-02 00:00:00	Cancelled	Returned	Store
+C0333	Amit Desai	amit.desai@gmail.com	9359118468	Mumbai	Maharashtra	USB Drive	Accessories	3	900	2700	2025-02-22 00:00:00	cancelled	Processing	Online
+C0641	Rahul Reddy	rahul.reddy@gmail.com	8526788512	Rajkot	Gujarat	USB Drive	Accessories	5	900	4500	2024-06-29 00:00:00	Cancelled	Delivered	Marketplace
+C0674	Aditya Patel	aditya.patel@gmail.com	9955433092	Delhi	Delhi	Backpack	Accessories	5		9000	2026-09-06 00:00:00	Pending	Cancelled	Online
+C0333	Arjun Singh	arjun.singh@gmail.com	9498226986	Chennai	Tamil Nadu	Office Chair	Furniture	3	8500	25500	2025-04-01 00:00:00	Pending	Cancelled	Store
+C0152	Sneha Patel	sneha.patel@gmail.com	9130137051	Vadodara	Gujarat	Desk	Furniture	3	12000	36000	2026-04-15 00:00:00	Pending	Shipped	Marketplace
+C0503	Simran Mishra	simran.mishra@gmail.com	8211370833	Surat	Gujarat	Headphones	Electronics	3	2500	7500	2024-06-30 00:00:00	Refunded	Returned	Online
+C0072	Rohan Patel	rohan.patel@gmail.com	8831352713	Rajkot	Gujarat	Desk	Furniture	7	12000	84000	2024-04-12 00:00:00	Pending	Delivered	Marketplace
+C0103	Suresh Shah	suresh.shah@gmail.com	7088974176	Ahmedabad	Gujarat	Laptop	Electronics	1	55000	55000	2024-05-15 00:00:00	Pending	Delivered	Store
+C0147	Isha Sharma	isha.sharma@gmail.com	7040356227	Lucknow	Uttar Pradesh	Monitor	Electronics	6	12000	72000	2026-05-23 00:00:00	Paid	Shipped	Online
+C0492	Aditya Kaur	aditya.kaur@gmail.com	8908366487	Indore	Madhya Pradesh	Keyboard	Electronics	5	1500	7500	2024-12-05 00:00:00	Refunded	Shipped	Online
+C0058	Riya Desai	riya.desai@gmail.com	8148717504	Chennai	Tamil Nadu	Notebook	Stationery	2	120	240	2024-01-22 00:00:00	Paid	Delivered	Marketplace
+C0304	Neha Gupta	neha.gupta@gmail.com	8783634101	Vadodara	Gujarat	Laptop	Electronics	4	55000	220000	2024-01-25 00:00:00	Pending	Cancelled	Store
+C0151	  Anjali Mishra 	anjali.mishra@gmail.com	8231995081	Rajkot	Gujarat	Backpack	Accessories	7	1800	12600	2025-12-04 00:00:00	Paid	Cancelled	Online
+C0113	Meena Patel	meena.patel@gmail.com	8210383091	Pune	Maharashtra	Monitor	Electronics	6	12000	72000	2024-05-01 00:00:00	Cancelled	Delivered	Online
+C0620	Rohan Kumar	rohan.kumar@gmail.com	8840944980	Bengaluru	Karnataka	Smartphone	Electronics	3	28000	83900	2025-11-26 00:00:00	Refunded	Shipped	Marketplace
+C0704	Pooja Yadav	pooja.yadav@gmail.com	8232679456	Pune	Maharashtra	Monitor	Electronics	5	12000	60000	2025-05-26 00:00:00	Cancelled	Processing	Marketplace
+C0818	Amit Chauhan	amit.chauhan@gmail.com	7009357712	Indore	Madhya Pradesh	Keyboard	Electronics	3	1500	4500	2024-11-23 00:00:00	Pending	Cancelled	Store
+C0739	Sneha Reddy	sneha.reddy@gmail.com	7289109870	Ahmedabad	Gujarat	Pen Set	Stationery	7	250	1750	2026-01-14 00:00:00	Cancelled	Shipped	Online
+C0331	Rohan Kumar	rohan.kumar@gmail.com	8653637143	Pune	Maharashtra	Smartphone	Electronics	8	28000	224000	2025-03-10 00:00:00	Refunded	Cancelled	Marketplace
+C0813	Vikas Kumar	vikas.kumar@gmail.com	9808711981	Bhopal	Madhya Pradesh	Mouse	Electronics	7	800	5600	2025-03-04 00:00:00	Refunded	Returned	Marketplace
+C0505	Riya Gupta	riya.gupta@gmail.com	7988334328	Delhi	Delhi	Monitor	Electronics	7	12000	84000	2025-06-23 00:00:00	Pending	Delivered	Online
+C0371	Rahul Singh	rahul.singh@gmail.com	7073678674	Pune	Maharashtra	Notebook	Stationery	8	120	960	2024-05-16 00:00:00	Paid	Delivered	Store
+C0370	Rohan Verma	rohan.verma@gmail.com	8977353085	Vadodara	Gujarat	Notebook	Stationery	7	120	840	2024-09-05 00:00:00	Pending	Shipped	Online
+C0765	Rohan Patel	rohan.patel@gmail.com	9988355499	Kolkata	West Bengal	Keyboard	Electronics	7	1500	10500	2026-01-20 00:00:00	Paid	Cancelled	Store
+C0056	Neha Mishra	neha.mishra@gmail.com		Ahmedabad	Gujarat	Desk	Furniture	3	12000	36500	2024-01-31 00:00:00	Pending	Processing	Online
+C0081	Meena Patel	meena.patel@gmail.com	7053591309	Hyderabad	Telangana	Office Chair	Furniture	3	8500	25500	2026-02-22 00:00:00	Pending	Cancelled	Marketplace
+C0144	Nikhil Desai	nikhil.desai@gmail.com	8286375772	Jaipur	Rajasthan	Office Chair	Furniture	6	8500	51000	2025-03-30 00:00:00	Paid	Processing	Online
+C0160	Priya Kaur	priya.kaur@gmail.com	9759320154	Surat	Gujarat	Pen Set	Stationery	3	250	750	2025-05-30 00:00:00	Pending	Delivered	Store
+C0853	Kavita Mishra	kavita.mishra@gmail.com	8951188654	Bengaluru	KARNATAKA	USB Drive	Accessories	5	900	4500	2025-08-08 00:00:00	Cancelled	Shipped	Store
+C0161	Arjun Patel	arjun.patel@gmail.com	9239829921	Delhi	Delhi	Keyboard	Electronics	4	1500	6000	2025-02-14 00:00:00	Paid	Shipped	Store
+C0189	Riya Yadav	riya.yadav@gmail.com	7331611163	Indore	Madhya Pradesh	USB Drive	Accessories	8	900	7200	2025-05-03 00:00:00	Cancelled	Cancelled	Store
+C0169	Priya Chauhan	priya.chauhan@gmail.com	8595486432	Chennai	Tamil Nadu	Office Chair	Furniture	4	8500	34000	2024-10-03 00:00:00	Paid	Delivered	Online
+C0372	Isha Chauhan	isha.chauhan@gmail.com	8440839808	Surat	Gujarat	Mouse	Electronics	5	800	4000	2024-06-15 00:00:00	Paid	Delivered	Online
+C0612	Rahul Chauhan		8327660794	Rajkot	Gujarat	Notebook	Stationery	4	120	480	2025-10-15 00:00:00	Paid	Shipped	Store
+C0088	Aditya Yadav	aditya.yadav@gmail.com	7192734662	Hyderabad	Telangana	Desk	Furniture	1	12000	12000	2024-02-19 00:00:00	Cancelled	Delivered	Store
+C0009	Anjali Chauhan		8212908107	Delhi	Delhi	Notebook	Stationery	4	120	480	2024-11-18 00:00:00	Refunded	Processing	Online
+C0720	Neha Mehta	neha.mehta@gmail.com	8749282456	Bhopal	Madhya Pradesh	USB Drive	Accessories	2	900	1800	2025-05-29 00:00:00	Pending	Delivered	Marketplace
+C0816	Suresh Joshi	suresh.joshi@gmail.com	9518389281	Indore	Madhya Pradesh	Laptop	Electronics	5	55000	275000	2024-06-14 00:00:00	Pending	Cancelled	Online
+C0907	Amit Desai	amit.desai@gmail.com	7994585896	Bhopal	Madhya Pradesh	Mouse	Electronics	3	800	2400	2026-02-26 00:00:00	Pending	Returned	Marketplace
+C0747	Isha Mishra	isha.mishra@gmail.com	9247500903	Bhopal	Madhya Pradesh	Smartphone	Electronics	8	28000	224000	2026-03-15 00:00:00	Pending	Processing	Store
+C0369	Isha Reddy	isha.reddy@gmail.com	8850707619	Surat	Gujarat	USB Drive	Accessories	7	900	6300	2024-01-09 00:00:00	Pending	Returned	Marketplace
+C0077	Rohan Yadav	rohan.yadav@gmail.com	9696335973	Jaipur	Rajasthan	Monitor	Electronics	1	12000	12000	2024-05-26 00:00:00	Cancelled	Returned	Online
+C0511	Neha Joshi	neha.joshi@gmail.com	8347411580	Vadodara	Gujarat	Headphones	Electronics	3	2500	7500	2024-03-10 00:00:00	Cancelled	Returned	Store
+C0362	Amit Patel	amit.patel@gmail.com	7769599093	Kolkata	West Bengal	Desk	Furniture	5	12000	60000	2025-04-29 00:00:00	Cancelled	Cancelled	Marketplace
+C0947	Rohan Patel	rohan.patel@gmail.com	9442691577	Jaipur	Rajasthan	Laptop	Electronics	6	55000	330000	2026-05-29 00:00:00	Cancelled	Cancelled	Store
+C0878	Isha Kaur	isha.kaur@gmail.com	9923089394	Vadodara	Gujarat	Desk	Furniture	6	12000	72000	2025-08-06 00:00:00	Cancelled	 Processing 	Online
+C0699	Kavita Gupta		8933131613	Mumbai	Maharashtra	Backpack	Accessories	1	1800	1800	2025-09-27 00:00:00	Paid	Shipped	Marketplace
+C0841	Riya Sharma		7663839732	Indore	Madhya Pradesh	Monitor	Electronics	5	12000	60000	2025-01-19 00:00:00	Pending	Returned	Store
+C0875	Amit Singh	amit.singh@gmail.com	8667405065	Indore	Madhya Pradesh	Desk	Furniture	2	12000	24000	2024-12-23 00:00:00	Refunded	Cancelled	Marketplace
+C0548	Mohit Patel	mohit.patel@gmail.com	7368605032	Vadodara	Gujarat	USB Drive	Accessories	2	900	1800	2025-02-10 00:00:00	Refunded	Shipped	Store
+C0337	Amit Mehta	amit.mehta@gmail.com	8470697907	Hyderabad	Telangana	Desk	Furniture	4	12000	48000	2025-12-20 00:00:00	Refunded	Delivered	Store
+C0466	Priya Gupta	priya.gupta@gmail.com	7668902988	Jaipur	Rajasthan	Keyboard	Electronics	4	1500	6000	2024-11-23 00:00:00	Paid	Returned	Store
+C0064	Anjali Chauhan	anjali.chauhan@gmail.com	8847307234	Jaipur	Rajasthan	Mouse	Electronics	1	800	800	2024-08-04 00:00:00	Paid	Cancelled	Store
+C0259	Simran Patel	simran.patel@gmail.com	7608759619	Ahmedabad	Gujarat	Headphones	Electronics	7	2500	17500	2024-03-24 00:00:00	Cancelled	Cancelled	Store
+C0538	Karan Mishra	karan.mishra@gmail.com	8114317366	Vadodara	Gujarat	Laptop	Electronics	2	55000	110000	2025-03-14 00:00:00	Cancelled	Processing	Online
+C0204	Anjali Shah	anjali.shah@gmail.com	9068564728	Jaipur	Rajasthan	Notebook	Stationery	3	120	360	2025-12-14 00:00:00	Refunded	Processing	Marketplace
+C0585	Suresh Reddy	suresh.reddy@gmail.com	7042655516	Bengaluru	Karnataka	Pen Set	Stationery	4	250	1000	2024-03-20 00:00:00	Pending	Processing	Marketplace
+C0844	Vikas Sharma	vikas.sharma@gmail.com	7646419523	Bhopal	Madhya Pradesh	Desk	Furniture	3	12000	36000	2025-05-26 00:00:00	Cancelled	Delivered	Marketplace
+C0417	Arjun Gupta	arjun.gupta@gmail.com	7015792126	Jaipur	Rajasthan	Keyboard	Electronics	8	1500	12000	2025-10-16 00:00:00	Paid	Delivered	Online
+C0764	Karan Shah	karan.shah@gmail.com	9991213165	Bengaluru	Karnataka	Keyboard	Electronics	7	1500	10500	2024-08-09 00:00:00	Cancelled	Shipped	Online
+C0696	Aditya Sharma		8590239196	Indore	Madhya Pradesh	Smartphone	Electronics	1	28000	28000	2024-11-05 00:00:00	Cancelled	Returned	Online
+C0717	Sneha Mishra	sneha.mishra@gmail.com	8958494300	Delhi	Delhi	Office Chair	Furniture	6	8500	51000	2024-12-26 00:00:00	Refunded	Returned	Store
+C0117	Simran Joshi	simran.joshi@gmail.com	8839893630	Pune	Maharashtra	Keyboard	Electronics	3	1500	4500	2025-07-09 00:00:00	Refunded	Cancelled	Store
+C0866	Kavita Mishra	kavita.mishra@gmail	8216542443	Kolkata	West Bengal	Pen Set	Stationery	2	250	500	2024-03-30 00:00:00	Paid	Delivered	Marketplace
+C0017	Isha Kaur	isha.kaur@gmail.com		Ahmedabad	Gujarat	Desk	Furniture	2	12000	24000	2025-10-10 00:00:00	Refunded	Returned	Marketplace
+C0826	Priya Mishra	priya.mishra@gmail.com		Indore	Madhya Pradesh	Office Chair	Furniture	4	8500	34000	2024-08-16 00:00:00	Refunded	Returned	Store
+C0118	Karan Reddy	karan.reddy@gmail.com	9016806007	Ahmedabad	Gujarat	Smartphone	Electronics	8	28000	224000	2025-02-26 00:00:00	Refunded	Delivered	Store
+C0801	  Meena Gupta 	meena.gupta@gmail.com	8218071716	Mumbai	Maharashtra	Backpack	Accessories	5	1800	9000	2024-11-10 00:00:00	refunded	Shipped	Online
+C0922	Kavita Sharma	kavita.sharma@gmail.com	7066701133	surat	Gujarat	Keyboard	Electronics	6	1500	9000	2026-05-10 00:00:00	Cancelled	Processing	Online
+C0586	Kavita Singh	kavita.singh@gmail.com	9386883320	Delhi	Delhi	Mouse	Electronics	7	800	5600	2026-04-28 00:00:00	Paid	Returned	Store
+C0132	Suresh Desai	suresh.desai@gmail.com	7746109986	Delhi	Delhi	Smartphone	Electronics	3	28000	84000	2025-03-23 00:00:00	Pending	Delivered	Marketplace
+C0821	Rohan Gupta	rohan.gupta@gmail.com	7508406998	Chennai	Tamil Nadu	Pen Set	Stationery	7	250	2250	2026-05-13 00:00:00	Cancelled	 Returned 	Online
+C0331	Karan Patel	karan.patel@gmail.com	7400571893	Surat	Gujarat	Office Chair	Furniture	1	8500	9000	2025-10-05 00:00:00	Pending	Delivered	Marketplace
+C0725	Riya Kaur	riya.kaur@gmail.com	7338325319	Hyderabad	Telangana	Office Chair	Furniture	1	8500	8500	2026-01-30 00:00:00	Pending	Cancelled	Marketplace
+C0647	Anjali Kumar	anjali.kumar@gmail.com	8029597663	Chennai	Tamil Nadu	Mouse	Electronics	5	800	4000	2024-07-17 00:00:00	Pending	Cancelled	Store
+C0676	Priya Verma	priya.verma@gmail.com	7356324947	Bhopal	Madhya Pradesh	Keyboard	Electronics	1	1500	1500	2025-10-15 00:00:00	Paid	Delivered	Store
+C0950	Isha Patel	isha.patel@gmail.com	7459890737	Vadodara	Gujarat	Headphones	Electronics	5	2500	12500	2024-07-03 00:00:00	Paid	Delivered	Store
+C0865	Anjali Kaur	anjali.kaur@gmail.com	7893234908	Delhi	Delhi	Monitor	Electronics	8	12000	96000	2026-03-25 00:00:00	Paid	Cancelled	Online
+C0499	Amit Singh	amit.singh@gmail.com	9952087412	Delhi	Delhi	Office Chair	Furniture	6	8500	51000	2025-10-10 00:00:00	Refunded	Shipped	Online
+C0306	Rahul Kaur	rahul.kaur@gmail.com	7767412175	chennai	Tamil Nadu	Pen Set	Stationery	1	250	250	2024-04-30 00:00:00	Cancelled	Processing	Store
+C0629	Isha Gupta	isha.gupta@gmail.com	7021537349	Vadodara	Gujarat	Notebook	Stationery	5	120	600	2024-05-04 00:00:00	Pending	Returned	Online
+C0549	Rahul Gupta	rahul.gupta@gmail.com	9197926822	lucknow	Uttar Pradesh	Keyboard	Electronics	4	1500	6000	2026-06-06 00:00:00	Cancelled	Delivered	Online
+C0031	Vikas Kumar	vikas.kumar@gmail.com	7943866804	Ahmedabad	Gujarat	USB Drive	Accessories	3	900	2700	2024-01-10 00:00:00	Cancelled	Cancelled	Online
+C0095	Anjali Desai	anjali.desai@gmail.com	9368662050	Chennai	Tamil Nadu	Headphones	Electronics	8	2500	20000	2026-02-02 00:00:00	Refunded	Cancelled	Marketplace
+C0410	Karan Verma	karan.verma@gmail.com	7742855478	Rajkot	Gujarat	Backpack	Accessories	5	1800	9000	2025-02-06 00:00:00	Paid	Returned	Marketplace
+C0866	Kavita Mishra	kavita.mishra@gmail	8216542443	Kolkata	West Bengal	Pen Set	Stationery	2	250	500	2024-03-30 00:00:00	Paid	Delivered	Marketplace
+C0415	Isha Desai	isha.desai@gmail	9090457198	Mumbai	Maharashtra	Pen Set	Stationery	6	250	1500	2025-12-08 00:00:00	Refunded	Processing	Online
+C0468	Riya Kumar		8647489402	Rajkot	Gujarat	Pen Set	Stationery	3	250	750	2026-06-03 00:00:00	Paid	Processing	Store
+C0275	Amit Mehta	amit.mehta@gmail.com	8471982906	Vadodara	Gujarat	Monitor	Electronics	7	12000	84000	2025-02-13 00:00:00	Refunded	Processing	Store
+C0451	  Amit Desai 	amit.desai@gmail.com	8227193073	Rajkot	Gujarat	Headphones	Electronics	6	2500	15000	2024-11-23 00:00:00	Paid	Shipped	Online
+C0503	Simran Mishra	simran.mishra@gmail.com	8211370833	Surat	Gujarat	Headphones	Electronics	3	2500	7500	2024-06-30 00:00:00	Refunded	Returned	Online
+C0561	Aditya Kumar	aditya.kumar@gmail.com	9431561831	Indore	Madhya Pradesh	Desk	Furniture	6	12000	72000	2025-11-29 00:00:00	Paid	Delivered	Online
+C0592	Rohan Verma	rohan.verma@gmail.com	7041580252	Jaipur	Rajasthan	Backpack	Accessories	6	1800	10800	2024-12-13 00:00:00	Pending	Cancelled	Store
+C0259	Karan Joshi	karan.joshi@gmail.com	8297703275	Chennai	Tamil Nadu	Notebook	Stationery	7	120	840	2025-08-21 00:00:00	Paid	Delivered	Marketplace
+C0503	Kavita Desai	kavita.desai@gmail.com	8331874973	Bhopal	Madhya Pradesh	Backpack	Accessories	3	1800	5400	2025-01-02 00:00:00	Paid	Processing	Marketplace
+C0148	Neha Kumar	neha.kumar@gmail.com	7919589589	Mumbai	Maharashtra	Desk	Furniture	7	12000	84000	2024-09-17 00:00:00	Paid	Cancelled	Marketplace
+C0286	Amit Chauhan	amit.chauhan@gmail.com	8198832728	Pune	Maharashtra	Backpack	Accessories	7	1800	12600	2025-11-26 00:00:00	Cancelled	Delivered	Online
+C0413	Pooja Gupta	pooja.gupta@gmail.com	7546696950	Rajkot	Gujarat	Office Chair	Furniture	7	8500	59500	2025-11-24 00:00:00	Pending	Returned	Marketplace
+C0185	Kavita Kaur	kavita.kaur@gmail.com	7330005804	Rajkot	Gujarat	Desk	Furniture	2	12000	24000	2024-12-02 00:00:00	Paid	Processing	Marketplace
+C0563	Sneha Chauhan	sneha.chauhan@gmail.com	9308620882	Lucknow	Uttar Pradesh	Backpack	Accessories	4	1800	7200	2026-02-19 00:00:00	Pending	Returned	Online
+C0926	Karan Mehta	karan.mehta@gmail.com	9913305623	Hyderabad	Telangana	Desk	Furniture	8	12000	96000	2026-02-26 00:00:00	Cancelled	Cancelled	Marketplace
+C0232	Isha Singh	isha.singh@gmail.com	8953175066	Bhopal	Madhya Pradesh	Office Chair	Furniture	1	8500	8500	2024-09-24 00:00:00	Pending	Cancelled	Marketplace
+C0504	Meena Sharma			Lucknow	Uttar Pradesh	Headphones	Electronics	8	2500	20000	2024-03-09 00:00:00	Cancelled	Returned	Store
+C0481	Rohan Reddy	rohan.reddy@gmail.com	8388330907	Kolkata	West Bengal	Office Chair	Furniture	4	8500	34000	2025-12-31 00:00:00	Refunded	Cancelled	Marketplace
+C0281	Karan Chauhan	karan.chauhan@gmail.com	7724156214	Hyderabad	Telangana	Keyboard	Electronics	8	1500	12000	2026-03-15 00:00:00	Paid	Shipped	Marketplace
+C0256	Amit Mehta		8102337464	Lucknow	Uttar Pradesh	Monitor	Electronics	1	12000	12000	2024-02-19 00:00:00	Refunded	Cancelled	Marketplace
+C0392	Nikhil Mishra	nikhil.mishra@gmail.com	9630445805	Indore	Madhya Pradesh	Backpack	Accessories	4	1800	7200	2025-03-03 00:00:00	Pending	Returned	Online
+C0394	Anjali Singh	anjali.singh@gmail.com	7797966424	Delhi	Delhi	Pen Set	Stationery	1	250	250	2025-08-14 00:00:00	Refunded	Shipped	Marketplace
+C0057	Sneha Reddy	sneha.reddy@gmail.com	9434757387	Vadodara	Gujarat	Smartphone	Electronics	3	28000	84000	2024-09-18 00:00:00	Paid	Returned	Marketplace
+C0779	Neha Joshi	neha.joshi@gmail.com	7714531298	Kolkata	West Bengal	Headphones	Electronics	1	2500	2500	2024-02-17 00:00:00	Cancelled	Delivered	Store
+C0694	Riya Mehta	riya.mehta@gmail.com	8648606935	Lucknow	Uttar Pradesh	USB Drive	Accessories	3	900	2700	2026-03-20 00:00:00	Paid	Returned	Marketplace
+C0514	Arjun Shah	arjun.shah@gmail.com	9345766219	Hyderabad	Telangana	Smartphone	Electronics	1	28000	28000	2024-02-08 00:00:00	Refunded	Processing	Online
+C0808	Anjali Chauhan	anjali.chauhan@gmail.com	8884283304	Kolkata	West Bengal	Mouse	Electronics	1	800	800	2025-06-12 00:00:00	Refunded	Processing	Marketplace
+C0873	Neha Patel	neha.patel@gmail.com	7676952884	Lucknow	Uttar Pradesh	Backpack	Accessories	5	1800	9000	2026-04-26 00:00:00	paid	Shipped	Store
+C0353	Isha Mishra	isha.mishra@gmail.com	7103967542	Lucknow	Uttar Pradesh	Headphones	Electronics	3	2500	7500	2024-12-24 00:00:00	Refunded	Returned	Online
+C0457	Priya Verma	priya.verma@gmail.com	8888670721	Jaipur	Rajasthan	Headphones	Electronics	4	2500	10000	2026-05-07 00:00:00	Cancelled	 Returned 	Online
+C0912	Riya Yadav	riya.yadav@gmail.com	8111065867	Rajkot	Gujarat	Headphones	Electronics	7	2500	17500	2025-06-01 00:00:00	Paid	Delivered	Store
+C0533	Vikas Mishra	vikas.mishra@gmail.com	9964722828	Vadodara	Gujarat	Smartphone	Electronics	1	28000	28000	2025-11-19 00:00:00	Paid	Delivered	Online
+C0469	Karan Mishra	karan.mishra@gmail.com	8540133116	Mumbai	Maharashtra	Mouse	Electronics	6	800	4800	2024-05-10 00:00:00	Paid	Returned	Online
+C0266	Amit Sharma	amit.sharma@gmail.com	7276905285	Rajkot	Gujarat	Backpack	Accessories	8	1800	14400	2026-04-08 00:00:00	Pending	Delivered	Store
