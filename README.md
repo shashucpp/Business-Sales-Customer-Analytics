@@ -49,7 +49,6 @@ The analytical problem is to answer:
 | Area | Tools |
 |---|---|
 | Data Cleaning | Python, Pandas, NumPy |
-| Visualization | Seaborn, Matplotlib |
 | Dashboarding | Power BI |
 | Version Control | GitHub |
 
@@ -121,11 +120,9 @@ A duplicate-looking `Customer_ID + Product + Order_Date` combination should **no
 
 ---
 
-# Dashboard Representation
 
-📊 **View Project Dashboard** → [Dashboard](powerbi/Dashboard.pbix)
 
-📁 **View Project Folder** → [Project Folder](.)
+---
 
 # 🔎 4. Business Insights
 
